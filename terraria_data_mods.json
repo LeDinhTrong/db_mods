@@ -3,12 +3,12 @@
         "id": "d16562a9-c73f-4238-9ced-ef89effdec8a",
         "type_id": "4",
         "name": "Jojos Caesar Sound",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/jojos_caesar_sound/jojos_caesar_sound.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jojos_caesar_sound/jojos_caesar_sound.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/jojos_caesar_sound/jojos_caesar_sound.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jojos_caesar_sound/jojos_caesar_sound.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/jojos_caesar_sound/jojos_caesar_sound.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jojos_caesar_sound/jojos_caesar_sound.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -27,12 +27,12 @@
         "id": "b7114391-f4f0-4ff4-a63d-c9fdb0ed96c9",
         "type_id": "4",
         "name": "Calamity Mod v2.0.1.3",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/calamity/calamity.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity/calamity.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/calamity/calamity_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity/calamity_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/calamity/calamity.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity/calamity.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -51,12 +51,12 @@
         "id": "cde490a4-1b12-4f45-9bbd-8d678f10efdf",
         "type_id": "4",
         "name": "Overhaul v5.0",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/overhaul_v5_0/overhaul_v5_0.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overhaul_v5_0/overhaul_v5_0.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/overhaul_v5_0/overhaul_v5_0.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overhaul_v5_0/overhaul_v5_0.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/overhaul_v5_0/overhaul_v5_0.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overhaul_v5_0/overhaul_v5_0.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -75,12 +75,12 @@
         "id": "b70ee922-e7b3-45a3-ad6f-55654b9e9266",
         "type_id": "4",
         "name": "Bizarre Adventure v0.0.6.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/bizarre_adventure_v0_0_6_1/bizarre_adventure_v0_0_6_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/bizarre_adventure_v0_0_6_1/bizarre_adventure_v0_0_6_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/bizarre_adventure_v0_0_6_1/bizarre_adventure_v0_0_6_1.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/bizarre_adventure_v0_0_6_1/bizarre_adventure_v0_0_6_1.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/bizarre_adventure_v0_0_6_1/bizarre_adventure_v0_0_6_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/bizarre_adventure_v0_0_6_1/bizarre_adventure_v0_0_6_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -99,12 +99,12 @@
         "id": "e7d57a0d-7bb9-4b0d-8c6e-e3faa5992d9a",
         "type_id": "4",
         "name": "JoJoStands v0.3.3.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/jojo_stands_v0_3_3_1/jojo_stands_v0_3_3_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jojo_stands_v0_3_3_1/jojo_stands_v0_3_3_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/jojo_stands_v0_3_3_1/jojo_stands_v0_3_3_1.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jojo_stands_v0_3_3_1/jojo_stands_v0_3_3_1.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/jojo_stands_v0_3_3_1/jojo_stands_v0_3_3_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jojo_stands_v0_3_3_1/jojo_stands_v0_3_3_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -123,12 +123,12 @@
         "id": "827124c5-e98d-4143-bc02-86d7540e728e",
         "type_id": "4",
         "name": "SGAmod v 3.630",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/SGAmod_v3_630/SGAmod_v3_630.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/SGAmod_v3_630/SGAmod_v3_630.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/SGAmod_v3_630/SGAmod_v3_630.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/SGAmod_v3_630/SGAmod_v3_630.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/SGAmod_v3_630/SGAmod_v3_630.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/SGAmod_v3_630/SGAmod_v3_630.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -147,12 +147,12 @@
         "id": "0d896205-447e-4c52-9054-f3067084778f",
         "type_id": "4",
         "name": "Cheat Panel (Cheat Sheet v0.6.6.4)",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/cheat_panel/cheat_panel.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_panel/cheat_panel.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/cheat_panel/cheat_panel.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_panel/cheat_panel.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/cheat_panel/cheat_panel.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_panel/cheat_panel.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -171,12 +171,12 @@
         "id": "022c691b-fe04-47df-9795-6094d6b10fcf",
         "type_id": "4",
         "name": "SPLIT v 0.4.1.10",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/split_v0_4_1_10/split_v0_4_1_10.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_v0_4_1_10/split_v0_4_1_10.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/split_v0_4_1_10/split_v0_4_1_10.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_v0_4_1_10/split_v0_4_1_10.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/split_v0_4_1_10/split_v0_4_1_10.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_v0_4_1_10/split_v0_4_1_10.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -195,12 +195,12 @@
         "id": "26dae149-08d9-4c8b-abf7-a10286087daf",
         "type_id": "4",
         "name": "Calamity v1.5",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/calamity_v1_5/calamity_v1_5.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_v1_5/calamity_v1_5.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/calamity_v1_5/calamity_v1_5.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_v1_5/calamity_v1_5.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/calamity_v1_5/calamity_v1_5.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_v1_5/calamity_v1_5.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -219,12 +219,12 @@
         "id": "b6da5ce2-ae02-44ba-b3eb-66be5db6300d",
         "type_id": "4",
         "name": "Dancing With The Dragon v0.38",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/dancing_with_the_dragon_v0_38/dancing_with_the_dragon_v0_38.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dancing_with_the_dragon_v0_38/dancing_with_the_dragon_v0_38.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/dancing_with_the_dragon_v0_38/dancing_with_the_dragon_v0_38.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dancing_with_the_dragon_v0_38/dancing_with_the_dragon_v0_38.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/dancing_with_the_dragon_v0_38/dancing_with_the_dragon_v0_38.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dancing_with_the_dragon_v0_38/dancing_with_the_dragon_v0_38.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -243,12 +243,12 @@
         "id": "8d72b27a-0302-487e-bb43-aad1a15fe8c8",
         "type_id": "4",
         "name": "Archery Overhaul Mod v1.0.23",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/archery_overhaul_mod_v1_0_23/archery_overhaul_mod_v1_0_23.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/archery_overhaul_mod_v1_0_23/archery_overhaul_mod_v1_0_23.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/archery_overhaul_mod_v1_0_23/archery_overhaul_mod_v1_0_23.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/archery_overhaul_mod_v1_0_23/archery_overhaul_mod_v1_0_23.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/archery_overhaul_mod_v1_0_23/archery_overhaul_mod_v1_0_23.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/archery_overhaul_mod_v1_0_23/archery_overhaul_mod_v1_0_23.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -267,12 +267,12 @@
         "id": "96b783a6-d4a0-45bd-b64b-f2a03c529008",
         "type_id": "4",
         "name": "Providence 0.1.8.0",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/providence_0_1_8_0/providence_0_1_8_0.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/providence_0_1_8_0/providence_0_1_8_0.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/providence_0_1_8_0/providence_0_1_8_0.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/providence_0_1_8_0/providence_0_1_8_0.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/providence_0_1_8_0/providence_0_1_8_0.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/providence_0_1_8_0/providence_0_1_8_0.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -291,12 +291,12 @@
         "id": "dd6cf1c7-d381-4c2d-8db1-674628342b6c",
         "type_id": "4",
         "name": "Castled's Equilibrium v0.9.4",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/castleds_equilibrium_v0_9_4/castleds_equilibrium_v0_9_4.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/castleds_equilibrium_v0_9_4/castleds_equilibrium_v0_9_4.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/castleds_equilibrium_v0_9_4/castleds_equilibrium_v0_9_4.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/castleds_equilibrium_v0_9_4/castleds_equilibrium_v0_9_4.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/castleds_equilibrium_v0_9_4/castleds_equilibrium_v0_9_4.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/castleds_equilibrium_v0_9_4/castleds_equilibrium_v0_9_4.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -315,12 +315,12 @@
         "id": "0788a7de-ad1f-4842-8ce6-c39757c321cf",
         "type_id": "4",
         "name": "Anarchist mod v1.0.2",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/anarchist_mod_v1_0_2/anarchist_mod_v1_0_2.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/anarchist_mod_v1_0_2/anarchist_mod_v1_0_2.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/anarchist_mod_v1_0_2/anarchist_mod_v1_0_2.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/anarchist_mod_v1_0_2/anarchist_mod_v1_0_2.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/anarchist_mod_v1_0_2/anarchist_mod_v1_0_2.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/anarchist_mod_v1_0_2/anarchist_mod_v1_0_2.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -339,12 +339,12 @@
         "id": "8f7e1fcc-c809-4a8b-a319-62f967fb6c88",
         "type_id": "4",
         "name": "No Breaking Doors v1.1.0.0",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/no_breaking_doors_v1_1_0_0/no_breaking_doors_v1_1_0_0.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_breaking_doors_v1_1_0_0/no_breaking_doors_v1_1_0_0.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/no_breaking_doors_v1_1_0_0/no_breaking_doors_v1_1_0_0.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_breaking_doors_v1_1_0_0/no_breaking_doors_v1_1_0_0.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/no_breaking_doors_v1_1_0_0/no_breaking_doors_v1_1_0_0.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_breaking_doors_v1_1_0_0/no_breaking_doors_v1_1_0_0.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -363,12 +363,12 @@
         "id": "40b608a3-e98f-43b6-88fc-51508757139e",
         "type_id": "4",
         "name": "Exitium Vitae v0.160",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/exitium_vitae_v0_160/exitium_vitae_v0_160.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exitium_vitae_v0_160/exitium_vitae_v0_160.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/exitium_vitae_v0_160/exitium_vitae_v0_160.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exitium_vitae_v0_160/exitium_vitae_v0_160.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/exitium_vitae_v0_160/exitium_vitae_v0_160.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exitium_vitae_v0_160/exitium_vitae_v0_160.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -387,12 +387,12 @@
         "id": "fb4f1ce6-b7c9-49dd-97c0-417201ad9171",
         "type_id": "4",
         "name": "Litho's Armory mod v3.1.0.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/lithos_armory_mod_v3_1_0_1/lithos_armory_mod_v3_1_0_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lithos_armory_mod_v3_1_0_1/lithos_armory_mod_v3_1_0_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/lithos_armory_mod_v3_1_0_1/lithos_armory_mod_v3_1_0_1.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lithos_armory_mod_v3_1_0_1/lithos_armory_mod_v3_1_0_1.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/lithos_armory_mod_v3_1_0_1/lithos_armory_mod_v3_1_0_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lithos_armory_mod_v3_1_0_1/lithos_armory_mod_v3_1_0_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -411,12 +411,12 @@
         "id": "a19c27bb-89f4-42e2-abcd-b1881464bcf7",
         "type_id": "4",
         "name": "Necromanced Bosses v0.4.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/necromanced_bosses_v0_4_1/necromanced_bosses_v0_4_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/necromanced_bosses_v0_4_1/necromanced_bosses_v0_4_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/necromanced_bosses_v0_4_1/necromanced_bosses_v0_4_1.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/necromanced_bosses_v0_4_1/necromanced_bosses_v0_4_1.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/necromanced_bosses_v0_4_1/necromanced_bosses_v0_4_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/necromanced_bosses_v0_4_1/necromanced_bosses_v0_4_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -435,12 +435,12 @@
         "id": "fd63a623-d551-4874-9516-7ff4955defc9",
         "type_id": "4",
         "name": "Sandwich Guy NPC v0.3.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/sandwich_guy_npc_v0_3_1/sandwich_guy_npc_v0_3_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/sandwich_guy_npc_v0_3_1/sandwich_guy_npc_v0_3_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/sandwich_guy_npc_v0_3_1/sandwich_guy_npc_v0_3_1.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/sandwich_guy_npc_v0_3_1/sandwich_guy_npc_v0_3_1.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/sandwich_guy_npc_v0_3_1/sandwich_guy_npc_v0_3_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/sandwich_guy_npc_v0_3_1/sandwich_guy_npc_v0_3_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -459,12 +459,12 @@
         "id": "eca67668-f849-455d-a1e1-dd2fb03afa1e",
         "type_id": "4",
         "name": "Storm Diver's Mod v1.8.1.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/storm_divers_mod_v1_8_1_1/storm_divers_mod_v1_8_1_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storm_divers_mod_v1_8_1_1/storm_divers_mod_v1_8_1_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/storm_divers_mod_v1_8_1_1/storm_divers_mod_v1_8_1_1.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storm_divers_mod_v1_8_1_1/storm_divers_mod_v1_8_1_1.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/storm_divers_mod_v1_8_1_1/storm_divers_mod_v1_8_1_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storm_divers_mod_v1_8_1_1/storm_divers_mod_v1_8_1_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -483,12 +483,12 @@
         "id": "be94513b-76d6-4cd1-a1da-8d799afc0612",
         "type_id": "4",
         "name": "The Stars Above v0.5.5",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_stars_above_v0_5_5/the_stars_above_v0_5_5.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_stars_above_v0_5_5/the_stars_above_v0_5_5.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_stars_above_v0_5_5/the_stars_above_v0_5_5.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_stars_above_v0_5_5/the_stars_above_v0_5_5.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_stars_above_v0_5_5/the_stars_above_v0_5_5.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_stars_above_v0_5_5/the_stars_above_v0_5_5.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -507,12 +507,12 @@
         "id": "e215428a-c190-4308-a20c-98799d36c7b6",
         "type_id": "4",
         "name": "Night's Conversion",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/nights_conversion/nights_conversion.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/nights_conversion/nights_conversion.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/nights_conversion/nights_conversion.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/nights_conversion/nights_conversion.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/nights_conversion/nights_conversion.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/nights_conversion/nights_conversion.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -531,12 +531,12 @@
         "id": "b0153d6e-f6f9-43e6-ad14-5d05ae3b4ccd",
         "type_id": "4",
         "name": "Enchanted Nebula",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/enchanted_nebula/enchanted_nebula.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/enchanted_nebula/enchanted_nebula.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/enchanted_nebula/enchanted_nebula_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/enchanted_nebula/enchanted_nebula_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/enchanted_nebula/enchanted_nebula.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/enchanted_nebula/enchanted_nebula.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -555,12 +555,12 @@
         "id": "2219d749-31b8-47c0-a237-caee81b9e91e",
         "type_id": "4",
         "name": "Minecraft Swords Mod",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/minecraft_swords_mod/minecraft_swords_mod.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/minecraft_swords_mod/minecraft_swords_mod.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/minecraft_swords_mod/minecraft_swords_mod.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/minecraft_swords_mod/minecraft_swords_mod.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/minecraft_swords_mod/minecraft_swords_mod.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/minecraft_swords_mod/minecraft_swords_mod.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -579,12 +579,12 @@
         "id": "94a26178-eccd-4b5d-8239-cc12ab75ca0f",
         "type_id": "4",
         "name": "Auto Trash",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/auto_trash/auto_trash.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash/auto_trash.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/auto_trash/auto_trash.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash/auto_trash.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/auto_trash/auto_trash.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash/auto_trash.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -604,12 +604,12 @@
         "id": "46cba5b1-f28b-405e-8b65-9f288e24f9ac",
         "type_id": "4",
         "name": "Auto Trash v0.5",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/auto_trash_v0_5/auto_trash_v0_5.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash_v0_5/auto_trash_v0_5.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/auto_trash_v0_5/auto_trash_v0_5.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash_v0_5/auto_trash_v0_5.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/auto_trash_v0_5/auto_trash_v0_5.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash_v0_5/auto_trash_v0_5.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -628,12 +628,12 @@
         "id": "c587151c-8d90-4073-845e-eec217799716",
         "type_id": "4",
         "name": "Unknowite v0.4.21",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/unknowite_v0_4_21/unknowite_v0_4_21.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/unknowite_v0_4_21/unknowite_v0_4_21.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/unknowite_v0_4_21/unknowite_v0_4_21_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/unknowite_v0_4_21/unknowite_v0_4_21_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/unknowite_v0_4_21/unknowite_v0_4_21.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/unknowite_v0_4_21/unknowite_v0_4_21.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -652,13 +652,13 @@
         "id": "6bbbffad-0c73-4f7f-b5dc-ea95e2753c20",
         "type_id": "4",
         "name": "Last Hero's v0.2.4.9",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/last_heros_mod_v0_2_4_9/last_heros_mod_v0_2_4_9.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/last_heros_mod_v0_2_4_9/last_heros_mod_v0_2_4_9.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/last_heros_mod_v0_2_4_9/last_heros_mod_v0_2_4_9.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/last_heros_mod_v0_2_4_9/last_heros_mod_v0_2_4_9_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/last_heros_mod_v0_2_4_9/last_heros_mod_v0_2_4_9.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/last_heros_mod_v0_2_4_9/last_heros_mod_v0_2_4_9_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/last_heros_mod_v0_2_4_9/last_heros_mod_v0_2_4_9.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/last_heros_mod_v0_2_4_9/last_heros_mod_v0_2_4_9.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -677,12 +677,12 @@
         "id": "5561ef0c-e20d-4766-941a-5a8e8309e52b",
         "type_id": "4",
         "name": "No More Tombs v1.1.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/no_more_tombs_v1_1_1/no_more_tombs_v1_1_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_more_tombs_v1_1_1/no_more_tombs_v1_1_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/no_more_tombs_v1_1_1/no_more_tombs_v1_1_1.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_more_tombs_v1_1_1/no_more_tombs_v1_1_1.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/no_more_tombs_v1_1_1/no_more_tombs_v1_1_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_more_tombs_v1_1_1/no_more_tombs_v1_1_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -701,12 +701,12 @@
         "id": "5ebb4358-81af-4129-b533-47c94ebab7f8",
         "type_id": "4",
         "name": "Cheat Sheet v0.6.6.3",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/cheat_sheet_v0_6_6_3/cheat_sheet_v0_6_6_3.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_sheet_v0_6_6_3/cheat_sheet_v0_6_6_3.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/cheat_sheet_v0_6_6_3/cheat_sheet_v0_6_6_3.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_sheet_v0_6_6_3/cheat_sheet_v0_6_6_3.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/cheat_sheet_v0_6_6_3/cheat_sheet_v0_6_6_3.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_sheet_v0_6_6_3/cheat_sheet_v0_6_6_3.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -725,12 +725,12 @@
         "id": "92c2b2b6-f2a4-4cfb-8de0-8c6f5b52485a",
         "type_id": "4",
         "name": "Sols Fringe Reborn v0.5",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/sols_fringe_reborn_v0_5/sols_fringe_reborn_v0_5.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/sols_fringe_reborn_v0_5/sols_fringe_reborn_v0_5.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/sols_fringe_reborn_v0_5/sols_fringe_reborn_v0_5.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/sols_fringe_reborn_v0_5/sols_fringe_reborn_v0_5.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/sols_fringe_reborn_v0_5/sols_fringe_reborn_v0_5.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/sols_fringe_reborn_v0_5/sols_fringe_reborn_v0_5.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -749,12 +749,12 @@
         "id": "bfe70541-1caf-46b7-8def-2f36bd073a82",
         "type_id": "4",
         "name": "Recipe Browser v0.8.8.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/recipe_browser_v0_8_8_1/recipe_browser_v0_8_8_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/recipe_browser_v0_8_8_1/recipe_browser_v0_8_8_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/recipe_browser_v0_8_8_1/recipe_browser_v0_8_8_1.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/recipe_browser_v0_8_8_1/recipe_browser_v0_8_8_1.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/recipe_browser_v0_8_8_1/recipe_browser_v0_8_8_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/recipe_browser_v0_8_8_1/recipe_browser_v0_8_8_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -773,12 +773,12 @@
         "id": "0ed16edf-07b5-48a4-ad46-2928595e10bf",
         "type_id": "4",
         "name": "Boss Checklist v1.1.5.4",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/boss_checklist_v1_1_5_4/boss_checklist_v1_1_5_4.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist_v1_1_5_4/boss_checklist_v1_1_5_4.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/boss_checklist_v1_1_5_4/boss_checklist_v1_1_5_4.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist_v1_1_5_4/boss_checklist_v1_1_5_4.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/boss_checklist_v1_1_5_4/boss_checklist_v1_1_5_4.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist_v1_1_5_4/boss_checklist_v1_1_5_4.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -797,13 +797,13 @@
         "id": "28384e43-365c-4004-b87a-b83263e0f281",
         "type_id": "4",
         "name": "Supernova Mod v0.1.1.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/supernova_mod_v0_1_1_1/supernova_mod_v0_1_1_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/supernova_mod_v0_1_1_1/supernova_mod_v0_1_1_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/supernova_mod_v0_1_1_1/supernova_mod_v0_1_1_1.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/supernova_mod_v0_1_1_1/supernova_mod_v0_1_1_1_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/supernova_mod_v0_1_1_1/supernova_mod_v0_1_1_1.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/supernova_mod_v0_1_1_1/supernova_mod_v0_1_1_1_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/supernova_mod_v0_1_1_1/supernova_mod_v0_1_1_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/supernova_mod_v0_1_1_1/supernova_mod_v0_1_1_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -822,13 +822,13 @@
         "id": "48a7171a-fe59-4962-bc44-a6a157193478",
         "type_id": "4",
         "name": "Justice for yoyos! v1.1.2.6",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/justice_for_yoyos_v1_1_2_6/justice_for_yoyos_v1_1_2_6.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/justice_for_yoyos_v1_1_2_6/justice_for_yoyos_v1_1_2_6.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/justice_for_yoyos_v1_1_2_6/justice_for_yoyos_v1_1_2_6.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/justice_for_yoyos_v1_1_2_6/justice_for_yoyos_v1_1_2_6_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/justice_for_yoyos_v1_1_2_6/justice_for_yoyos_v1_1_2_6.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/justice_for_yoyos_v1_1_2_6/justice_for_yoyos_v1_1_2_6_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/justice_for_yoyos_v1_1_2_6/justice_for_yoyos_v1_1_2_6.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/justice_for_yoyos_v1_1_2_6/justice_for_yoyos_v1_1_2_6.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -847,13 +847,13 @@
         "id": "433b3a8e-3b27-4862-a68f-124314a64561",
         "type_id": "4",
         "name": "The Eldritch v0.1.6",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_eldritch_v0_1_6/the_eldritch_v0_1_6.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_eldritch_v0_1_6/the_eldritch_v0_1_6.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_eldritch_v0_1_6/the_eldritch_v0_1_6.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_eldritch_v0_1_6/the_eldritch_v0_1_6_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_eldritch_v0_1_6/the_eldritch_v0_1_6.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_eldritch_v0_1_6/the_eldritch_v0_1_6_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_eldritch_v0_1_6/the_eldritch_v0_1_6.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_eldritch_v0_1_6/the_eldritch_v0_1_6.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -872,13 +872,13 @@
         "id": "d3b87e30-1e08-4616-a973-7f90ff15e812",
         "type_id": "4",
         "name": "Ravel mod v1.0.3.0",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/ravel_mod_v1_0_3_0/ravel_mod_v1_0_3_0.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ravel_mod_v1_0_3_0/ravel_mod_v1_0_3_0.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/ravel_mod_v1_0_3_0/ravel_mod_v1_0_3_0.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/ravel_mod_v1_0_3_0/ravel_mod_v1_0_3_0_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ravel_mod_v1_0_3_0/ravel_mod_v1_0_3_0.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ravel_mod_v1_0_3_0/ravel_mod_v1_0_3_0_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/ravel_mod_v1_0_3_0/ravel_mod_v1_0_3_0.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ravel_mod_v1_0_3_0/ravel_mod_v1_0_3_0.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -897,13 +897,13 @@
         "id": "2d31f8c7-8517-4150-a84d-4d2ddae25eda",
         "type_id": "4",
         "name": "Awakening Minerals v0.9",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/awakening_minerals_v0_9/awakening_minerals_v0_9.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/awakening_minerals_v0_9/awakening_minerals_v0_9.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/awakening_minerals_v0_9/awakening_minerals_v0_9.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/awakening_minerals_v0_9/awakening_minerals_v0_9_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/awakening_minerals_v0_9/awakening_minerals_v0_9.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/awakening_minerals_v0_9/awakening_minerals_v0_9_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/awakening_minerals_v0_9/awakening_minerals_v0_9.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/awakening_minerals_v0_9/awakening_minerals_v0_9.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -922,13 +922,13 @@
         "id": "322b226a-24aa-47a1-9490-e33be5a758dd",
         "type_id": "4",
         "name": "Valhalla mod v0.2.0",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/valhalla_mod_v0_2_0/valhalla_mod_v0_2_0.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/valhalla_mod_v0_2_0/valhalla_mod_v0_2_0.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/valhalla_mod_v0_2_0/valhalla_mod_v0_2_0.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/valhalla_mod_v0_2_0/valhalla_mod_v0_2_0_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/valhalla_mod_v0_2_0/valhalla_mod_v0_2_0.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/valhalla_mod_v0_2_0/valhalla_mod_v0_2_0_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/valhalla_mod_v0_2_0/valhalla_mod_v0_2_0.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/valhalla_mod_v0_2_0/valhalla_mod_v0_2_0.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -947,14 +947,14 @@
         "id": "874c248a-5cec-4065-8398-8ea377356e86",
         "type_id": "4",
         "name": "Hybrid World v1.5",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/hybrid_world_v1_5/hybrid_world_v1_5.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hybrid_world_v1_5/hybrid_world_v1_5.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/hybrid_world_v1_5/hybrid_world_v1_5.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/hybrid_world_v1_5/hybrid_world_v1_5_01.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/hybrid_world_v1_5/hybrid_world_v1_5_02.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hybrid_world_v1_5/hybrid_world_v1_5.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hybrid_world_v1_5/hybrid_world_v1_5_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hybrid_world_v1_5/hybrid_world_v1_5_02.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/hybrid_world_v1_5/hybrid_world_v1_5.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hybrid_world_v1_5/hybrid_world_v1_5.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -973,13 +973,13 @@
         "id": "2f4a409d-78a3-4073-9049-764bdb2d4039",
         "type_id": "4",
         "name": "Swordstone mod v1.1.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/swordstone_mod_v1_1_1/swordstone_mod_v1_1_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/swordstone_mod_v1_1_1/swordstone_mod_v1_1_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/swordstone_mod_v1_1_1/swordstone_mod_v1_1_1.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/swordstone_mod_v1_1_1/swordstone_mod_v1_1_1_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/swordstone_mod_v1_1_1/swordstone_mod_v1_1_1.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/swordstone_mod_v1_1_1/swordstone_mod_v1_1_1_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/swordstone_mod_v1_1_1/swordstone_mod_v1_1_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/swordstone_mod_v1_1_1/swordstone_mod_v1_1_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -998,12 +998,12 @@
         "id": "6f73e322-cee4-4c47-8d38-4e701ba66628",
         "type_id": "4",
         "name": "Kirk Zenith",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/kirk_zenith/kirk_zenith.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/kirk_zenith/kirk_zenith.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/kirk_zenith/kirk_zenith.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/kirk_zenith/kirk_zenith.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/kirk_zenith/kirk_zenith.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/kirk_zenith/kirk_zenith.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -1022,13 +1022,13 @@
         "id": "fdb594dc-2d17-4938-b059-13ad9702a61b",
         "type_id": "4",
         "name": "Minecraft Paintings Mod v1.0.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/minecraft_paintings_mod_v1_0_1/minecraft_paintings_mod_v1_0_1.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/minecraft_paintings_mod_v1_0_1/minecraft_paintings_mod_v1_0_1.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/minecraft_paintings_mod_v1_0_1/minecraft_paintings_mod_v1_0_1.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/minecraft_paintings_mod_v1_0_1/minecraft_paintings_mod_v1_0_1_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/minecraft_paintings_mod_v1_0_1/minecraft_paintings_mod_v1_0_1.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/minecraft_paintings_mod_v1_0_1/minecraft_paintings_mod_v1_0_1_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/minecraft_paintings_mod_v1_0_1/minecraft_paintings_mod_v1_0_1.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/minecraft_paintings_mod_v1_0_1/minecraft_paintings_mod_v1_0_1.tmod",
             "1": "",
             "2": "",
             "3": ""
@@ -1047,13 +1047,13 @@
         "id": "e3efb8ac-1021-411c-b568-5a07893c3b64",
         "type_id": "4",
         "name": "The Polarities v0.8.1.4",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_polarities_v0_8_1_4/the_polarities_v0_8_1_4.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_polarities_v0_8_1_4/the_polarities_v0_8_1_4.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_polarities_v0_8_1_4/the_polarities_v0_8_1_4.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_polarities_v0_8_1_4/the_polarities_v0_8_1_4_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_polarities_v0_8_1_4/the_polarities_v0_8_1_4.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_polarities_v0_8_1_4/the_polarities_v0_8_1_4_01.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mods/the_polarities_v0_8_1_4/the_polarities_v0_8_1_4.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_polarities_v0_8_1_4/the_polarities_v0_8_1_4.tmod",
             "1": "",
             "2": "",
             "3": ""
