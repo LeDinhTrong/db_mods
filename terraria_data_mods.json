@@ -1,5 +1,390 @@
 [
     {
+        "id": "7ae7240b-aee6-4983-91b3-4b9381bc9f2f",
+        "type_id": "4",
+        "name": "Affe's Death Counter",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/affes_death_counter/affes_death_counter.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/affes_death_counter/affes_death_counter_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/affes_death_counter/affes_death_counter_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/affes_death_counter/affes_death_counter.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Affe's Death Counter mod for tModLoader: Displays the total number of deaths with customizable options for a personalized gaming experience. Keep track of your deaths with additional settings and detailed statistics.\n\nThe \"affe's Death Counter\" modification is designed for the game Terraria using the tModLoader platform. This mod allows players to track their total number of deaths in the game, offering customizable settings to create a unique gaming experience.\n\nThe main functions:\nDeath counter display: Users can see their death counter under the map/health interface or as a pop-up text.\nText settings: The ability to adjust the text size, its position on the screen, and also lock the display position.\nToggle the visibility of the death counter: The death count can be displayed as part of the UI or as text bubbles. This function can be switched.\nEasy to add and remove: The mod can be added or removed at any time without interrupting the gameplay.\nCause of Death Tracking: Viewing detailed information about the causes of deaths in the game is available via a hotkey, providing more detailed information about your deaths.\n\nAdditional features:\nDisplaying the death counter with information accessories: Option to display death counter with accessories like Tally Counter or better (including REK 3000, PDA, Cell Phone, Shellphone), which can be toggled in settings.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "0f5ee2f8-b52e-4b05-9f06-f80a225b33ce",
+        "type_id": "4",
+        "name": "Angler Shops Alternative",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shops_alternative/angler_shops_alternative.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shops_alternative/angler_shops_alternative_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shops_alternative/angler_shops_alternative_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shops_alternative/angler_shops_alternative_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shops_alternative/angler_shops_alternative_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shops_alternative/angler_shops_alternative_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shops_alternative/angler_shops_alternative.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Angler Shops Alternative\" is a unique modification for tModLoader that expands the capabilities of the NPC Angler in Terraria by adding two new shops with a variety of items.\n\n“Angler Shops Alternative” is a modification based on the original “Angler Shop” mod. It offers players more flexibility and options by adding two new shops for the NPC Angler. These shops include many items that were previously only available through completing quests, such as the Fishing Bobbler, Bottomless Bucket of Honey, Honey Absorbing Sponge, and other quest rewards.\n\nFeatures:\nTwo shops for NPC Angler: This allows you to add missing items including the Fishing Bobbler, Bottomless Honey Bucket, Honey Absorbing Sponge, and other quest rewards.\nBlocking some items behind bosses: The mod adds the option to block some items behind bosses in the Mod configuration.\nDialogue Panel Rework Mod Compatibility: Fully compatible with the Dialogue Panel Rework mod.\nSetting up a custom currency: When enabled in the mod configuration, a custom currency (Angler coins) will be enabled for two Angler stores.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "735d1abb-52e9-4ec2-aebc-8fba627df7dc",
+        "type_id": "4",
+        "name": "Microdungeons And More — A Worldgen",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/microdungeons_and_more_a_worldgen/microdungeons_and_more_a_worldgen.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/microdungeons_and_more_a_worldgen/microdungeons_and_more_a_worldgen_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/microdungeons_and_more_a_worldgen/microdungeons_and_more_a_worldgen_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/microdungeons_and_more_a_worldgen/microdungeons_and_more_a_worldgen_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/microdungeons_and_more_a_worldgen/microdungeons_and_more_a_worldgen_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/microdungeons_and_more_a_worldgen/microdungeons_and_more_a_worldgen.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "“Microdungeons And More - A Worldgen Mod” is a modification for tModLoader that enriches the world of Terraria with new structures and world generation elements, making each playthrough unique.\n\n“Microdungeons And More - A Worldgen Mod” is a JustImpaxim creation for tModLoader that brings new elements and structures to Terraria, making each game more exciting.\n\nCurrent content:\nPlains/Canyons: Deep chasms that cut through the surface and extend deep into the earth.\nIce Fortresses: Micro-dungeons full of treasures and traps hidden in icy biomes.\nAbandoned Hellevators: Vertical structures found underground.\nUnderground Lakes: Vast bodies of water that can be found underground.\nGolden Lake: An underground lake filled with honey and gold.\nPunished Church: A micro-dungeon generated in Hell.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "794afc73-b97b-4933-91a2-0c13cc83e3cb",
+        "type_id": "4",
+        "name": "Fast Fall",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fast_fall/fast_fall.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fast_fall/fast_fall.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fast_fall/fast_fall.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Transform your Terraria experience with the Fast Fall Mod! Add the ability to quickly fall down by pressing the DOWN button, like in many other 2D platformers. Highly customizable and easy to use.\"\n\nFast Fall is a simple but effective modification for Terraria that adds the ability to quickly fall down, like many other 2D platformers. This feature makes movement through the world more fluid and dynamic, allowing players to quickly move between levels and overcome obstacles without unnecessary effort.\n\nFeatures:\nFast fall: Simply press the DOWN button to instantly speed up your descent, allowing you to quickly progress through the world of Terraria.\nHighly customizable: The modification offers a wide range of settings, allowing players to adjust the speed and other parameters of the fast fall to suit their individual preferences.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "45d8daab-9acb-40e8-bf69-6b29ad4dec1b",
+        "type_id": "4",
+        "name": "InfraSonic (tVoice)",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/infrasonic_tvoice/infrasonic_tvoice.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/infrasonic_tvoice/infrasonic_tvoice_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/infrasonic_tvoice/infrasonic_tvoice_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/infrasonic_tvoice/infrasonic_tvoice.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"InfraSonic\" is an innovative modification for Terraria that offers a unique opportunity to communicate directly in the game without the need to use third-party programs. With InfraSonic, you can interact harmoniously with your friends, share strategies and coordinate actions without being distracted from the gameplay.\n\nFeatures:\nBasic voice chat: Similar to the features available in CSGO, InfraSonic provides an easy and reliable way to communicate within the game.\nPositional effect: Player voices will be spatially positioned, adding realism and depth to your interactions in the world of Terraria.\n\nBenefits of use:\nAutomatically lower the background music volume: Background Music Ducking automatically reduces the volume of background music during calls, ensuring clear and understandable conversations.\nDynamic sound attenuation: Players' voices will be adjusted based on the distance between them, creating a surprisingly realistic gaming atmosphere.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "4ebd8358-c7a3-405e-8ff1-00c3f377db42",
+        "type_id": "4",
+        "name": "Custom Zone Titles",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/custom_zone_titles/custom_zone_titles.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/custom_zone_titles/custom_zone_titles_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/custom_zone_titles/custom_zone_titles_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/custom_zone_titles/custom_zone_titles_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/custom_zone_titles/custom_zone_titles.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Extend the functionality of Biome Titles with the \"Custom Zone Titles\" modification for tModLoader, allowing you to assign unique titles to zones of your choice. Create your own titles and personalize your Terraria world!\n\nCustom Zone Titles are an integral addition to Biome Titles, allowing you to create unique, custom-titled zones in your Terraria world.\n\nFeatures:\nAssigning titles to zones: Now you can easily create and name zones in your world. Highlight important places or buildings by giving them unique titles.\nIntuitive interface: Creating and editing zones is carried out using a convenient interface that does not require much effort. Just drag, click and enjoy your personalized zones.\nResourceless creation: You don't need any additional resources to create zones. Just use the workbench and your ideas!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "90b71bb5-1b8d-4264-871f-6ddff23d8162",
+        "type_id": "4",
+        "name": "JereTheJuggler's Custom Generation",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jerethejugglers_custom_generation/jerethejugglers_custom_generation.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jerethejugglers_custom_generation/jerethejugglers_custom_generation_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jerethejugglers_custom_generation/jerethejugglers_custom_generation_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jerethejugglers_custom_generation/jerethejugglers_custom_generation_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jerethejugglers_custom_generation/jerethejugglers_custom_generation_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jerethejugglers_custom_generation/jerethejugglers_custom_generation_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/jerethejugglers_custom_generation/jerethejugglers_custom_generation.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "JereTheJuggler's Custom Generation (Generation from JereTheJuggler) is a mod for tModLoader, which enriches the world generation process in Terraria.\n\nUnique structures: The mod adds a variety of structures, ranging from small cosmetic changes to full-fledged new objects that will help you progress through the game.\nDiversity: You'll find everything here - from underground traps to huge bones and abandoned mines.\nIntegration with vanilla blocks: The mod uses only vanilla blocks and items, which allows you to preserve the atmosphere of Terraria.\nSetting: You can turn each feature on and off through the in-game settings menu.\n\nHere are some of the implemented features:\nHanging Spiked Traps: New traps hidden in dungeons.\nTowers in snow biomes: Small towers protecting snow biomes.\nGiant worm teeth: Teeth protruding from walls in the Blackness.\nGiant Bones: Shattered bones in the Red biome.\nAdditional Gems: Risky opportunities to get extra jewelry.\nAbandoned mines: Huge mines in the depths of the cave layer.\npiers: Piers for fishing on the ocean.\nFlower biome: Flower fertilizer has brought results.\nCustom rails for minecarts: Are you ready for an adrenaline rush?\nHell's houses: Because hell hasn't been evil enough yet.\nJereTheJuggler's Custom Generation - a great way to make the world of Terraria more unique and interesting! ",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "625148dd-9bdb-4425-bfe8-7d18ed1009cd",
+        "type_id": "4",
+        "name": "Thorium + Calamity Convergence REDUX",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/thorium_calamity_convergence_redux/thorium_calamity_convergence_redux.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/thorium_calamity_convergence_redux/thorium_calamity_convergence_redux.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/thorium_calamity_convergence_redux/thorium_calamity_convergence_redux.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Thorium + Calamity Convergence Mod REDUX is a mod for tModLoader, which combines two popular mods: Thorium + Calamity.\n\nImproved Progression: The mod reduces the redundancy that occurs when both mods do essentially the same thing. There are now new recipe trees, sometimes even completely new recipes for items. And finally there are no identical recipes for vertebrae and skin!\nCombination of Classes: Class progression has been revised. For example, Angel Threads are now available after Plantera, and Terrarium Particle Sprinters и Seraph Tracers enter into the normal progression.\nAuthors: Original author of the mod - kittenchilly, and it is supported zriverazrty. The mod has also been fixed by the team LuiAFK Reborn.\nRecommendations: Since this may contradict much of what is written in both wikis, it is recommended to use Management for new recipes or Recipe Browserif you prefer it.\nThorium + Calamity Convergence Mod REDUX is a great way to improve your gaming experience if you want to play with both mods at the same time! ",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "67f6b22b-1030-4275-82b6-fd0843371632",
+        "type_id": "4",
+        "name": "Automation & Defense",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/automation_defense/automation_defense.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/automation_defense/automation_defense_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/automation_defense/automation_defense_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/automation_defense/automation_defense_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/automation_defense/automation_defense_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/automation_defense/automation_defense.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Welcome to the world of incredible automation and defense with the Automation & Defense mod for Terraria. This technology mod is designed to satisfy the passion for automation and is inspired by the Create Mod in Minecraft. Let's plunge into the world of innovation!\n\nTransport System:\n\tItem Transporter:\n\t\tMoves objects by emulating a pipeline system. Easily connects to Funnel for extract/insert as well as Splitter/Merger.\n\tItem Funnel:\n\t\tActs as an extractor and inserter, depending on the direction of the connected Transporter. Interactive only with chests.\n\t\tAbility to set a filter for extraction mode.\n\tSplitter & Merger:\n\t\tTwo functions in one. Splitter and combiner in one bottle.\n\t\tWhen exiting in a certain direction:\n\t\tIf you have a filter installed, the item will preferentially be directed in the appropriate direction, otherwise they will be evenly distributed in all directions.\nAutomation System:\n\tStone Generator:\n\t\tContinuously generates stone blocks, directing them to the chest nearby.\n\tOre Extractor:\n\t\tExtracts ores (...by magic) from stone blocks.\n\t\tRequired: Pickaxe (power determines which ores can be extracted), input chest with stone blocks, output chest to store ores.\n\t\tPossibility of installing a filter so that only specific ore is extracted. Otherwise, all ores are extracted randomly (1% chance per stone block).\nAutomatic Crafter:\n\tPeriodically creates items.\n\tRequired: Recipe item, associated crafting stations, input chest with ingredients, output chest to store crafted items.\n\tItems with proximity conditions to water/honey/lava can be crafted for free. Items that require Demon Altar are not supported (unless you have another mod that adds an item to place altars, but I haven't tested).\nWood Cleaner:\n\tRetrieves wood and sends it to the Wood Harvester Base below. Can be placed on top of each other to create a long line.\nWood Cleaner Base:\n\tStores wood from cleaners above it. Sends the wood to the chest next to her.\nItem Vacuum:\n\tCollects items around him and places them in chests on both sides.\n\tThe radius can be increased/decreased.\n\nDefense System:\nMagic Tower:\n\tAutomatically picks up bullets from chests near her to shoot nearby enemies. Average speed and low damage.\n\tAdded a new recipe for Musket Ball (requires any iron ingots) so that most bullets in the game can be automated using the Auto Crafter.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "71222acf-4244-4086-a422-1655716a1cfe",
+        "type_id": "4",
+        "name": "Nitrate (Performance Optimizer)",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/nitrate_performance_optimizer/nitrate_performance_optimizer.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/nitrate_performance_optimizer/nitrate_performance_optimizer.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/nitrate_performance_optimizer/nitrate_performance_optimizer.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Nitrate (Performance Optimizer) is a mod for Terraria created to significantly improve the game's performance by introducing extensive optimizations to various functions. The mod takes advantage of parallelism, SIMD instructions, GPU rendering and other modern technical solutions designed to increase the speed and stability of the gameplay.\n\nPlease note:\nNitrate is in early development; Some features may not be compatible with other mods.\nBalance between performance and accuracy: We strive to find the perfect balance between game speed and visual fidelity.\nSave Security: Your saves should be safe, but visual distortions and glitches may occur.\n\nMain characteristics of the mod:\n\tDust particle processing: Rewritten and optimized for GPU, which significantly increases performance (requires testing with modified particles).\n\tParallelization of particle update: Increases game speed by simultaneous processing.\n\tRain visualization on GPU: optimized so that most of the processing occurs on the video card (may not work correctly with mods that change the textures or color of rain).\n\tParallelization of rain update: Increase productivity through more efficient processing.\n\tReplacing FNA types with SIMD: Important parts of the code now use JIT internal SIMD types to optimize execution.\n\tTiled rendering and lighting: rewritten to be chunk-based and partially processed on the GPU (the current version may have bugs, for example, when using spelunker potions).",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "d3ac6c1d-ce0a-4347-8726-f85b641b331b",
+        "type_id": "4",
+        "name": "Better Autosave",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_autosave/better_autosave.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_autosave/better_autosave_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_autosave/better_autosave_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_autosave/better_autosave.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "“Best AutoSave” is a modification for the famous platformer Terraria, created to work with tModLoader. It is an advanced autosave tool that allows players to customize autosave intervals in both single player and multiplayer.\n\nMod features:\nIndependent installation on servers and clients.\nSingle and Multiplayer Configuration:\n\tIn a single player game and on servers, you can set the frequency of autosaving of the world and character (by default, every 10 minutes).\n\tIn multiplayer, the frequency of saving the client character is adjusted (by default, every 5 minutes).\nAbility to specify the autosave interval for the world on the server (regardless of the game, where autosave occurs once per game day).\nAdditional notes:\nSingle player mode requires the Autosave setting to be enabled in the game settings.\nAutomatic saving of the world on servers occurs once per game day, despite the mod settings.\nThe minimum possible autosave interval is 10 seconds, which is due to game stability reasons.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "29ce3f60-8150-4fba-b629-f81f5eee5c0a",
+        "type_id": "4",
+        "name": "Better Treasure Bag Loot",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_treasure_bag_loot/better_treasure_bag_loot.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_treasure_bag_loot/better_treasure_bag_loot_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_treasure_bag_loot/better_treasure_bag_loot_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_treasure_bag_loot/better_treasure_bag_loot_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_treasure_bag_loot/better_treasure_bag_loot.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Better Treasure Bag Loot is a mod for tModLoader that optimizes the item drop rates of vanilla Treasure Bags and Master items (pets and mounts) so that you don't have to kill the boss over and over again to get a single reward.\n\nBoss Pets and Mounts:\nDrop rate set to 100%\nAll treasure bags:\nIncludes the corresponding boss trophy\nKing Slime Treasure Bag:\nSlimy Saddle drop rate set to 100%\nThe Ninja set will drop entirely\nEye of Cthulhu Treasure Bag:\nMost crimtane/demonite ores will drop (87 pieces)\nDirklops Treasure Bag:\nThe Eye Bone, Eye Umbrella and Radio Item will all drop out entirely.\nThe above items will be randomly attached to the additional item (for compatibility with other mods)\nWall of Flesh Treasure Bag:\nAll four emblems will drop in one piece\nEmblems will be randomly attached to an additional item (especially for Calamity)\nQueen Slime Treasure Bag:\nGelatinous Pillion drop rate set to 100%\nHook of Dissonance drop rate set to 100%\nCrystal Assassin Set will drop entirely\nMechanical Boss Treasure Bags:\nMost of the hallowed ingots will drop (35 pieces)\nMost souls will drop (40 for everyone)\nPlantera Treasure Bag:\nThorn Hook drop rate set to 100%\nGolem Treasure Bag:\nPicksaw drop rate set to 100%\nMost beetle shells will drop (23 pieces)\nDuke Fishron's Treasure Bag:\nFishron Wings drop rate set to 100%\nEmpress of Light Treasure Bag:\nEmpress Wings drop rate set to 100%\nBetsy's Treasure Bag:\nBetsy's Wings drop rate set to 100%\nMost Defender Medals will drop (49 pieces)",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "0473702c-d47c-4033-8f8e-66018d1b0cb5",
+        "type_id": "4",
+        "name": "Fargo's Banner Boost",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_banner_boost/fargos_banner_boost.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_banner_boost/fargos_banner_boost.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_banner_boost/fargos_banner_boost.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Fargo's Banner Boost is a unique mod for tModLoader that adds RPG elements that strengthen you against enemies as you defeat them.\n\nMain functions of the mod:\nUpon reaching every 50th kill (by default), you gain damage reduction and increased damage against enemies.\nAt the maximum level of 20, you are completely immune to damage and always kill enemies in one hit.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "0e084df8-ac0b-4b0a-b02d-ff743d354b45",
+        "type_id": "4",
+        "name": "Fargo's Fallen Stars",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_fallen_stars/fargos_fallen_stars.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_fallen_stars/fargos_fallen_stars.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_fallen_stars/fargos_fallen_stars_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_fallen_stars/fargos_fallen_stars.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Fargo's Fallen Stars is a mod for tModLoader that allows you to control how often fallen stars appear.\n\nMain features of the mod:\nSetting the spawn frequency: Fargo's Fallen Stars mod allows you to adjust how often fallen stars appear. By default it is set to 2 times faster, but you can set the value from 1 to 500 to achieve the desired result.\nFrequency setting name changed: In the new update, the name of the fallen star spawn rate setting has been changed to more accurately describe its function. You can now enter any value (from 1 to 500) without using the slider.\nDescription updated: The description of the mod has been updated to better reflect its capabilities and features.\nUpdated workshop image: The mod's image in the Steam Workshop has also been updated to more accurately represent its functionality.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
+        "id": "181936c4-9b84-47d4-ac20-36f1ce7f4768",
+        "type_id": "4",
+        "name": "In-game Translate",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ingame_translate/ingame_translate.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ingame_translate/ingame_translate_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ingame_translate/ingame_translate_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ingame_translate/ingame_translate_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ingame_translate/ingame_translate_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ingame_translate/ingame_translate.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "In-game Translate is a mod for tModLoader that provides fast machine translation of text within the game, supporting text added by other mods.\n\nMain functions of the mod:\nQuick translation of item hint: The In-game Translate modification allows you to quickly translate item prompts. Now you can easily understand the meaning of objects and their features in your native language.\nAutomatic translation of chat messages: The mod automatically translates chat messages from other players. Now you can communicate with players in different languages ​​without language barriers.\nSeveral translation services available: The In-game Translate mod provides several APIs for text translation. You can choose the translation service that is most convenient for you.\nA free API is available without the need for a key.\nOpening the translator via hotkeys: You can open the translator website using hotkeys. The mod suggests using the built-in Steam browser for quick and easy access to the translator.\nAutomatic detection and translation of selected text: The modification automatically detects and translates text that the mouse is hovering over. Now you can easily understand the meaning of unclear phrases or words.\nTranslated text cache: The mod stores a cache of translated text, so after restarting the game there is no need to translate the text again.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-09 22:14:30.089"
+    },
+    {
         "id": "d16562a9-c73f-4238-9ced-ef89effdec8a",
         "type_id": "4",
         "name": "Jojos Caesar Sound",
