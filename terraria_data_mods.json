@@ -385,6 +385,1627 @@
         "createTime": "2024-03-09 22:14:30.089"
     },
     {
+        "id": "6dc69446-070f-497c-85e7-4526a85303bf",
+        "type_id": "4",
+        "name": "Infernum Master and Legendary Modes Patch",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/infernum_master_and_legendary_modes_patch/infernum_master_and_legendary_modes_patch.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/infernum_master_and_legendary_modes_patch/infernum_master_and_legendary_modes_patch.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/infernum_master_and_legendary_modes_patch/infernum_master_and_legendary_modes_patch.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Infernum Master and Legendary Modes Patch is a mod for tModLoader that removes the Calamity Infernum Mode restrictions that prevent you from playing Master Mode and using the For the Worthy or Zenith secret seeds (getfixedboi).\n\nRemoving restrictions: The Infernum Master and Legendary Modes Patch allows you to enjoy Infernum Mode along with Master Mode and use secret seeds For the Worthy or Zenith (getfixedboi). Now you can experience all the challenge and excitement of Infernum Mode combined with the game's other challenges and features.\nThanks to the developers of Infernum Mode: The author of the mod expresses gratitude to the developers of Infernum Mode for making the creation of this patch much easier and not hindering it. This allowed the mod developer to focus on improving and expanding the game's features.\n\nIf you want to enjoy the full potential of Infernum Mode combined with Master Mode and the For the Worthy or Zenith secret seeds (getfixedboi), then the Infernum Master and Legendary Modes Patch is the perfect addition for you. Immerse yourself in an exciting game world with increased challenge and rewards!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "53b089cc-236c-448b-a12c-ba12b51e7c65",
+        "type_id": "4",
+        "name": "WADTU (What Ammo Does This Use)",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wadtu_what_ammo_does_this_use/wadtu_what_ammo_does_this_use.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wadtu_what_ammo_does_this_use/wadtu_what_ammo_does_this_use.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wadtu_what_ammo_does_this_use/wadtu_what_ammo_does_this_use_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wadtu_what_ammo_does_this_use/wadtu_what_ammo_does_this_use_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wadtu_what_ammo_does_this_use/wadtu_what_ammo_does_this_use.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Ever wondered what ammo your weapons use in Terraria? Our mod “WADTU (What Ammunition?)” gives you the perfect solution! With this mod you will have additional information right in the weapon tooltips, making the selection of ammunition fast and convenient!\n\nAdvanced Tips:\n\tEach ammo-enabled weapon now displays the ammo type used in its tooltip.\n\tAccurate information about the type of ammunition the weapon is compatible with.\nCustomizability:\n\tAdded a configuration setting to change the message in the ammunition line.\n\tOption to disable the display of specific ammunition in the tooltip.\nUpdates and Support:\n\tUpdated icons to improve visual presentation.\n\tAdded a Discord link in the description for community communication and support.\n\tHome page with a link to Discord for easy access to the community.\nClient Optimization:\n\tThe mod works on the client side, without requiring server installation.\n\tEasy to use and will not affect the operation of the server.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "d07f0cb2-2b0b-4258-afb1-8b60e623527b",
+        "type_id": "4",
+        "name": "Bank Buttons",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/bank_buttons/bank_buttons.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/bank_buttons/bank_buttons.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/bank_buttons/bank_buttons_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/bank_buttons/bank_buttons.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The “Bank Buttons” mod is a convenient tool for all lovers of order and quick access to resources in the game Terraria. This mod adds special buttons to the interface that allow you to instantly open your vaults, be it chests, alchemy tables or any other banking items, making it easier to manage your inventory and saving you valuable time.\n\nInstant Access:\nQuick buttons for opening various bank cells.\nTerms of Use:\nTo access the contents of the vault, you must have the corresponding banking item in your inventory, in the \"empty bag\" or be near the placed vault.\nControl:\nShift-click on the button to quickly transfer items to the appropriate storage (option enabled/disabled).\nAssignable keys for each storage according to the user's wishes.\nInterface Customization:\nMove buttons anywhere on the screen.\nAbility to drag buttons using the middle mouse button (enabled in settings).\nFlexibility Settings:\nDisable the requirement to have a bank item to access the vault.Unique Appearance and Settings:\n\nUser interface:\nYou decide where to place your storage control buttons.\nPersonal Convenience:\nDrag buttons across the screen to create the perfect user interface.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "ef5ed3c2-89cb-401c-8987-944ed3772b82",
+        "type_id": "4",
+        "name": "Lures Display Bait",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lures_display_bait/lures_display_bait.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lures_display_bait/lures_display_bait.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lures_display_bait/lures_display_bait_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lures_display_bait/lures_display_bait_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lures_display_bait/lures_display_bait.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Lures Display Bait mod makes life easier for every fisherman in Terraria by adding an unobtrusive but extremely useful indicator to your fishing lures. Now, without any extra effort, you will always see exactly what type of bait is hanging on the end of your hook - this will make the fishing process more intuitive and comfortable.\n\nBasic Functionality:\nA visualization of the bait being used hangs directly on the hook of your bait.\nOptions Settings:\nIt is recommended to use the mod's configuration settings for maximum comfort and functionality.\nCompatibility:\nThe mod is designed to work harmoniously with various textures and additions to Terraria.\nCompatibility Notes:\n\nInternal Name:\n\"LureBaitDisplay\" for easy integration with other mods.\nRecommendations for Use:\nWhen calling the mod functionality in your code, be sure to add a link to the minimum required version, or better yet, the latest release.\nUse Mod.Call(\"HideBaitType\", int itemType) in function PostSetupContent() your mod to hide certain types of bait on the hook.\nUse Mod.Call(\"IgnoreLureType\", int projectileType) in function PostSetupContent() of your mod to ignore rendering of specific types of lures (all mod functionality will be disabled for these types, including hiding lures).",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "89ffed33-b77f-4438-a499-3901a855db7f",
+        "type_id": "4",
+        "name": "Foldering — A Terraria Sorting",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/foldering_a_terraria_sorting/foldering_a_terraria_sorting.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/foldering_a_terraria_sorting/foldering_a_terraria_sorting.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/foldering_a_terraria_sorting/foldering_a_terraria_sorting_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/foldering_a_terraria_sorting/foldering_a_terraria_sorting_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/foldering_a_terraria_sorting/foldering_a_terraria_sorting_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/foldering_a_terraria_sorting/foldering_a_terraria_sorting_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/foldering_a_terraria_sorting/foldering_a_terraria_sorting.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Discover a new dimension of order and style in your Terraria world with the Foldering - A Terraria Sorting Mod. This is not just a modification - it is the pinnacle of organization and visual artistry that will elevate your gaming experience.\n\nSystematic Organization:\nCreate folders to organize your worlds and characters with perfect precision.\nEach folder contains a rich palette of colors that brings your game interface to life.\nUnrivaled Convenience:\nEasier access and management of your worlds and characters.\nPut an end to the chaos of unorganized lists and endless searching.\nIntuitive Categorization:\nAssign unique color codes to folders to quickly find what you need.\nVisually differentiate worlds and characters with color cues as if created by a digital artist.\nGoodbye Infinite Scrolling:\nNavigating the worlds of Terraria will now be done with grace and ease.\nAll your worlds and characters are now clearly organized into separate folders.\nDesign Aesthetics:\nTurn organization into art with color and structure.\nUnleash your creativity by customizing your gaming interface with your own style.\n\nYour Journey to Order Begins:\n\nPrepare to journey through the sophisticated and sophisticated world of organization in Terraria.\nTake your gaming experience to new heights: where every element is organized and colors are the brush of your creativity.\nEnter a world where precision and beauty come together to transform your adventure into an unforgettable work of gaming art.\nIncrease the convenience and beauty of the interface in Terraria with the Folders - Sorting Mod for Terraria and make managing your digital universe a work of art.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "d33346ba-04a1-4a06-84bb-821d6c8b644b",
+        "type_id": "4",
+        "name": "High FPS Support",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/high_fps_support/high_fps_support.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/high_fps_support/high_fps_support.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/high_fps_support/high_fps_support.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The mod allows you to play Terraria at frame rates above 60FPS without changing the game speed. It offers client optimization, game speed settings and high FPS optimizations. Problems may arise when used in conjunction with other mods and monitor requirements. Recommended use with caution.\n\nHigh FPS support:\nAllows Terraria to render over 60 frames per second without changing the speed of the world simulation.\nClient optimization:\nThe mod is completely client-side and does not affect server mechanics when playing in multiplayer mode.\nGame speed settings:\nIn a single-player game, configuration settings are available that allow you to speed up or slow down the game for fun.\nOptimizations for high FPS:\nIncludes several optimizations designed to help achieve high frame rates. These optimizations are disabled by default and can be enabled through the mod's config file.\nPotential problems:\n\nMonitor requirements:\nFor the mod to work correctly, you must disable the frame skip function in the game settings (“Frame Skip” must be set to “Off”), and also use a monitor with a refresh rate higher than 60 Hz.\nVisual glitches:\nOccasional minor visual inconsistencies or artifacts may occur.\nCompatibility with other mods:\nCompatibility with other mods is not guaranteed. Significant visual glitches may occur if other mods render objects in an incompatible manner. Solving these problems is only possible if the authors of other mods add support for this mod.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "3c49ece4-6ca8-4d9f-87c2-9d668d22da74",
+        "type_id": "4",
+        "name": "Reduced Mining",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/reduced_mining/reduced_mining.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/reduced_mining/reduced_mining.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/reduced_mining/reduced_mining.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Reduced Mining is a simple mod for tModLoader that allows you to significantly reduce the time spent mining, freeing you up to do more important tasks. This modifier allows you to tweak various aspects of pickaxe and ore mining to make your mines more efficient.\n\nMain features of the “Reduced Mining” mod (all parameters can be customized at your discretion):\n\nPickaxe Speed ​​Increase/Decrease: This modifier allows you to adjust the speed at which you mine blocks with your pickaxe. By default, the speed is increased by 20%, which means blocks are mined faster, allowing you to save time.\nOre Drop Chance Increase: This option allows you to adjust the chance that ore will drop double when mined. By default, there is a 20% chance of dropping double ore, which increases your production and improves your work efficiency.\nTriple Ore Drop Chance: This option further increases the chance of ore drops when mined. By default, it increases the chance by 10% to the already double amount of ore. This allows you to mine more ore and greatly increases your efficiency.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "42a05617-87d2-4355-a32a-07920e9e4f4e",
+        "type_id": "4",
+        "name": "Fargo's Souls DLC",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_souls_dlc/fargos_souls_dlc.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_souls_dlc/fargos_souls_dlc.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_souls_dlc/fargos_souls_dlc.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Fargo's Souls DLC\" for tModLoader is a unique extension for the original Fargo's Souls Mod, designed to integrate with the difficulty of \"Eternity Mode\" and adapted to work synchronously with other popular mods. Development and support is carried out by the official developers of Fargo's Mods.\n\nMod Compatibility:\nThe Calamity mod is currently officially supported.\nNew Difficulty Levels:\nNew difficulty modes have been introduced: \"Eternity-Revengeance\" and \"Eternity-Death\", which combine elements of Calamity's \"Eternity\" and \"Revengeance/Death\" modes, switchable in the Calamity difficulty interface.\nAdvanced Artificial Intelligence:\nExpansion and improvement of the AI ​​of bosses from the original game and the Calamity mod for new difficulty levels.\nNew Accessories:\nAdded Fargo-themed accessories that integrate items, mechanics, and the Rogue class from the Calamity mod.\nBalance and Progression:\nExtensive changes in balance and progression for optimal compatibility of the content of both mods, customizable via the configuration file.\nError correction:\nFixed numerous bugs and problems that usually arise when using both mods and difficulty levels at the same time.\nPlanned Updates:\n\nDevelopment of compatibility with the Thorium mod.\nAdding new enchantments, compounds and souls based on elements from the Calamity and Thorium mods.\nCreation of new champions for added compounds.\nNote: The current version does not support secret game seeds such as Zenith.\n\nThis expansion is designed for players looking for new challenges and unique gameplay mechanics that enhance the modded Terraria experience, offering an even deeper and richer gaming experience.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "6b0bcbe1-4d0a-4d33-83b3-916d8c98f9a8",
+        "type_id": "4",
+        "name": "Wing Slot",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wing_slot/wing_slot.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wing_slot/wing_slot.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wing_slot/wing_slot_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wing_slot/wing_slot.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The \"Wing Slot\" mod for tModLoader adds a new slot for wings in your character's inventory in the game Terraria. This mod allows you to use wings along with other accessories without taking up a regular accessory slot.\n\nHere are some of the main features of the Wing Slot mod:\n\nAdditional slot for wings: After installing the mod, an additional slot will appear in your inventory, designed specifically for wings. Now you can carry wings in a separate slot without taking up space for other accessories.\nConflicts between wings and accessories: The Wing Slot mod allows you to use wings with other accessories without conflicts. You can now carry both types of items at the same time and get the benefits of both.\nConvenience and flexibility: This mod significantly improves the usability of wings in the game. Now you don't have to choose between wings and other accessories, you can use both types of items at the same time. This gives you more flexibility in creating your character and tailoring it to your gaming strategy.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "14071a28-3bed-48df-998c-121799182a1f",
+        "type_id": "4",
+        "name": "No More Tombs",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_more_tombs/no_more_tombs.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_more_tombs/no_more_tombs.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_more_tombs/no_more_tombs.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The No More Tombs mod for tModLoader is a modification that changes the mechanics of tombs in the game Terraria. Instead of the player coming across tombs in the world and opening them for treasure, this mod removes tombs from the game and changes how rewards are obtained.\n\nTomb Removal: The mod removes all tombs from the world, preventing them from spawning.\nNew ways to earn rewards: Instead of finding tombs, players will receive rewards and treasures through other sources in the world of Terraria. For example, they can receive them as loot from powerful monsters, after completing quests, or through special events.\nMore Varied Gameplay: The removal of tombs allows for greater freedom in exploring the world of Terraria and allows players to enjoy more varied ways to develop their character.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "b6ba9108-56fa-4205-9d78-8aa14b4746b5",
+        "type_id": "4",
+        "name": "DPSExtreme",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dps_extreme/dps_extreme.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dps_extreme/dps_extreme.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dps_extreme/dps_extreme_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dps_extreme/dps_extreme.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"DPSExtreme\" for tModLoader is a unique mod that adds an exciting element of competition to multiplayer games. Have you ever wondered who deals the most damage to a boss? You can now track your DPS and DPS against bosses in real time, and compare it with your friends' DPS.\n\nFeatures of the DPSExtreme mod:\n\nTeam DPS Meter: During boss battles, you will be able to see accurate statistics of your DPS and damage compared to other players on your team. This will help you understand who contributes the most to defeating the boss.\nBoss Damage Counter: The mod tracks the amount of damage each player deals to the boss. You will be able to easily see which of you is making the most contribution to defeating the boss.\nCompetition and Fun: You can compete with your friends to see who can deal the most damage to bosses. Try to challenge bosses using the same weapons and see who can deal more damage. This will add an extra level of fun and tension to your battles.\nDominance Meters: The mod also provides cute and colorful meters that show how dominant your character is over bosses. Spectacular visualization of your power adds a visual element to your battles and makes you feel like a true hero.\nDPSExtreme is a great mod for those who want to add an element of competition and fun to team battle games. Challenge your friends to see who is the strongest warrior and dominate the bosses with this exciting mod.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "b1c8aaeb-7b6c-40a3-9e65-234bcb50afb1",
+        "type_id": "4",
+        "name": "Too Many Accessories",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/too_many_accessories/too_many_accessories.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/too_many_accessories/too_many_accessories.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/too_many_accessories/too_many_accessories.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Too Many Accessories - A mod that allows you to increase your stats using slots for accessories and armor in vanilla mode, as well as using the hotbar and inventory.\n\nIt adds 8 new accessories crafted using Expert mode resources that allow you to increase your armor and accessories to exorbitant levels.\n\nAccessory activator in vanilla mode (Vanity Accessory Enabler), when equipped in an active accessory slot, allows you to receive accessory/armor effects from vanilla accessory/armor slots;\nHot panel accessory activator (Hotbar Accessory Enabler), when equipped in an active accessory slot, allows you to receive accessory/armor effects from hotbar accessories/armor;\nAccessory activator in the bottom row of inventory (Lowest Row Accessory Enabler), when equipped in an active accessory slot, allows you to obtain accessory/armor effects from accessories/armor in the bottom row of your inventory;\nAccessory activator in the bottom two rows of inventory (Two Lowest Rows Accessory Enabler), when equipped in the active accessory slot, allows you to obtain accessory/armor effects from accessories/armor in the bottom two rows of your inventory;\nAccessory activator in almost full inventory (Almost Full Inventory Acessory Enabler), when equipped in an active accessory slot, allows you to receive the effects of accessories/armor from accessories/armor in any inventory row except the top one (row below the hotbar);\nAccessory activator in full inventory (Full Inventory Acessory Enabler), when equipped in an active accessory slot, allows you to receive the effects of accessories/armor from accessories/armor in any row of the inventory (except for the hot bar);\nFull accessory activator (Total Accessory Enabler), when equipped in an active accessory slot, allows you to gain accessory/armor effects from any inventory slot, hotbar, or vanilla accessory/armor slots.\nChest accessory activator (Chest Accessory Enabler) must be configured by left clicking on any chest, piggy bank, safe or forge of the defender. Then equip it into your active accessory slot to have the contents of that chest added to your stats. It is limited by settings (default is disabled or set to 0) and each chest is only processed once, but you can share chests with other players.\nAdditionally, the chest accessory activator must be set up every time you enter a world (it doesn't save the chest it's on for common sense reasons), so every time you enter a world you need to open the accessory chest and use the activator chest accessories on it. This is a mod that does not aim to balance the game. Consider it a less cheating alternative to other similar mods.\nChanges in version 0.6:\n\nAdded piggy bank accessory activators as an alternative to filling the entire inventory with accessories:\nThey completely replace the use of the main inventory slots for accessories, so you cannot use, for example, an accessory activator from the bottom row with an accessory activator for a piggy bank.\nThey can still be equipped together, but only the one found first will be used.\nThe order of activating accessories and searching for armor is as follows: vanilla accessory slots, vanilla armor slots, hotbar, and then either the piggy bank or inventory from the first row to the last.\nThe ability to change configuration on servers has also been temporarily changed (you must be the first player on the server to make changes).",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "24777396-6e44-4a6e-a69e-1ed337b02a67",
+        "type_id": "4",
+        "name": "ItemMagnetPlus",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/item_magnet_plus/item_magnet_plus.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/item_magnet_plus/item_magnet_plus.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/item_magnet_plus/item_magnet_plus_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/item_magnet_plus/item_magnet_plus_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/item_magnet_plus/item_magnet_plus.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "This mod, called \"ItemMagnetPlus\", adds a new item called \"Item Magnet\", which does the obvious job of attracting items around you so you don't have to run around and collect them yourself.\n\nThe mod includes the following:\n\nItem Magnet (and corresponding buff) which\ncan be crafted from simple materials (Iron/Lead)\nworks while in your inventory\ncan be turned on and off\nhas an adjustable range and speed of attraction of objects\nimproves after killing bosses\ncustomizable via game configuration to suit your play style\nHow to use:\n\nUsing Item Magnet involves the following steps:\n\nLeft click toggles the range of action.\nRight click shows the current range (you can always check the stats in the buff tooltip).\nThis right-click feature changes to \"off\" when the \"Buff\" option in the configuration is false.\nItem Magnet stats improve after killing bosses.\nIf you want it to always be on or off, change the \"Scale\" option in the configuration to anything other than \"Increase With Bosses\".\nMultiplayer:\n\nThis mod is compatible with multiplayer:\n\nThe mod's configuration is completely server-side, but the buff flag is always set to 1.\nItems placed between two players with magnets will \"float\".\nIf the \"Instant\" option is enabled and multiple players are within the radius of the item, it will always be attracted to the same player (this depends on the order of attachment).\nDue to the \"catch delay\" being set only in single player, items dropped by the player are instantly pulled towards them, which is normal behavior.\nWhen using the Auto Trash mod, items may not be attracted and turn into “ghost” items.\nLost items due to this error cannot be restored.\nReport bugs in the appropriate forum thread (please).\nProgression: (default configuration)\n\nInitial values:\n\nRange = 10 blocks (each direction)\nSpeed ​​= 8\nAcceleration = 8\nFinal values: (after killing Moonlord)\n\nRange = 120 (one and a half screens)\nSpeed ​​= 32\nAcceleration = 32",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "3021b13e-7277-4dea-8a0e-356f999ec554",
+        "type_id": "4",
+        "name": "Vyklade's DBT Transformation Lib",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/vyklades_dbt_transformation_lib/vyklades_dbt_transformation_lib.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/vyklades_dbt_transformation_lib/vyklades_dbt_transformation_lib.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/vyklades_dbt_transformation_lib/vyklades_dbt_transformation_lib.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Vyklade's DBT Transformation Lib\" is a modification designed for the game Dragon Ball Terraria. It offers a set of methods, libraries and classes that will help in adding Super Saiyan transformations to the game.\n\nThis library provides a variety of features and tools to help players bring to life the iconic Super Saiyan transformations from the world of Dragon Ball. It allows you to add new abilities and abilities associated with these transformations, including improved strength, speed and energy attacks.\n\n\"Vyklade's DBT Transformation Lib\" may be useful for players looking to expand and improve their gaming experience in Dragon Ball Terraria. It provides additional functionality and the ability to become a true Super Saiyan, increasing the level of interaction and excitement during the game.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "d05e87f0-cb3d-430c-ae97-0da71d4e787e",
+        "type_id": "4",
+        "name": "Expanded Inventory",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_inventory/expanded_inventory.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_inventory/expanded_inventory.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_inventory/expanded_inventory_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_inventory/expanded_inventory_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_inventory/expanded_inventory_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_inventory/expanded_inventory.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Expanded Inventory mod for tModLoader expands your gameplay experience by adding new features and expanding the capabilities of your inventory. With this mod you will be able to enjoy a larger inventory and get additional slots to store items from other mods.\n\nFeatures:\n\nSwitching pages: The mod offers a convenient way to navigate through the expanded inventory. You can easily switch between different inventory pages using arrows or hotkeys. This feature allows you to efficiently organize and quickly access your items.\nInventory size increase: Goodbye standard inventory limitations! The Expanded Inventory mod allows you to significantly increase the size of your inventory. With extra slots, you will have enough space to store all your valuable items, resources and equipment.\nCompatibility with other mods: This mod integrates seamlessly with other mods to ensure compatibility and smooth gameplay. You can use the expanded inventory slots to store items from different mods, allowing you to explore and use more content.\nSettings to suit your taste: The Expanded Inventory mod offers you settings to optimize inventory management. You can customize your preferred hotkeys and personalize the mod to suit your gaming style.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "8d769614-e7a3-4ae6-808d-ce1049a06cf4",
+        "type_id": "4",
+        "name": "Special Seeds",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/special_seeds/special_seeds.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/special_seeds/special_seeds_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/special_seeds/special_seeds_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/special_seeds/special_seeds_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/special_seeds/special_seeds_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/special_seeds/special_seeds_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/special_seeds/special_seeds_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/special_seeds/special_seeds_07.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/special_seeds/special_seeds_08.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/special_seeds/special_seeds.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Special Seeds is a mod created for the popular game tModLoader that adds a variety of unique seeds that can be used to create custom worlds. Inspired by mods such as \"Not the Bees!\" and \"The Constant\", this mod adds a new level of excitement and creativity to your gaming experience.\n\nNew Seed Options: The Special Seeds mod provides a collection of exciting seed options to choose from when creating a world. These seeds offer different types of terrain, structures, and challenges to explore.\nCustomizability: With the Special Seeds mod you can customize your own unique seed. While customization options are currently limited, you can mix different seeds together to create even more varied and interesting worlds.\nAdvanced World Gen Dependency: Please note that this mod requires the Advanced World Gen mod to be installed for full functionality.\nEasy Seed Selection: To select a specific seed when creating a world, simply click on the gear icon next to the SEED option.\nNew Gaming Experience: Each seed offers a unique gaming experience with its own set of features and surprises. From icy landscapes to jungles, you will face various challenges and secrets along the way.\nAvailable seeds:\n\nCustom: Click on the tree button during world creation to select blocks.\nIcemania: Spawn in a world where most of the surface and rock layers are covered in ice and snow. Giant ice spikes can be found everywhere, and there may also be hidden secrets waiting to be discovered!\nJunglemania: Prepare to emerge into a world where dirt and stone are prevalent everywhere. Hives are scattered throughout the world, promising encounters with bees and their treasures!\nDesertmania: Experience a sandy adventure by appearing in a world where most of the surface and rock layer is made up of sandstone and hardened sand. Prepare for a quagmire!\nMeteormania: In this seed, the surface is mostly rock and the rock layer is filled with meteorites. Meteorites have fallen all over the surface, and you'll encounter meteorite pyramids that may hold valuable secrets!\nRainy Day: Prepare for a world where the entire sky is filled with clouds! Your spawn point will be high in the sky, providing a unique starting point for your adventures.\nCavemania: Explore a world filled with giant caves and underground wonders. Keep an eye out for the large earthen spikes underground, and at the very heart of the world you will find a huge pyramid of granite and marble hiding its secrets.\nNuked: Enter a world where most of the surface and rock layer is covered with earth. There is no normal grass or trees here and you have to be careful as the geiger counter starts ticking above the surface and in the liquids. Prolonged exposure to these areas will cause serious damage!\nTrapmania: Beware of traps placed throughout the world! Pay attention to the cracked stone, as it will break if you step on it. Be careful to avoid unexpected surprises!\nWoodlands: Start your journey in a world where a large tree dominates the spawn area. The world is filled with green leaves and branches, creating a unique and magical atmosphere.\nUpside Down? (Upside Down World?): Travel to an upside down world where gravity is reversed. Get ready for a thrilling experience as you travel through this upside-down world!\nSpider: Venture into a world full of spiders and their complex webs. Your spawn point will be underground, and beware as spiders are afraid of light!\nShort: Experience a shorter world with a reduced size of several hundred blocks. Please be aware that combining this seed with others may increase the chance of errors.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "021924d5-a369-4719-ae5d-d797dea07387",
+        "type_id": "4",
+        "name": "Advanced World Generation",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/advanced_world_generation/advanced_world_generation.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/advanced_world_generation/advanced_world_generation.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/advanced_world_generation/advanced_world_generation_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/advanced_world_generation/advanced_world_generation_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/advanced_world_generation/advanced_world_generation_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/advanced_world_generation/advanced_world_generation_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/advanced_world_generation/advanced_world_generation_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/advanced_world_generation/advanced_world_generation.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "This mod aims to add variety to the world generation process without violating the core principles of the original generator, aiming to remain as close to the vanilla version as possible.\n\nMain features of the mod:\n\nCompatible with vanilla and custom seeds: The mod allows you to combine different seeds with vanilla and custom options, so you can enjoy both \"For the Worthy\" and \"Drunk\" world generation, as well as other variations.\nPossibility of choosing seeds: You can select different seed options using the gear icon located to the right of the seed input field in the world creation UI.\nDisabling secret seeds: The mod removes the standard way to activate secret seeds, so no seeds will trigger a secret anymore, they can only be activated through the options UI.\nAdditional world generation improvements: In the mod settings you can enable the recommended additional improvement in world generation. It changes the generation process slightly, but at the same time significantly speeds it up, especially for large worlds, and fixes some problems.\nSetting the world size: The mod also has the ability to customize the size of the world. It already works quite well, except for some graphical bugs associated with the vanilla version. Custom world size works best in combination with improved world generation and may be necessary in some cases. However, it's worth noting that if your world's width to height ratio is significantly different from vanilla, the generation may look unusual (at least for now).\nCompatible with other mods: This mod is compatible with almost all other mods and I try to fix problems as soon as they are reported. However, there is a known compatibility issue with the Calamity mod, but it should be fixed by the developers of this mod. In any case, this mod by itself cannot cause a problem. If someone tells you to turn it off, that's stupid. If you want to fix a problem with another mod yourself, pay attention to the following possible reasons:\nSome mods do not support the world size you choose, try to get closer to the vanilla size.\nSome options you have enabled may not be supported in combination with other mods.\nIt is possible that the additional generation enhancement option conflicts with another mod, although this is unlikely.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "d829e6b0-f5a8-4eb5-a3b5-e2760d06cf87",
+        "type_id": "4",
+        "name": "Compare Item Stats",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/compare_item_stats/compare_item_stats.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/compare_item_stats/compare_item_stats.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/compare_item_stats/compare_item_stats_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/compare_item_stats/compare_item_stats_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/compare_item_stats/compare_item_stats.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Compare Item Stats Plus is a unique client mod developed for the game that gives you the ability to compare stats between the currently selected item and the item you hover over in the tooltip.\n\nMod features\nSide by side comparison: The mod allows you to visually see the differences between the current item and the item the cursor is hovering over. This will help you make easier decisions when choosing equipment and optimize your gaming strategy.\nWide range of supported features: Compare stats such as damage, crit chance, speed, knockback, fishing/bait strength, lava fishing, lava critter fishing, pickaxe/axe/hammer strength, mana/life regeneration, mana usage, auto attack, range tool, class, flight time with wings, horizontal/vertical speed with wings, protection and life recovery.\nIntegration with equipment: If you hover over armor or wings and the selected item is of a different archetype, the mod will automatically compare those items to your currently equipped gear.\nIntuitive interface: The mod has a simple and intuitive interface that is easy to use even for beginners.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "5139fa5c-2339-492a-a39e-f7386cb34f26",
+        "type_id": "4",
+        "name": "Atmospheric Torches",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/atmospheric_torches/atmospheric_torches.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/atmospheric_torches/atmospheric_torches.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/atmospheric_torches/atmospheric_torches_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/atmospheric_torches/atmospheric_torches_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/atmospheric_torches/atmospheric_torches.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Atmospheric Torches is a mod for tModLoader that adds a unique look to your torches in Terraria.\n\nMain features of the mod:\nImproved visualization - This mod adds an orange tint to regular torches and tikki torches, giving them a bright and atmospheric look. Placed blocks and biome torches also receive a subtly flickering effect, adding to the overall ambiance of your world.\nBrightness setting — In the mod settings you can adjust the brightness of the torches to your liking. Whether it's a soft glow or bright lighting, you have the ability to customize the lighting to create the perfect ambiance.\nImmersive atmosphere - By adding a subtle shimmering effect to placed blocks and biome torches, Atmospheric Torches enhance the immersion in the world of Terraria. Explore dark caves or travel through different biomes while enjoying the atmospheric effects of flickering torches.\nCompatibility and Stability — The mod is designed to be compatible with other mods for Terraria. However, it is worth noting that there is an extremely unlikely possibility of conflicts with other mods if they change the same specific line of code responsible for the color lighting of the torches. However, the likelihood of such conflicts is extremely low.\nEasy setup — Installing and configuring the mod is not difficult. Simply download and install Atmospheric Torches using tModLoader and you can customize the flickering effect and brightness of the torches according to your preferences.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "b7b0bc51-f6cc-41dd-a329-afcd96751175",
+        "type_id": "4",
+        "name": "Shoe Slot",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shoe_slot/shoe_slot.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shoe_slot/shoe_slot.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shoe_slot/shoe_slot.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Shoe Slot\" is a modification for tModLoader that adds an additional shoe slot in the game Terraria.\n\nMain features of the mod:\nAdditional shoe slot - With this mod you get an additional slot in which you can place special shoe items. You will now be able to wear extra boots, sandals or other footwear items to help you on your adventure.\nUnique bonuses for shoes - Each shoe you place in a new slot will provide unique bonuses and abilities to your character. For example, some shoes can increase your movement speed, provide extra jumps, or even allow you to float on water.\nCharacter Expansion - Adding an additional shoe slot will allow you to expand the capabilities of your character. You will be able to create a unique combination of footwear items to get maximum benefits in different situations. Whether it's exploring dungeons, fighting bosses, or overcoming obstacles, the Shoe Slot mod will help you reach new heights.\nIntegration with other mods - This mod is compatible with other mods for Terraria, allowing the additional shoe slot to be used in conjunction with other improvements and content provided by other mods.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "0d47c69b-da14-40ab-a490-f1a05e9e63e8",
+        "type_id": "4",
+        "name": "Lan's Unlimited Buff Slots",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lans_unlimited_buff_slots/lans_unlimited_buff_slots.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lans_unlimited_buff_slots/lans_unlimited_buff_slots.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lans_unlimited_buff_slots/lans_unlimited_buff_slots.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Lan's Unlimited Buff Slots is a modification for tModLoader that expands the number of buff slots available in Terraria.\n\nMain features of the mod:\nUnlimited buff slots - With this mod you are no longer limited in the number of buffs you can activate at the same time. Enjoy freedom and variety by activating all the buffs that will help you on your adventure.\nConvenient buff management — The Lans Unlimited Buff Slots mod provides a convenient interface for managing active buffs. You can easily add, remove or switch buffs without restrictions.\nMod support - This mod is compatible with other Terraria mods, allowing you to enjoy not only the expanded number of buff slots, but also other improvements and content provided by other mods.\nImproving efficiency - With the ability to activate more buffs at once, you can increase your effectiveness in battles and adventures in the world of Terraria. Your character will become more powerful and prepared for any challenges you face.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "124444b4-d8b3-4707-92f1-84832fe1438f",
+        "type_id": "4",
+        "name": "WorldGen Previewer",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/worldgen_previewer/worldgen_previewer.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/worldgen_previewer/worldgen_previewer.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/worldgen_previewer/worldgen_previewer.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "WorldGen Previewer is a mod for tModLoader that modifies the world generation screen by adding a preview of the map while it is being generated. Now you can see how your world is shaping up and make decisions based on that information. This mod also gives you the ability to pause, resume, retry, skip or cancel generation at your discretion.\n\nMod features:\nGeneration Preview - This mod allows you to see a preview of the map during world generation. Youll be able to watch your world gradually take shape, which will help you make meaningful decisions about the process moving forward.\nGeneration management - WorldGen Previewer gives you complete control over the world generation process. You can pause the generation to take a closer look at the current result, and then resume or repeat the generation if you need to make changes. You can also skip certain generation steps if you are not interested in them, or cancel a generation if you are not happy with the current progress.\nRepeating the generation step - With this mod you can repeat a specific generation step to create multiple instances of certain world elements. For example, you can repeat the dungeon creation step to generate several dungeons and choose the one that interests you the most.\nExperience Improvement - Thanks to WorldGen Previewer, you can enjoy an improved world generation experience. Youll be able to make more informed decisions based on previews and control the generation process to create the perfect world in Terraria.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "17637b76-45ea-4bcf-b2eb-14ccb3bc3d56",
+        "type_id": "4",
+        "name": "Friendly NPCs Don't Die",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/friendly_npcs_dont_die/friendly_npcs_dont_die.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/friendly_npcs_dont_die/friendly_npcs_dont_die.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/friendly_npcs_dont_die/friendly_npcs_dont_die.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Friendly NPCs Don't Die is a modification for the game Terraria that allows you to protect your friendly NPCs from enemies and deadly dangers. Instead of worrying about the safety of their lives, this mod allows you to enjoy their presence and interaction without worrying about their death.\n\nImmunity to mortal dangers - With this mod, your friendly NPCs will become invulnerable to deadly dangers such as falling, lava or poison. No more worrying about them accidentally dying while exploring or fighting.\nProtection from enemies - The mod also provides protection to your friendly NPCs from enemies who may attack them. They will have increased stamina and the ability to repel attacks, allowing them to survive even in the most dangerous situations.\nSetting the protection level - The mod allows you to customize the protection level for each friendly NPC according to your preferences. You can choose how resistant they are to hazards and attacks to strike a balance between protection and realism.\nCompatible with other mods - Friendly NPCs Dont Die is compatible with other mods, allowing you to enjoy protecting your friendly NPCs even while playing with other mods. Create unique combinations and enjoy the safety of your team.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "0b81ef40-c690-4fb4-ac02-7fc4dec0c73d",
+        "type_id": "4",
+        "name": "Fargo's Best of Both Worlds",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_best_of_both_worlds/fargos_best_of_both_worlds.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_best_of_both_worlds/fargos_best_of_both_worlds.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_best_of_both_worlds/fargos_best_of_both_worlds.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Fargo's Best of Both Worlds mod introduces you to the ability to create unique and exciting worlds in Terraria. Taking you beyond normal world generation, this mod allows you to select various features that are usually only available through secret seeds.\n\nMod features:\nSpawn Both Evils — Create a unique world in which both types of evil will be present: Corruption and Death. Challenge two powerful bosses and show your skills in the battle against darkness!\nSpawn Both Ore Sets - Gain access to both sets of ores: Copper/Tin and Iron/Lead. Expand your capabilities to create powerful equipment and weapons!\nInvert World — Immerse yourself in a unique underground world, inverting its atmosphere and creating amazing landscapes. Explore new opportunities and open new horizons!\nGuaranteed Ocean Caves - Let yourself be immersed in the underwater world without having to worry about finding ocean caves. They are guaranteed to be present in your world, offering you unique opportunities for exploration and adventure!\nIncreased Surface Living Trees - Add beauty to your world by increasing the number of living trees on the surface. Enjoy greener, more picturesque surroundings that inspire you to new adventures!\nLarge Bee Hives — Create large bee hives to get even more honey and other useful resources. Improve your production and enjoy the fruits of your labor!\nGuaranteed Pyramid in Desert — Guaranteed entrance to the underground desert through the pyramid. Discover new secrets and treasures hidden in the sand caves!\nStart in Ocean — Start your adventure right in the ocean. New challenges, resources and amazing sea creatures await you!\nHuge Jungle Temple — Meet a huge temple in the jungle, full of dangers and treasures. Show your courage and collect the rewards hidden in the depths of this mysterious place!\nAdditional Spider Caves - Discover additional spider caves full of dangers and valuable resources. Explore them, fight spiders and conquer new territories!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "8bb3d240-8a27-47f0-9a38-346c6cb0dbde",
+        "type_id": "4",
+        "name": "Can I Shimmer This? [CIST]",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/can_i_shimmer_this_cist/can_i_shimmer_this_cist.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/can_i_shimmer_this_cist/can_i_shimmer_this_cist.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/can_i_shimmer_this_cist/can_i_shimmer_this_cist_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/can_i_shimmer_this_cist/can_i_shimmer_this_cist_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/can_i_shimmer_this_cist/can_i_shimmer_this_cist.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Can I Shimmer This? [CIST]\" is an innovative mod for Terraria that adds unique shine and item customization mechanics to the gameplay. With this mod you can give your items new effects and add shine, creating exciting visual combinations and enhancing your gaming session.\n\nFeatures of the mod “Can I Shimmer This? [CIST]\":\nCustomizable glitter effects: Mod “Can I Shimmer This? [CIST]\" allows you to add shine to items in Terraria. You can choose from a wide range of textures, colors and animations to create unique sparkly effects for each item. This allows you to completely customize the appearance of items and give them your own personal touch.\nIntuitive effects editor: Mod “Can I Shimmer This? [CIST]\" provides you with a simple and intuitive effects editor with which you can customize the shine for each item. You can adjust brightness, transparency, animation speed and other parameters to achieve the desired visual effect.\nAdvanced effects combination options: Mod “Can I Shimmer This? [CIST]\" offers advanced effects combination capabilities. You can apply multiple glitter effects to one item, creating unique combinations and adding multiple layers of glitter. This allows you to create impressive visual effects and highlight your characters style.\nCompatibility with other mods: Mod “Can I Shimmer This? [CIST]\" is fully compatible with other mods for Terraria. You can add glitter to items from other mods and combine their effects, expanding your options and creating unique style combinations.\nEasy to install and use: Mod “Can I Shimmer This? [CIST]\" is easy to install and intuitive to use. You can quickly get used to its features and start adding shine to your items in Terraria.\n\"Can I Shimmer This? [CIST]\" is a mod for the game Terraria that allows you to add shine and customize items in the game. With it, you can create unique glitter effects, combine them and give your gaming session new visual possibilities.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "104291b4-79cf-4b3e-baa9-c9c50a000538",
+        "type_id": "4",
+        "name": "Display Luck Count",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/display_luck_count/display_luck_count.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/display_luck_count/display_luck_count.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/display_luck_count/display_luck_count_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/display_luck_count/display_luck_count.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Display Luck Count mod gives players the ability to display the exact luck count in the game Terraria. Luck is an important game stat that affects various aspects of gameplay, including item drops, chances of critical hits, and other random events.\n\nMain features of the mod:\n\nDisplays the exact luck value in the game interface.\nProviding information about the players luck level in real time.\nHelp in assessing and analyzing the influence of luck on various game mechanics and events.\nHow to use the mod:\n\nInstall the \"Display Luck Count\" mod for tModLoader.\nAfter installing the mod, a new element will appear in the game interface that displays the player’s current luck value.\nWhen your luck level changes, the value will be updated automatically to reflect the current situation.\nThe Display Luck Count mod provides players with useful information about the meaning of luck, helping them better understand and control their chances of various game events.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "a55330f4-9b67-4ad6-b202-01ecce50a933",
+        "type_id": "4",
+        "name": "World Link",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/world_link/world_link.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/world_link/world_link.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/world_link/world_link_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/world_link/world_link.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Have you often forgotten what world and what character you usually play in, after creating many characters and worlds? The World Link mod offers a solution to this problem by allowing you to link worlds to specific characters.\n\nHow to use this mod\n\nSelect the character you want the world to relate to.\nAfter this, a button with a chain icon will appear in the world selection menu.\nClick on this button to bind the selected world to the character.\nNow, in the character selection menu, you can immediately launch a connected world.\nDecoupling the world from the character\n\nIf you need to untether the world from your character, follow these steps:\n\nIn the character selection menu, find the selected character in the list of worlds.\nClick on the binding button (this time the icon will be in the form of a cross).\nThe world will be untied from the character.\nSetting up the display of the button in the config\n\nYou can also hide the display of the button if the character does not have a world attached to it by making the appropriate changes in the mods configuration file.\n\nI hope this information will help you use the World Link mod more effectively and avoid forgetting when choosing your character and world.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "26c9b341-0c1e-4e70-89e5-8627c56fc34e",
+        "type_id": "4",
+        "name": "Concise Mods List of mods",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/concise_mods_list_of_mods/concise_mods_list_of_mods.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/concise_mods_list_of_mods/concise_mods_list_of_mods.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/concise_mods_list_of_mods/concise_mods_list_of_mods_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/concise_mods_list_of_mods/concise_mods_list_of_mods_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/concise_mods_list_of_mods/concise_mods_list_of_mods_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/concise_mods_list_of_mods/concise_mods_list_of_mods.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Concise Mods List mod is a tool for managing and viewing installed mods in the game Terraria. It displays a compact list of mods with information about the name, author and version of each mod. The mod also provides quick access to the settings and functions of each mod, as well as the ability to enable or disable them directly from the list.\n\nMain features of the mod:\n\nCompact display of the list of installed mods in the game Terraria.\nAn informative presentation of each mod, including name, author and version.\nQuick access to the settings of each mod.\nAbility to enable and disable mods directly from the list.\nThe \"Concise Mods List\" mod makes it easier to manage and view installed mods in the Terraria game, providing a convenient interface and quick access to the settings of each mod. This allows players to easily customize their gaming experience and enjoy the variety of modifications available in the Terraria community.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "f59208fb-73c5-4ec0-8319-7dab1bc62989",
+        "type_id": "4",
+        "name": "Shop Expander",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shop_expander/shop_expander.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shop_expander/shop_expander.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shop_expander/shop_expander.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Shop Expander\" is a mod for tModLoader that expands the functionality of stores in the game. It is designed to provide the player with more trading options, expand the range of goods and add new features to make the gaming experience even more diverse.\n\nThe main features of the Shop Expander mod include:\n\nExpanded range of products: The mod allows you to add new products to the game stores. This may include new weapons, armor, accessories, tools, building materials, and more. Expanding the range of goods allows players to have more options for improving their character, building and fighting enemies.\nNew trading features: Shop Expander also adds new features to stores to make shopping more fun and convenient. For example, a mod might include the ability to sell items that were previously unsellable, or add special offers and discounts on items. This allows players to benefit more from trading operations and the economic aspect of the game.\nSetup and Compatibility: The Shop Expander mod usually offers customization and compatibility with other mods. Players can choose which items will be added to stores, as well as customize prices and availability of items. Additionally, the mod can be compatible with other mods to provide even more trading and economic development opportunities in the game.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "0ad3d668-a4e0-487a-9b0a-f75096db765b",
+        "type_id": "4",
+        "name": "HP Awareness",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hp_awareness/hp_awareness.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hp_awareness/hp_awareness.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hp_awareness/hp_awareness_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hp_awareness/hp_awareness_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hp_awareness/hp_awareness_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hp_awareness/hp_awareness_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/hp_awareness/hp_awareness.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"HP Awareness\" is a mod for tModLoader that provides the player with additional information about health indicators in the game. It is intended to increase the player's awareness of their current health and provide useful indicators for decision making in battle.\n\nKey features of the HP Awareness mod include:\n\nAdditional health information: The mod adds additional health indicators to the player screen. This may include information about current health, maximum health, health level, and other metrics that will help the player better understand their physical endurance in the game.\nConvenient access to information: HP Awareness provides health information in a player-friendly format. It can be integrated into the games user interface, allowing the player to easily track their health in real time without the need to constantly open the inventory or character window.\nPersonalization and customization: The HP Awareness mod usually includes the ability to customize and personalize health information. The player can choose which health indicators to show and how they will be displayed on the screen. This allows each player to customize the mod to suit their preferences and gaming style.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "4d5b7bf2-22c3-4942-9050-0bff0a6d5a4e",
+        "type_id": "4",
+        "name": "Gravitation Don't Flip the Screen",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/gravitation_dont_flip_the_screen/gravitation_dont_flip_the_screen.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/gravitation_dont_flip_the_screen/gravitation_dont_flip_the_screen.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/gravitation_dont_flip_the_screen/gravitation_dont_flip_the_screen.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Gravity Don't Flip the Screen\" is a mod for tModLoader that prevents the screen from flipping when using the Gravity item in the game. This mod significantly improves gaming comfort and prevents possible problems with screen orientation when using this item.\n\nKey features of the Gravity Dont Flip the Screen mod include:\n\nStable screen orientation: When using the Gravity item, which normally changes the screen orientation, the modification prevents this effect. This allows the player to maintain a stable screen orientation while using the item, which greatly improves the gaming experience.\nGaming comfort: Thanks to the \"Gravity Dont Flip the Screen\" mod, players no longer experience the discomfort of flipping the screen when using the Gravity item. This allows them to enjoy the game more freely and comfortably without being distracted by screen orientation issues.\nMaximizing productivity: Since the modification prevents the screen from flipping when using the Gravity item, this may also improve game performance. By eliminating the need to redraw the screen, computer resources can be used more efficiently, which can result in a smoother gaming experience.\nThe Gravitation Dont Flip the Screen mod greatly improves the gaming experience by preventing the screen from flipping when using the Gravity item. If you want to avoid screen orientation issues and enjoy a more comfortable gaming experience, this mod will be a great addition for you.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "e0bd608f-abd1-4fb2-ac8d-fa1d30996e55",
+        "type_id": "4",
+        "name": "Summoner UI",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/summoner_ui/summoner_ui.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/summoner_ui/summoner_ui.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/summoner_ui/summoner_ui.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Summoner UI is a mod for tModLoader that extends the functionality of the Summoner class in Terraria. This mod provides a user-friendly user interface (UI) that helps Summoner players better manage their creatures and use them effectively in battle.\n\nImproved user interface: The mod adds a new user interface specifically designed for the Summoner class. This interface allows players to easily view information about their creatures, their health, damage and other stats.\nCreature Control: Summoner UI provides intuitive tools for controlling summoner creatures. You will be able to set priorities for attacks, control the positioning of creatures, and also customize their behavior in battles.\nBonus tracking: The mod also provides the ability to track bonuses associated with the Summoner class. You will be able to see active bonuses and their duration, which will help you effectively use your creatures in battles.\nInterface customization: Summoner UI allows you to customize the interface according to your preferences. You can change the size and position of interface windows to better suit your gaming style.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "de3618a1-13e1-4ca1-8889-dea20dc576d1",
+        "type_id": "4",
+        "name": "Platform Helper",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/platform_helper/platform_helper.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/platform_helper/platform_helper.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/platform_helper/platform_helper.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Platform Helper is a useful mod for tModLoader that makes creating platforms and building in Terraria much easier. This mod provides players with additional tools and features to make the building process more efficient and convenient.\n\nImproved platform placement features: Platform Helper offers improved platform placement features, making platform placement more accurate and faster. You can easily create horizontal and vertical platforms, and automatically connect them together to create more complex structures.\nAutomatic platform expansion: The mod also offers the ability to automatically expand platforms during construction. You can easily create long platforms by moving your mouse in the desired direction, and the mod will automatically place new platform blocks.\nImproved stair function: Platform Helper adds an improved stairs feature that makes it quick and easy to create stairs in the game. The mod automatically adds staircase blocks when you specify the direction and length of the staircase.\nAdditional tools and features: The mod also offers additional tools and features that simplify and improve the construction process. You can use the automatic block filling feature, create duplicate structures, and much more.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "8e96f6fe-653c-45e2-b04e-d0f55909fab3",
+        "type_id": "4",
+        "name": "Item Checklist",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/item_checklist/item_checklist.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/item_checklist/item_checklist.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/item_checklist/item_checklist.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Item Checklist is a mod for tModLoader that provides players with convenient tools for tracking and controlling items in Terraria. With this mod you can easily manage your collection of items, mark those you have already collected and keep track of those that you still need to find.\n\nFull control over items: Item Checklist allows you to keep track of all items in Terraria and control their availability. You will be able to see which items you already have and which ones still need to be collected or found.\nList personalization: The mod allows you to customize the list of items at your discretion. You can choose which items to show and which to hide so you can focus on the ones that matter to you.\nMarks and filters: Item Checklist offers the ability to check off items that you have already collected or received. You will be able to see the progress of collecting each item and monitor your achievements. In addition, the mod provides filters to help you sort and find the items you need.\nTips and information: The Item Checklist mod provides useful hints and information about each item. You will be able to find out its characteristics, abilities and crafting recipes to better understand how to use them in the game.\nList of mod functions Item Checklist:\n\nView and control all items in the game: You will be able to see a complete list of items and track their availability.\nHints and information about each item: You will be able to find out details about each item, including its characteristics, abilities and crafting recipes.\nCheck-ins to track progress: You will be able to mark items that you have already collected or received to monitor your progress.\nSetting up a list of items: Youll be able to customize your list by choosing which items to show and which to hide.\nFilters for convenience: The mod provides filters to help you sort and find the items you need.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "ca0671bb-f9f6-429c-ab61-4a86fe9cc376",
+        "type_id": "4",
+        "name": "Angler Shop",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shop/angler_shop.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shop/angler_shop.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shop/angler_shop_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shop/angler_shop_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shop/angler_shop_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/angler_shop/angler_shop.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Angler Shop is a mod for tModLoader that adds new mechanics and a store for the Angler character in Terraria. This mod allows players to receive unique items and rewards in exchange for completing fishing competition tasks.\n\nNew Angler Shop: The Angler Shop is a unique store that is available to players after completing a certain number of tasks in the fishing competition. In the store you can exchange your rewards for various items and accessories.\nUnique items and accessories: Angler Shop offers a wide selection of unique items and accessories that cannot be obtained any other way. These items can provide players with additional bonuses and abilities that enhance their gaming experience and capabilities.\nLevels and progress: The Angler Shop mod introduces a leveling and progression system for the \"Angler\" character. Complete fishing competition tasks to level up your character and unlock new items in the store.\nNew tasks and challenges: Angler Shop mod offers new fishing tasks and challenges that can be completed to earn points and progress. Take part in various fishing competitions and prove your skills!\nUnique rewards: For successfully completing tasks and gaining a certain number of points, you can receive unique rewards that are only available in the Angler Shop. These rewards can be both visual and functional, providing players with unique features and benefits.\nList of items and accessories in Angler Shop:\n\nFishing rods: Unique fishing rods with improved characteristics and abilities.\nTackle and bait: A variety of tackle and bait that will help you catch rare species of fish and get additional bonuses.\nFishermans accessories: Unique accessories that improve your fishing skills and offer additional bonuses.\nDecorative items: Visual items that can be used to decorate your base or world in Terraria.\nUnique tools: New tools and items to help you in fishing and other adventures.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "a0c83b50-f134-4e7e-8be0-2ba8b809c3d3",
+        "type_id": "4",
+        "name": "Fishing Reborn",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fishing_reborn/fishing_reborn.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fishing_reborn/fishing_reborn.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fishing_reborn/fishing_reborn.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Fishing Reborn is a mod for the tModLoader game that completely reworks and expands the fishing mechanics. It adds new fish species, gear, events, and fishing locations to make fishing in Terraria even more fun and varied.\n\nNew Fish Species: Fishing Reborn introduces more than 50 new fish species that can be caught in various bodies of water. Each fish has its own characteristics, rarity and abilities.\nExpanded Gear: The mod adds new fishing gear, including fishing rods, bait and accessories. These items improve your chances of catching fish and offer unique bonuses and abilities.\nFishing Events: Fishing Reborn introduces new fishing events that randomly occur and offer additional challenges and rewards. Take part in competitions with other fishermen and prove your skills!\nNew fishing spots: The mod adds new biomes and bodies of water in which you can fish. Explore different regions and discover new types of fish and gear.\nFishing Achievements: Track your fishing progress with the new achievement system. Achieve various goals and unlock unique rewards.\nList of new gear and items:\n\nMulti-colored fishing rods: Fishing rods of different colors with unique abilities and bonuses.\nMagnetic baits: Baits that attract fish from afar and increase the chances of catching fish.\nFishing accessories: Accessories that improve your fishing skills and offer additional bonuses.\nFishermans tools: New tools like nets and nets to help you catch rare fish and other aquatic creatures.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "3a20099a-3b3a-487f-9f74-a8adf2476c3f",
+        "type_id": "4",
+        "name": "Magic Builder",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder_07.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder_08.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_builder/magic_builder.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Magic Builder is a mod for tModLoader in the game Terraria, which brings new opportunities for the construction of housing and auxiliary structures. If you're tired of seeing the same old wooden boxes every time you play through the game, then Magic Builder is a great choice. This mod makes home building fun and easy by offering homes and structures in a variety of biome themes that can be created using magical consumables.\n\nMain features of the mod:\n\nNew Homes and Structures: Magic Builder adds a variety of new homes and structures created in a variety of biome themes. Now you can create unique and beautiful houses that meet the requirements of different biomes, such as forest, desert, mushroom kingdom, etc. Each home has its own characteristics that make it unique and functional.\nExamples of some houses:\n\nDryads House: A dwelling covered in foliage and decorated with flowers, ideal for the forest biome. In it you can find magical items related to vegetation.\nNomad Tent: A mobile desert dwelling that looks like a cozy oasis with a cheerful atmosphere. Contains useful items for survival in the desert biome.\nMagic consumables: To create houses and structures in the Magic Builder mod, special magical consumables are used. These materials can be obtained from various sources, such as new mobs, chests, or alchemical recipes. They allow you to create unique decorative and furniture pieces that add style and ambience to your buildings.\nExamples of magic consumables:\n\nMagic Fairy Feather: Can be obtained from unique mobs living in the forest biome. Used to create a birds nest that replaces a regular table.\nArcane Sandstone: Mined in the desert and used to create special walls and furniture in Nomads tent.\nNew NPC - Householder: With the advent of the Magic Builder mod, a new NPC - Householder - appears in the world of Terraria. He is a fan of houses and can communicate with them. The Householder will move into your world after you craft your first item from the mod. You can talk to him to learn more about his unique building methods or to see what kind of homes he has to offer.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "844b67d9-44e7-4415-b054-46cea84f0186",
+        "type_id": "4",
+        "name": "Helpful NPCs",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/helpful_npcs/helpful_npcs.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/helpful_npcs/helpful_npcs.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/helpful_npcs/helpful_npcs.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Helpful NPCs is a gameplay-expanding mod that adds five new non-player characters (NPCs) to the game. Each of them offers unique items that are usually difficult or boring to obtain.\n\nMiner: Specializes in the sale of bars, gems and natural blocks. To interact with him, you will need a Sparkling Stone, created from one stone block and a certain amount of gold coins.\nHunter: Offers items related to monsters, souls and essences, as well as ammunition. To access his assortment, you need a Shining Gel, made from one gel and several gold coins.\nFisherman: Specializes in selling various baits, regular and quest fish. To communicate with him, you must have a Shining Fish, created from one perch and several gold coins.\nEcologist: Offers a variety of herbs, seeds and animals. To gain access to his product, you will need a Dazzling Flower created from Dayflower and a number of gold coins.\nChester: An unusual NPC who offers random items that can usually only be found in chests. He may appear randomly in the game world.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "0c250799-cdb2-4829-a19d-86f93a73c360",
+        "type_id": "4",
+        "name": "New Beginnings",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/new_beginnings/new_beginnings.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/new_beginnings/new_beginnings_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/new_beginnings/new_beginnings_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/new_beginnings/new_beginnings_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/new_beginnings/new_beginnings.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "New Beginnings is a mod for Terraria that is designed to change and improve many aspects of the game, including more thorough progression, improved combat mechanics, and new gameplay elements. This mod is only available through Tmodloader, an extension that adds support and makes it easier to install mods for Terraria.\n\nFeatures of New Beginnings mod:\n\nNew Classes: The mod adds three new classes - Shaman, Polytech and Alchemist - each with their own unique abilities and skills. Players will be able to further customize their characters and use them to better defend against enemies and attack more effectively.\nImproved Combat Mechanics: The mod adds a wider and more varied arsenal of weapons, as well as new combat mechanics such as blocking attacks and extended ranged attacks. Players will be able to use different tactics and strategies to win battles.\nMore thorough development: The mod adds new world events consisting of deeper and more interesting stories, and also provides the opportunity to develop in different ways. Players will be able to choose their path through the game and shape their story, as well as discover the mysteries and secrets hidden throughout the world of Terraria.\nNew Items: The mod adds many new items including weapons, armor, and accessories. Some are unique only to certain classes and playstyles, allowing for greater flexibility in character and ability development.\nLists of the main features of the New Beginnings mod:\n\nNew classes:\nShaman\nPolytech\nAlchemist\nImproved combat mechanics:\nNew weapons and expanded ranged attacks\nAttack blocking\nMore thorough development:\nNew world events and stories\nThe ability to choose your path in the game\nNew items:\nUnique weapons, armor and accessories for each class\nLots of new items to provide more flexibility in character and ability development.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "e03ff3d4-9a89-410a-a47a-59791e4d3271",
+        "type_id": "4",
+        "name": "Antisocial",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/antisocial/antisocial.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/antisocial/antisocial.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/antisocial/antisocial.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Antisocial\" is a mod for TModLoader that adds various features and changes to the game aimed at improving multiplayer and overall gaming experience.\n\n1. Protection from Griefers:\n\nPrivacy System: Allows players to protect their buildings and property from unwanted intrusions by setting access rights to blocks and chests.\nDamage Protection: Enables the ability to mute damage from other players to prevent accidental attacks.\n2. Multiplayer improvements:\n\nInterface for managing game sessions: Allows you to quickly create and manage servers and multiplayer sessions.\nPersonal settings: Allows you to customize many multiplayer parameters, such as movement speed, difficulty level and others.\nAdministrative Tools: Gives server administrators additional tools to control the gaming environment and players.\n3. Interface and amenities:\n\nInformation display: Adds the ability to display various information on the screen, such as coordinates, time of day and others.\nPlayer Search: Allows you to quickly find other players in a multiplayer game.\nChat Interface: Improves the chat interface, including custom colors and fonts.\n4. Corrections and optimization:\n\nBug Fixes: The mod includes fixes for various bugs and issues related to multiplayer and the game interface.\nPerformance Optimization: Helps improve game performance when using multiple mods and players.\n5. Advanced commands:\n\nAdds various commands for server administrators that allow you to manage players, blocks and events in the game.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "fa5f743b-f951-49ef-be2c-9cebb657240b",
+        "type_id": "4",
+        "name": "Autofish",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/autofish/autofish.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/autofish/autofish_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/autofish/autofish_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/autofish/autofish_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/autofish/autofish.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "AutoFish provides players with the ability to catch fish easily and quickly, freeing them from the routine and monotony of this task in the Terraria game. The mod offers many features and settings to make your fishing experience more satisfying and efficient.\n\nAutomatic cutting: The AutoFish mod automatically hooks the fishing rod when a fish bites, which reduces the players reaction time and increases the chances of a successful catch.\nDelay time setting: You can adjust the delay time between the trigger and the mods response. This allows you to catch different types of fish that require different times to bite.\nAutomatic garbage disposal: AutoFish can automatically discard unwanted items such as broken pieces and old shoes so you can focus only on your valuable catches.\nAngler Interface: The mod includes a convenient game window showing information about the current fishing status and catches.\nSetting up fishing lures: You can choose which fishing lures to use and adjust your fishing settings to get the catch you want.\nInventory support: AutoFish takes into account your inventory and automatically stops fishing when your inventory is full.\nMulti-rod support: The mod allows you to use multiple fishing rods at the same time, which increases your fishing productivity.\nList of catches: AutoFish keeps a list of your catches so you can keep track of what types of fish youve already caught.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "c576a621-f6b2-4b3e-a85f-f2f94fdcd1a2",
+        "type_id": "4",
+        "name": "OmniSwing",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/omni_swing/omni_swing.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/omni_swing/omni_swing.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/omni_swing/omni_swing.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "OmniSwing is a mod for the game Terraria developed for TModLoader. It brings variety and uniqueness to the world of Terraria, giving players new options for combat and exploration.\n\nUnique fighting styles: OmniSwing provides different fighting styles that you can choose depending on your preference. This allows you to personalize your combat experience.\nNew fighting techniques: The mod adds new combat techniques and skills that can be used with different types of weapons. This enriches your arsenal and gives you more options for creativity in combat.\nIntegration with TModLoader: OmniSwing is easy to install and interfaces with TModLoader, making it compatible with other Terraria mods. This allows you to enjoy the variety of content provided by the modding community.\nMultiple Weapon Support: The mod is compatible with various types of weapons, including swords, darts, arrows, daggers and more. You can choose weapons depending on the situation and fighting style.\nUpdates and support: OmniSwing developers regularly release updates, fixing bugs and adding new content. This ensures a stable and up-to-date version of the mod.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "cc97fd02-5ab0-44d8-b881-fdd1e46f4a78",
+        "type_id": "4",
+        "name": "absoluteAquarian Utilities (SerousCommonLib)",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/absoluteaquarian_utilities_serouscommonlib/absoluteaquarian_utilities_serouscommonlib.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/absoluteaquarian_utilities_serouscommonlib/absoluteaquarian_utilities_serouscommonlib.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/absoluteaquarian_utilities_serouscommonlib/absoluteaquarian_utilities_serouscommonlib.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "SerousCommonLib is a universal library designed to provide support for various mods created by AbsoluteAquarian.\n\nThis modifier includes an extensive set of functions that makes the gameplay even more fun. Some of the key features include:\n\nIL/On editing assistants: Simplified editing and interaction with IL and On.\nType extensions: Expand the possibilities of the game by adding new types.\nTypes of UI Elements: Create unique interface elements for your mod.\nEasy modification of tooltips: Customize tooltips for a more informative gaming experience.\nTile scanning information: Improved tile scanning information for easier development.\nILoot Helpers: Simplified handling of loot and rewards.\nThis is just a small overview of the functionality of SerousCommonLib, which can be very useful for Terraria mod developers.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "dbdea39c-2174-4de5-9da7-632122e25de9",
+        "type_id": "4",
+        "name": "ParticleLibrary",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/particle_library/particle_library.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/particle_library/particle_library.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/particle_library/particle_library_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/particle_library/particle_library_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/particle_library/particle_library_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/particle_library/particle_library.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "ParticleLibrary is a mod for TModLoader that gives mod developers the ability to create and use various particles and effects in their modifications. This mod significantly expands the possibilities of creating visual effects in the game Terraria.\n\nCreate a variety of particles: The mod allows you to create various types of particles, such as sparks, smoke, fire, explosions, light, water effects and much more. You can customize particle parameters such as speed, size, color, duration and so on.\nUsing Motion Effects: ParticleLibrary provides a variety of particle motion effects, including swirls, rotation, path movement, and other animation effects. This allows you to create impressive visual effects and animations.\nInteractive Particles: You can create interactive particles that react to player actions or other events in the game. For example, you can create particles that disappear when a player approaches, or particles that react to contact with certain objects.\nCombining and Customizing Effects: You can combine different effects and particles to create complex and beautiful visual effects. The mod also provides a wide range of settings and options, allowing you to fine-tune each effect to your liking.\nAnimation and Sound Support: ParticleLibrary allows you to add animation and sounds to your particles, making them even more realistic and impressive. You can customize the playback animation, playback speed, animation loops and add sound effects to create a complete experience.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "38826d1e-99f4-44c9-a483-640a2f6ee92c",
+        "type_id": "4",
+        "name": "Teleport All NPC Home",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/teleport_all_npc_home/teleport_all_npc_home.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/teleport_all_npc_home/teleport_all_npc_home.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/teleport_all_npc_home/teleport_all_npc_home.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Teleport All NPC Home is a mod for tModLoader that adds a convenient feature to teleport all NPCs to their homes in the game Terraria. This mod allows you to easily move all NPCs into place, which can be useful during construction or when you want to reorganize your base.\n\nTeleport all NPCs: The mod adds a new button in the game interface that allows you to teleport all NPCs to their homes with one click. After activating this button, all NPCs are automatically moved to their respective houses.\nUser-friendly interface: The mod provides a simple and intuitive interface where you can activate the NPC teleportation function. The interface can be opened by pressing a special button or keyboard shortcut.\nCustomization: The mod also allows you to customize some aspects of the functionality. You can choose which NPCs will teleport and which ones will remain in place. This is especially useful if you have specific requirements or if you want to control the placement of NPCs in your base.\nCompatibility with other mods: The Teleport All NPC Home mod is compatible with other Terraria mods, allowing you to use it in conjunction with expanded NPC sets or customized homes.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "dbf78566-0ea0-41cd-929a-e5b4776a0357",
+        "type_id": "4",
+        "name": "Census - Town NPC Checklist",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/census_town_npc_checklist/census_town_npc_checklist.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/census_town_npc_checklist/census_town_npc_checklist.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/census_town_npc_checklist/census_town_npc_checklist.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Census - Town NPC Checklist provides a convenient way for the player to keep track of the NPCs in their town and control which NPCs still need to be recruited. This is especially useful in the game Terraria, where the player must ensure certain NPCs are present to gain access to various items and services.\n\nMod functions:\n\nNPC List Interface: The mod adds a new interface where the player can see a list of all NPCs available in the game and mark those they have already attracted to their city.\nNPC status display: Each NPC in the list is indicated by an icon and a name. Next to each name, the status of the NPC is displayed, indicating whether he is attracted to the city or not.\nHints and Requirements: For each NPC in the list, the mod provides the hints and requirements necessary to attract him. This helps the player understand what conditions must be met in order for the NPC to appear.\nNPC Filters: The mod allows the player to apply filters to the list of NPCs to quickly find the characters they need. Filters can include NPC type, attraction status, and other parameters.\nUpdates and Expansions: The Census - Town NPC Checklist Mod is updated regularly to keep track of NPC changes and additions to the game. This ensures that the NPC list is always up to date.\nSynchronization with multiplayer: If the game is played in multiplayer mode, the mod allows you to synchronize the list of NPCs between players so that all participants see the same NPC information.\nCustomizable Options: The Census - Town NPC Checklist mod provides customizable options that allow the player to customize the appearance and functionality of the NPC Checklist interface to suit their preferences.\nThe list of NPCs available in the game will depend on the version of Terraria installed on your computer and other mods installed. The Census - Town NPC Checklist mod will display all available NPCs, including original NPCs from Terraria and NPCs added by other mods.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "d842b458-5e24-4521-8e3d-9c3dc2c31f62",
+        "type_id": "4",
+        "name": "Which Mod Is This From? (WMITF)",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/which_mod_is_this_from_wmitf/which_mod_is_this_from_wmitf.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/which_mod_is_this_from_wmitf/which_mod_is_this_from_wmitf.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/which_mod_is_this_from_wmitf/which_mod_is_this_from_wmitf.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Which Mod Is This From? (WMITF) is a mod for TModLoader in Terraria that provides players with a convenient tool to determine which mod items, blocks, and other game elements come from.\n\n\"Which Mod Is This From?\" (WMITF) for TModLoader is a specific mod created for Terraria that is designed to help players determine which mod (from the list of installed ones) a particular game element, item, monster, etc. comes from. This mod usually provides information about the origin of objects in the game so that players can easily identify which mod added the item.\n\nWith WMITF you can quickly identify which mod a certain element in a Terraria game comes from, which can be useful for managing and organizing your installed mods.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "675ee386-ac8b-4174-82cc-c33a3d6d48eb",
+        "type_id": "4",
+        "name": "Where's My Items",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wheres_my_items/wheres_my_items.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wheres_my_items/wheres_my_items.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wheres_my_items/wheres_my_items.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Where's My Items\" is a mod for TModLoader that adds a convenient item search feature to Terraria. This mod is especially useful in cases where you have a lot of items in your inventory or when you can't find a specific item.\n\nSearch by name: The mod allows you to search for items by their name. You can simply start typing the name of an item and the mod will automatically display items that match your input.\nFilter by Category: You can also filter items by category to make your search easier. For example, you can select a category of weapons, tools, armor, etc. to see only items that belong to the selected category.\nHints: The mod offers hints when searching for items. If you dont know the full name of an item, you can enter only part of the name and the mod will suggest options that match your input.\nQuick Access to Items: Once you find an item you want, you can click on it to automatically move it to your inventory or quick access bar. This allows you to quickly get the item you need without having to manually search for it in your inventory.\nMultiplayer Support: Wheres My Items mod also supports multiplayer so you can use it while playing with your friends. You can easily share items and help other players find the things they need.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "f717cf1b-ce8b-4f35-8b94-de907c479d67",
+        "type_id": "4",
+        "name": "WikiThis",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wiki_this/wiki_this.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wiki_this/wiki_this.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wiki_this/wiki_this.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"WikiThis\" is a mod for TModLoader that provides quick and easy access to information from the official Terraria wiki page. It allows players to access information about items, blocks, bosses, NPCs and more right in the game, without having to leave the game to search for information on the Internet.\n\nList of functions of the WikiThis mod:\n\nQuickly access information about items, blocks, bosses, NPCs and more from the game.\nIntegration with the official wiki page of the Terraria game, which allows you to get up-to-date and accurate information.\nA simple and user-friendly interface that allows you to quickly and easily find the information you need.\nThe ability to obtain information about items, even if they have not yet been found in the game.\nThe ability to obtain information about things that can be created through crafting or with the help of NPCs.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "78ec48f5-a07c-45a3-a76f-1000dacbd2c8",
+        "type_id": "4",
+        "name": "Teleport to pylons from anywhere!",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/teleport_to_pylons_from_anywhere/teleport_to_pylons_from_anywhere.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/teleport_to_pylons_from_anywhere/teleport_to_pylons_from_anywhere.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/teleport_to_pylons_from_anywhere/teleport_to_pylons_from_anywhere.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Teleport to pylons from anywhere!\" is a mod for Tmodloader that allows players to teleport to pylons from any distance on the map, they just need to have another pylon in their inventory.\n\nDescription and features of the mod:\n\nThe player can teleport to any pylon on the map by clicking on the “Teleport to pylon” button in the special interface.\nTo use this feature, you must have at least one pylon in your inventory. If the player has several pylons of different types, he can choose which pylon to teleport to.\nThis feature is available anywhere on the map, even if the player is in a different biome or on a different island.\nThis mod is compatible with other mods and does not affect gameplay.\nList of pylons to which you can teleport using this mod:\n\nForest Pylon\nDesert Pylon\nSnow Pylon\nOcean Pylon\nMushroom Pylon\nJungle Pylon\nHallow Pylon\nCrimson Pylon\nCorruption Pylon\nThus, this mod makes it easier to move around the map and saves players time by allowing them to quickly move between pylons anywhere in the world of Terraria.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "fa636f82-7217-4f88-be06-f96c6334372a",
+        "type_id": "4",
+        "name": "Armor Modifiers & Reforging",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/armor_modifiers_&_reforging/armor_modifiers_&_reforging.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/armor_modifiers_&_reforging/armor_modifiers_&_reforging.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/armor_modifiers_&_reforging/armor_modifiers_&_reforging_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/armor_modifiers_&_reforging/armor_modifiers_&_reforging_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/armor_modifiers_&_reforging/armor_modifiers_&_reforging.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Armor Modifiers & Reforging is a mod for TModLoader that adds new armor modifiers and item upgrades to Terraria.\n\nList of Armor Modifiers:\n\nAgitating: Increases attack speed by 5%\nArmored: Increases defense by 4\nBrisk: Increases movement speed by 4%\nCelestial: Increases magic defense by 4 and maximum mana by 20\nFrenzied: Increases damage by 5%\nHard: Increases maximum health by 4\nLucky: Increases item drop chance by 2%\nMenacing: Increases damage by 4%\nQuick: Increases attack speed by 5%\nWarding: increases defense by 8\nThese modifiers can be obtained using the item re-modification technique, but they cannot be applied to clothing that already has a modifier.\n\nList of item improvements:\n\nGodly: Increases damage by 15%\nDemonic: Increases damage by 10%\nRuthless: Increases damage by 10% and reduces defense by 5\nDeadly: Increases damage by 7%\nUnreal: Increases damage by 5% and attack speed by 15%\nSuperior: Increases damage by 5%\nMasterful: Increases damage by 3%\nAdept: Increases damage by 2%\nThese upgrades can be applied to most weapons and some accessories to increase damage and effectiveness in combat. Item upgrades can also be re-upgraded using the re-upgrade tool.\n\nThe Armor Modifiers & Reforging mod allows players to create stronger gear and have more fun playing Terraria.\n\n",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "b8ec7a2d-428e-48f6-9733-cc0cc4bda991",
+        "type_id": "4",
+        "name": "Boss Cursor",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_cursor/boss_cursor.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_cursor/boss_cursor.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_cursor/boss_cursor.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Boss Cursor is a modification for the game Terraria that adds a cursor for easier battles with bosses. This mod allows players to track the location of the boss on the screen and easily control the direction of the attack.\n\nSome of the features of the Boss Cursor mod include:\n\nA cursor that displays the location of the boss on the players screen.\nVarious cursor settings to customize for different bosses.\nAbility to resize the cursor to match the size of the boss.\nModes to display information about bosses, including health, name and other details.\nCompatible with various bosses from Terraria.\nSome bosses that the Boss Cursor mod is compatible with include:\n\nEye of Cthulhu\nEater of Worlds\nSkeletron (Skeletron)\nQueen Bee\nWall of Flesh\nTwins\nThe Destroyer\nSkeletron Prime (Skeletron Prime)\nPlantera\nGolem\nDuke Fishron\nLunatic Cultist\nMoon Lord\nOverall, the Boss Cursor mod is a useful addition for Terraria players who want more precise control over their attack and movement in boss battles.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "5284db58-68eb-4765-a483-e809ebfa92fe",
+        "type_id": "4",
+        "name": "Auto Trash Jopojelly",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash_jopojelly/auto_trash_jopojelly.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash_jopojelly/auto_trash_jopojelly.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash_jopojelly/auto_trash_jopojelly.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Auto Trash is a mod for tModLoader in Terraria that allows you to automatically trash items to free up inventory space.\n\nOnce the mod is installed, a new button appears in the top right corner of the inventory called \"Auto Trash\". Clicking this button opens a window where you can add items that should be automatically thrown into the trash when they go into inventory.\n\nList of some features of Auto Trash mod:\n\nAdding items to the automatic deletion list.\nRemoving items from the automatic deletion list.\nIgnore mode for items that should not be discarded automatically, even if they are on the list.\nAbility to switch between lists of items in different game modes, such as solo or multiplayer.\nClear List button to easily remove all items from the automatic deletion list.\nAuto Trash mod can be very useful for players who often collect a lot of items and are overloaded with inventory. This can also be useful to avoid accidentally throwing away important items such as ores or jewelry.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "6cbf8dc3-e5ab-4cb5-98e9-bf78931ec4d9",
+        "type_id": "4",
+        "name": "Auto Reforge",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_reforge/auto_reforge.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_reforge/auto_reforge.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_reforge/auto_reforge_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_reforge/auto_reforge_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_reforge/auto_reforge.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Auto Reforge is a mod for the game Terraria that is available through Tmodloader. It is designed to automatically reforge the player's items in the blacksmith's shop to increase their stats.\n\nList of features of the Auto Reforge mod:\n\nAutomatic reforging: the mod will automatically reforge all available items from the blacksmith to a better reforging.\nIgnore certain items: You can configure the mod to not reforge certain items.\nSetting priorities: You can set reforging priorities for different types of items, such as weapons, armor, or accessories.\nPreserve Previous Settings: The mod saves previous reforging settings for each item, so players can easily return to them if they wish.\nSettings Interface: The mod has a user-friendly settings interface that allows you to configure various settings.\nThe list of items that can be reforged using the Auto Reforge mod includes:\n\nAll types of weapons (swords, bows, guns, etc.)\nArmor (helmets, breastplates, leggings)\nAccessories (rings, necklaces, coats, etc.)\nTools (axes, picks, shovels)\nAuto Reforge is a useful mod for players who want to improve their Terraria gaming experience by allowing them to quickly and efficiently increase their item stats.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "2d507c70-b293-4463-b943-956ccbfac7d4",
+        "type_id": "4",
+        "name": "Russifier of Project tRU",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/russifier_of_project_tru/russifier_of_project_tru.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/russifier_of_project_tru/russifier_of_project_tru.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/russifier_of_project_tru/russifier_of_project_tru.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Mod mods are an important part of the gameplay for players who don't speak English. Below are some of the mods for the tRU project, for which there is a crack.\n\nWhat mods have our team translated so far?\n\nCalamity (Project tRU)\nFargo Mutant (Project tRU)\nFargo Souls (Project tRU)\nInfernum Mode (Project tRU)\nClicker Class (built into mod)\nBoss Checklist (built into mod)\nCatalyst Mod (built into mod)\nThorium (Project tRU) New!\nWhat mod translations will there be in the future?\n\n100% will be transferred to Starlight River and Endless Escapade\nWhen will there be a translation of The Stars Above / Redemption or X mod?\nTranslation of new mods will begin after the release of 1.4.4 tmod. Now there is no point in starting to translate and wasting time on it. In this version, tmod developers radically changed their approach to mod localization. With the new system, translation will become much easier, and this will allow you to add new translations of mods to the crack without much time investment.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "c7dbbd2e-b4f5-42b2-a88b-07b5bf058fd0",
+        "type_id": "4",
+        "name": "Structure Helper",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/structure_helper/structure_helper.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/structure_helper/structure_helper.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/structure_helper/structure_helper.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Structure Helper is a mod for TModLoader that adds convenient tools for creating and placing structures in the world of the Terraria game. With this mod you can easily create, save and load structures that can be used to decorate your world or to create complex structures.\n\nMain functions of the mod:\n\nCreating structures: you can create structures from any blocks in the game using special tools that are added by the mod.\nEditing Structures: Once a structure is created, you can edit it by adding, deleting or changing blocks.\nSaving Structures: You can save the structures you create and use them in the future.\nLoading Structures: You can load saved structures and place them in the game world.\nPlacement Tools: The mod adds several tools that allow you to accurately place structures in the game world.\nStructure bundles: You can create structure bundles, which can contain multiple structures, and load them all at once.\nAdditionally, the Structure Helper mod adds several additional features such as support for complex blocks (such as multi-component blocks), the ability to copy and paste structures, and much more.\n\nList of main functions:\n\nCreating structures\nEditing structures\nPreservation of structures\nLoading structures\nPlacement Tools\nStructure Kits\nComplex block support\nCopying and pasting structures.\nOverall, the Structure Helper mod is a powerful tool for creating and placing structures in the world of Terraria. If you like building and decorating in the game, then this mod can be very useful for you.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "43f75896-4bfe-4dd1-beec-07d29463c645",
+        "type_id": "4",
+        "name": "Subworld Library",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/subworld_library/subworld_library.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/subworld_library/subworld_library.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/subworld_library/subworld_library.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Subworld Library is a mod for TModLoader that allows players to create underground worlds using various tools and items. This mod adds new blocks and items that can be used to create complex and beautiful underground landscapes.\n\nMini Map: This feature allows players to view a map of their underground world, making it easier to explore and navigate.\nSunbeam: This tool allows players to create beams of light that can penetrate blocks and illuminate underground landscapes.\nColorful Lights: These lights allow players to decorate their underworld with colorful lighting.\nPortals: These items allow players to create portals between different underground worlds.\nVarious Blocks: Subworld Library adds many new blocks that can be used to create beautiful underground landscapes such as crystals, stalactites and stalagmites.\nVarious Items: The mod also adds new items that can be used to improve the underground world, such as tools for creating and removing blocks, as well as new types of weapons and armor.\nThis is just a small list of what is available in the Subworld Library. The modification is great for players who want to create beautiful and unique underground worlds in Terraria.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "5968c2a6-e68b-42a4-96e7-dfa9164a33ca",
+        "type_id": "4",
+        "name": "Ore Excavator (Veinminer)",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ore_excavator_veinminer/ore_excavator_veinminer.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ore_excavator_veinminer/ore_excavator_veinminer.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/ore_excavator_veinminer/ore_excavator_veinminer.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Ore Excavator - The Successor to Vein Miner (Ore Excavator is the successor to the Vein Miner mod) is a modification for the game Terraria, which is available through the tModLoader platform.\nThe main function of the mod is the ability to mine blocks in large quantities with a single press of a button. This allows you to quickly collect resources and frees players from having to mine each block separately.\n\nHere is a list of the main features of Ore Excavator:\n\nAutomatic mining of blocks: When using a suitable tool and holding down a button (default - left mouse button), the mod will automatically mine all blocks around the selected block. This allows you to quickly mine resources and clear large areas of land.\nConfigurable block list: The mod allows you to configure the list of blocks that will be mined automatically. Users can add or remove blocks from the list to customize it to their needs.\nMultiple Tool Support: The mod supports a variety of tools including picks, axes, and shovels. Users can choose the appropriate tool to mine each block.\nCustomizable Radius: Users can customize the mods radius to mine blocks in a wide or narrow radius around the selected block.\nVarious settings: The mod allows you to configure various parameters such as mining speed, delay between mining blocks and others.\nCompatibility with other mods: Ore Excavator is compatible with most other Terraria mods and can be used simultaneously with them.\nThe Ore Excavator - The Successor to Vein Miner mod is a useful tool for mining resources in Terraria. It greatly speeds up the mining process and allows players to concentrate on other aspects of the game, such as building and combat.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "a408643e-1b63-403e-b680-dfd886999eff",
+        "type_id": "4",
+        "name": "Pylons Prevent Evils",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/pylons_prevent_evils/pylons_prevent_evils.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/pylons_prevent_evils/pylons_prevent_evils.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/pylons_prevent_evils/pylons_prevent_evils_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/pylons_prevent_evils/pylons_prevent_evils_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/pylons_prevent_evils/pylons_prevent_evils_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/pylons_prevent_evils/pylons_prevent_evils.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Pylons Prevent Evils (PPE) is a mod for tModLoader that adds a new mechanism to the game to protect villages from destructive events such as invasions or summoning bosses.\n\nFeatures:\n\nAddition of a new item called the \"Pylon Key\", which allows the player to activate pylon defenses in the village.\nWhen protection is activated, all pylons in the village will be protected from enemies and troubles.\nVillage defense will also be automatically activated if the player starts a battle inside the village.\nIf the player has a Pylon Key, a marker will be displayed on the map indicating a protected village.\nThe mod also adds a new mechanic that allows the player to cancel the villages pylon defenses if they choose to do so.\nFunctions:\n\nAddition of a new item “Pylon Key”, which activates the protection of pylons in the village.\nAdding a new mechanic that allows the player to cancel the protection of pylons in the village.\nAutomatic activation of protection at the start of a battle inside a village.\nDisplay a marker on the map indicating a protected village.\nAbility to configure mod parameters through a configuration file.\nPylons Prevent Evils is a great mod for those who want to protect their villages from destructive events in the game. The mod adds a new item, mechanics and settings that will help players make the game more convenient and secure.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "813b96be-6d2c-4681-8a47-7daf4c1a526a",
+        "type_id": "4",
+        "name": "Smarter Cursor",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/smarter_cursor/smarter_cursor.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/smarter_cursor/smarter_cursor.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/smarter_cursor/smarter_cursor_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/smarter_cursor/smarter_cursor_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/smarter_cursor/smarter_cursor_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/smarter_cursor/smarter_cursor.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Smarter Cursor is a mod for tModLoader that improves the cursor and adds some additional features for the player's convenience.\n\nHere are some of its features:\n\nImproved cursor: The mod changes the appearance of the cursor and adds new animations to make it more vibrant and interesting.\nImproved cursor movement: The mod allows you to move the cursor more accurately and quickly, making the game smoother.\nBeautiful Effects: The mod adds new effects when you hover over various objects, which makes the game more visually appealing.\nVarious settings: The mod allows you to customize many aspects of the cursor, such as its color, transparency and shape.\nAdditional Features: The mod adds several additional features such as the ability to copy and paste text in the game, change the scale of the interface, and also adds new shortcuts to the minimap.\nCompatibility with other mods: The mod is compatible with many other tModLoader mods, allowing players to use Smarter Cursor with other modifications and additions.\nOverall, Smarter Cursor is a useful and convenient mod that improves the gameplay and makes the game more enjoyable for players.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "2ab79bf2-ed94-4c0f-83a4-3e5ca821b738",
+        "type_id": "4",
+        "name": "Quality of Terraria",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria_07.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria_08.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/quality_of_terraria/quality_of_terraria.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Quality of Life (QoL) is a mod for the game Terraria that adds various functional and user-friendly interface elements that improve the player's quality of life.\n\nHere is a list of some of these features:\n\nQuickly Move Items - Allows you to quickly move items from your inventory to the ground or another container, such as a box or chest.\nFast recovery of health and mana - allows you to quickly use restorative items without opening your inventory.\nImproved inventory - adds a new inventory interface with more convenient sorting and a quick search function.\nAutomatic Equipment - Allows you to automatically equip the best available weapons and armor.\nAutomatic use of accessories - allows you to automatically use accessories with positive effects, such as speeding up movement or increasing attack power.\nQuick Block Destroy - Allows you to quickly destroy blocks, such as dirt or rock, with a single button press.\nAutomatic hacking - allows you to automatically hack chests and boxes without requiring additional tools.\nImproved item collection mode - allows you to easily collect items located near the player.\nInstant Boss Spawn - Allows you to quickly spawn bosses without having to search for the appropriate items.\nImproved NPC search - allows you to quickly find the desired NPC using the search function.\nThese are just a few of the many features available in the Quality of Life mod for Terraria. They allow you to make the gaming process more convenient and efficient, saving the player’s time and effort.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "da3fa254-caa7-4f40-94fc-f06e30bce892",
+        "type_id": "4",
+        "name": "Magic Storage",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_storage/magic_storage.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_storage/magic_storage.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/magic_storage/magic_storage.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Magic Storage is a mod for TModLoader in the Terraria game that adds automatic and organized access to items and inventory. This mod allows players to install vaults that automatically sort and store items in the game, making inventory management much easier.\n\nList of storages added by the Magic Storage mod:\n\nStorage Heart is the foundation for organizing storage. It is installed first and serves as the basis for the rest of the storage.\nStorage Units are basic storage units that can store many items. They can be upgraded to have more capacity and various features such as quick access to items and automatic sorting.\nThe Crafting Interface is a repository that gives players access to materials and recipes for crafting items.\nCrafting Storage is an advanced variant of the Crafting Interface that can also store and organize items needed for crafting.\nItem Collector is a device that automatically collects items dropped from mobs and blocks. It can also be configured to collect certain items.\nItem Router is a device that automatically redirects items from one storage to another depending on specified conditions. It can be used to automatically sort items in storage areas.\nRemote Storage Access is a device that allows players to access their storage from anywhere in the world, just by having an active Storage Heart.\nAll of these storages can be configured to work with different items and materials, and can be easily rearranged and modified depending on the players needs. Magic Storage greatly simplifies gameplay by allowing players to focus on exploring and crafting rather than managing their inventory.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "cda6624a-9a29-4325-a244-65b94662a963",
+        "type_id": "4",
+        "name": "Recipe Browser",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/recipe_browser/recipe_browser.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/recipe_browser/recipe_browser.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/recipe_browser/recipe_browser_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/recipe_browser/recipe_browser_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/recipe_browser/recipe_browser_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/recipe_browser/recipe_browser.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Recipe Browser is a mod for the game Terraria that adds a convenient tool for searching and viewing recipes for items in the game.\n\nRecipe search: The mod adds a search box where you can enter the name of an item or material and it will display all recipes that use that item or material.\nRecipe information: You can get detailed information about each recipe, such as the crafting requirements, the materials needed to craft the item, and where you can find the materials.\nConvenient inventory view: The mod also adds the ability to view your entire inventory without having to open it every time. You can select the item you want and see what recipes can be made from it.\nRecipe history: The mod also keeps a history of all the recipes youve viewed, making it easy to come back to them later.\nFilters: You can filter recipes by various categories such as items that can be crafted, items that can be used as materials, and so on.\nIntegration with other mods: The mod is compatible with most other mods, allowing you to see the recipes created by those mods.\nOverall, Recipe Browser is a very useful mod for those who want to get the most out of Terraria. It simplifies the crafting process and allows you to quickly find information about items in the game.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "acf31fca-a30a-40b9-9520-2c4b2125b11f",
+        "type_id": "4",
+        "name": "Boss Checklist",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist/boss_checklist.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist/boss_checklist_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist/boss_checklist_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist/boss_checklist_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist/boss_checklist_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist/boss_checklist.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Boss Checklist is a mod for Terraria that adds an interface for tracking and managing bosses that are available in the game.\n\nThe main functions:\n\nShows a list of all bosses and events in the game, as well as information about them.\nAllows you to track the progress and settings of each boss, including the number of wins, the last win, and the difficulty of the fight.\nContains many settings to customize the interface and boss settings.\nHas integration with other mods like Calamity and Thorium.\nBoss list:\n\nEye of Cthulhu\nEater of Worlds\nBrain of Cthulhu\nskeleton\nQueen bee\nWall of flesh\nThe Twins\nthe destroyer\nSkeletron prime\nPlant\nG\nDuke fishron\nLunatic Cultist\nMoon lord\nEmpress of Light\nqueen slime\nSupreme Calamitas (for integration with Calamity Mod)\nThe Ragnarök (for integration with Thorium Mod)\nIn addition, the mod contains information about events such as Blood Moon, Eclipse, Pumpkin Moon and Frost Moon, and additional battles such as Duke Fishron (wing size) and Moon Lord (fair fight).",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
         "id": "d16562a9-c73f-4238-9ced-ef89effdec8a",
         "type_id": "4",
         "name": "Jojos Caesar Sound",
