@@ -1696,30 +1696,6 @@
         "createTime": "2024-03-016 22:14:30.089"
     },
     {
-        "id": "5284db58-68eb-4765-a483-e809ebfa92fe",
-        "type_id": "4",
-        "name": "Auto Trash Jopojelly",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash_jopojelly/auto_trash_jopojelly.png",
-        "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash_jopojelly/auto_trash_jopojelly.png"
-        ],
-        "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/auto_trash_jopojelly/auto_trash_jopojelly.tmod",
-            "1": "",
-            "2": "",
-            "3": ""
-        },
-        "author_name": "unknown",
-        "description": "Auto Trash is a mod for tModLoader in Terraria that allows you to automatically trash items to free up inventory space.\n\nOnce the mod is installed, a new button appears in the top right corner of the inventory called \"Auto Trash\". Clicking this button opens a window where you can add items that should be automatically thrown into the trash when they go into inventory.\n\nList of some features of Auto Trash mod:\n\nAdding items to the automatic deletion list.\nRemoving items from the automatic deletion list.\nIgnore mode for items that should not be discarded automatically, even if they are on the list.\nAbility to switch between lists of items in different game modes, such as solo or multiplayer.\nClear List button to easily remove all items from the automatic deletion list.\nAuto Trash mod can be very useful for players who often collect a lot of items and are overloaded with inventory. This can also be useful to avoid accidentally throwing away important items such as ores or jewelry.",
-        "size": "",
-        "tags": [
-            "15"
-        ],
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2024-03-016 22:14:30.089"
-    },
-    {
         "id": "6cbf8dc3-e5ab-4cb5-98e9-bf78931ec4d9",
         "type_id": "4",
         "name": "Auto Reforge",
@@ -2006,6 +1982,921 @@
         "createTime": "2024-03-016 22:14:30.089"
     },
     {
+        "id": "e9d10c9f-9e5d-449c-a75d-62ed5d4cc421",
+        "type_id": "4",
+        "name": "Calamity Overhaul",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_overhaul/calamity_overhaul.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_overhaul/calamity_overhaul.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_overhaul/calamity_overhaul.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Revitalize your Calamity Mod experience with Calamity Overhaul, a carefully crafted mod that optimizes every aspect of the Calamity universe. Immerse yourself in a world where hundreds of weapons have been reimagined, balancing has been improved, and game progression is enriched with innovative crafting systems.\n\nWeapon Rework:\n\nHundreds of Calamity Mod weapons have been redesigned, offering players a more polished, practical and visually impressive arsenal.\nEach weapon has undergone extensive tweaks to improve gameplay mechanics and overall performance.\nThe combat experience will be incredible with upgraded weapons that offer both form and function.\nBalancing and Optimization:\n\nExtensive numerical balancing ensures a smoother and more satisfying gaming experience.\nEvery aspect of Calamity Mod has been reviewed and fine-tuned for optimal balance.\nEnjoy a more connected and immersive gaming experience with tweaks made to enemies, items, and progression.\nAdvanced Weapons:\n\nDiscover a variety of new weapons introduced to expand your arsenal and strategic options.\nExperiment with unique weapon designs and playstyles to conquer the challenges of the Calamity universe.\nUnleash devastating attacks with powerful new weapons designed to diversify your combat repertoire.\nCrafting System Rework:\n\nEmbark on a journey of enriched game progression with an all-new crafting system.\nExplore improved crafting recipes that offer more customization and player creativity.\nMaster the art of crafting to forge legendary weapons and equipment worthy of a true champion.\nConstant Updates:\n\nStay tuned for future updates as the Calamity Overhaul mod continues to redefine the Calamity experience.\nGet ready for fresh content and reimagined mechanics with every new update, providing endless excitement and challenge.\nJoin the community on Github to contribute to the development of the mod and follow its development first-hand.\nExperience the Calamity universe like never before with the Calamity Overhaul mod. Redefine combat, crafting, and progression as you embark on an epic adventure full of new challenges and discoveries.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "51df57ba-bb99-4cb7-9a58-2b35c78d95bd",
+        "type_id": "4",
+        "name": "Exxo Avalon Origins",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exxo_avalon_origins/exxo_avalon_origins.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exxo_avalon_origins/exxo_avalon_origins_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exxo_avalon_origins/exxo_avalon_origins_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exxo_avalon_origins/exxo_avalon_origins_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exxo_avalon_origins/exxo_avalon_origins_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exxo_avalon_origins/exxo_avalon_origins_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exxo_avalon_origins/exxo_avalon_origins_06.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/exxo_avalon_origins/exxo_avalon_origins.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Welcome to the world of Exxo Avalon: Origins! This modification introduces vanilla-centric content, expanding the game's capabilities while maintaining its atmosphere. This Pre-hardmode release features exciting adventures, including new structures, mechanics, and more.\n\nDescription: Immerse yourself in the exciting world of Exxo Avalon: Origins, where every step is imbued with a sense of adventure and mystery. Heres what you can expect in this Pre-hardmode release:\n\nFeatures:\n\nNew structures: Explore numerous new structures, including the Ice Temple, Lava Temple, and Ominous Temple, which will add new layers to your adventure.\nWorldly Evil: Meet the new world evil, infection, which will become an alternative to corruption and blood.\nStamina Mechanics: The new stamina mechanic gives you the ability to perform additional actions, such as teleporting and sprinting, without the need for accessories.\nNew prefixes and volumes: Enjoy new equipment prefixes and arcane tomes that provide unique stat bonuses.\nVarious add-ons: And that is not all! There are also various other improvements and additions that will enrich your time playing Terraria.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "138fb88e-edb6-407b-8a41-e769f97f9320",
+        "type_id": "4",
+        "name": "Split mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_mod/split_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_mod/split_mod_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_mod/split_mod_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_mod/split_mod_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_mod/split_mod_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_mod/split_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Split mod brings fresh content to the world of Terraria, offering players over 700 new items including weapons, armor, accessories, monsters, bosses and more. With the goal of enriching the gaming experience, Split Mod aims to provide players with a cohesive and exciting addition to the main game without compromising its charm and atmosphere.\n\nOver 700 New Items:\nNew unique weapons, armor sets, accessories and much more!\nOver 40 New Monsters:\nEach with unique animations and attacks, giving the game a new challenge.\n7 New Bosses:\nWith unique artificial intelligence, providing exciting battles.\n6 New City NPCs:\nEach with its own interesting assortment of goods for sale and exchange.\nTwo New Structures:\nThe Abandoned Ship and the Underworld add new places to explore and adventure.\nRussian Language Support:\nNow the mod content is available in Russian, enriching the gaming experience for Russian-speaking players.\nCompatible with Boss Checklist and Census Mod by Jopojelly:\nEase of use with popular mods, providing convenience and functionality.\nNote: Split Mod is an immersive experience in a new game world, where every item, monster and boss is created with loving detail to bring you unique adventures in every corner of Terraria. Give in to the appeal of Split Mod and immerse yourself in an exciting split reality!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "b4ec778c-7adc-425a-86c7-015fb728f946",
+        "type_id": "4",
+        "name": "Elements Awoken",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/elements_awoken/elements_awoken.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/elements_awoken/elements_awoken_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/elements_awoken/elements_awoken_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/elements_awoken/elements_awoken_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/elements_awoken/elements_awoken_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/elements_awoken/elements_awoken_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/elements_awoken/elements_awoken.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Elements Awoken is a massive expansion to the world of Terraria, introducing thousands of new items, dozens of unique enemies, and exciting new boss battles. This mod was created to expand the gameplay, enriching it with new features and challenges. Dive into the world of the Elements and prepare for exhilarating adventures unlike anything you've ever seen in Terraria.\n\n1000+ New Items:\nDiscover a huge arsenal of new items that expand your ability to create and survive.\n50+ New Enemies:\nFace new enemies, each providing unique challenges and rewards.\n13 New Bosses:\nBe tested by advanced creatures ready to test your combat skills in epic battles.\n3 New Mini-Bosses:\nMeet smaller, but no less dangerous creatures, ready to test your strength.\n3 New City NPCs:\nChat with new characters in the city who provide unique services and items.\n2 New Events:\nFace new events filled with danger and rich rewards.\nNew Biome and Many Structures:\nExplore a new biome and discover many fascinating structures deep within the world of Terraria.\nDifficulty Mode Superior to Expert Mode:\nExperience a new level of difficulty introduced into the game with a common sense system in mind.\nInteractive Boss Checklist:\nInteract with the boss checklist, which provides rewards for defeating powerful creatures.\nUnique Mechanics:\nExperience unique mechanics such as encounters, abilities, and an elevated atmosphere.\nNote: The biome, abilities, and ambience of the elevation are 1.4 content and therefore not yet available in the game. Prepare for new adventures when these opportunities become available!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "db824bfb-b9fc-4b23-aa42-55b8a2bb1d5b",
+        "type_id": "4",
+        "name": "Rothur Mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/rothur_mod/rothur_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/rothur_mod/rothur_mod.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/rothur_mod/rothur_mod_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/rothur_mod/rothur_mod_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/rothur_mod/rothur_mod_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/rothur_mod/rothur_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Rothur Mod is a fun mod for tModLoader that adds new items, monsters, and more to the game.\n\n200+ new items: The modification offers more than 200 new items that will diversify your gaming experience. From new weapons and armor to unique accessories and awesome items, there are plenty of opportunities to experiment and create a unique character.\n15+ new enemies: The Rothur mod introduces new enemies that will challenge your fighting skills. New unique monsters with different attacks and abilities await you. Get ready for new battles and adventures!\n3 mini-bosses: Exciting battles await you with three new mini-bosses. These powerful opponents present a serious challenge for you and your team. Defeat them to receive unique rewards and advance further in the game.\n4 bosses: The Rothur Mod has four new bosses that provide the most challenging and epic battles. Use your skills and strategies to defeat them and get powerful items and rewards that will help you further in the game.\nNew class: Rothur Mod introduces a new character class that will allow you to use unique skills and abilities. Explore new possibilities and become a master of this class to conquer new challenges and enemies.\nNew biome: The modification also adds a new biome that offers a unique atmosphere and resources for you and your team. Explore it to discover new secrets and adventures.\nVersion 0.2.5 is now available! Upgrade and enjoy the new features and challenges that Rothur Mod offers!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "53b55fba-d16d-46b9-916e-b89cf7012f12",
+        "type_id": "4",
+        "name": "Storm's Additions",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions_07.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions_08.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions_09.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions_10.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/storms_additions/storms_additions.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Storm's Additions Mod (formerly known as Storm Diver's Additions Mod) is a mod that adds a ton of new unique content to the game, totaling over 300 items. It expands on some of the vanilla game's item sets and includes many new unique sets spread throughout the game, as well as many individual items that are obtainable in their own unique way.\n\nThis mod includes:\n\nOver 100 new unique weapons of all classes, including some minions and watchtowers\nOver 40 new accessories, including new Expert Exclusive items and some changes to vanilla accessories\n15 new armor sets with unique set bonuses, some of them use a separate hotkey, make sure it is assigned in control settings (default is V)\n29 new enemies throughout the game, with banners and bestiary entries\n3 new bosses: one at the end of the pre-difficulty period, one on Planteras level with a setting to fight him instead, and one secret after the Full Moon\nNew ammo, tools, potions, appearance items and pets\nThe cultist drops off his bag with some new items\nNew member of the Legion of Frost\nFull Wikithis support\nThe mod also contains some small quality of life features:\n\nNew recipes and loot for some impossible-to-craft vanilla items, including the Rod of Mayhem, Snow and Gladiator Armor, the Cham Fisherman, and even the Slime Staff\nSpecial super mannequin with multiple options\nMost NPCs now sell their dropped weapons\nA special mini-boss after the Full Moon that drops Moon Fragments and Luminite\nItem that can remove shields from pilasters\nGenerates additional chests from granite, marble and mushrooms in the corresponding biomes",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "905f4011-1dae-4807-83c4-dd4b737f9c21",
+        "type_id": "4",
+        "name": "Conquest",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/conquest/conquest.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/conquest/conquest_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/conquest/conquest_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/conquest/conquest_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/conquest/conquest_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/conquest/conquest_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/conquest/conquest_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/conquest/conquest_07.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/conquest/bosconquests_checklist.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The “Conquest” mod for tModLoader offers more than 150 items, 1 city NPC, 3 bosses, 8 enemies, 1 set of armor, 2 dungeons, a permanent potion system, a new type of accessory - artifacts, a world map for selecting dungeons and fighting bosses, as well as talent tree.\n\nMore than 150 items: The Conquest mod adds over 150 new items, including weapons, armor, accessories and other useful items for your character.\n1 city NPC: In the Conquest mod, 1 new city NPC appears, which offers unique services and items to the player.\n3 bosses: You will be able to fight with 3 new bosses, each of which has its own unique attacks and abilities.\n8 enemies: The Conquest mod adds 8 new enemies that will present new challenges and battles for you.\n1 set of armor: You will have access to 1 new set of armor, which has unique properties and protection.\n2 dungeons: The Conquest mod offers 2 new dungeons to explore and find valuable resources and loot.\nPermanent potion system: The Conquest mod features a permanent potion system that allows you to use different potions with effects without having to have them in your inventory after use.\nNew special type of accessories, artifacts: The Conquest mod introduces a new type of accessory called artifacts. You can only have one artifact that changes the gameplay or provides unique effects to the player.\nWorld map: The \"Conquest\" mod includes a world map that allows you to select dungeons and fight mod bosses, and also offers unique loot in the form of \"Artifacts\".\nTalent tree: The Conquest mod introduces a talent tree, accessible through the Mirror of the Eight Trigrams item. This is a new way to develop your character, allowing you to choose skills that improve your abilities.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "98facf9e-eb07-4641-93c4-dec82de3df9c",
+        "type_id": "4",
+        "name": "Homeward Journey",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/homeward_journey/homeward_journey.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/homeward_journey/homeward_journey.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/homeward_journey/homeward_journey.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Homeward Journey is an expansion for the original Terraria game that offers convenient features and new content. The mod currently includes 693 items and 89 NPCs, including 12 bosses. In Master mode there are two bosses with unique artificial intelligence. Homeward Journey also offers expanded content beyond Plantera and Moon Lord, adding new areas to explore and new bosses to fight.\n\nThe update includes several new features and improvements for the Homeward Journey mod:\n\nAdding artificial intelligence in Master mode for Gemini and Mother Brain. You can now customize the Gemini AI in the mods configuration.\nAdding flamethrowers that will allow you to use fire attacks in battles.\nCoal Wall now has unique drops, including trophies, pets, weapons and other items.\nThe Priestesss Wand will now drop useless items less frequently.\nAdded Nightblade-themed weapons for three other classes.\nChests in the Abyss now require a key to open.\nThe mod has been optimized, which will allow you to play more smoothly and without delays.\nSome bug fixes have been made to improve overall stability and performance.\nThe mod also has an expansion for all classes, offering new accessories and weapons to create a fresh and varied gaming experience. You can also build special structures to get special effects - ask the Goblin Repairer about this when you find something strange.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "f3ebe11c-4c1e-4198-9574-7e21fb8567f1",
+        "type_id": "4",
+        "name": "Starlight River",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/starlight_river/starlight_river.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/starlight_river/starlight_river_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/starlight_river/starlight_river_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/starlight_river/starlight_river_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/starlight_river/starlight_river_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/starlight_river/starlight_river_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/starlight_river/starlight_river.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Starlight River is a mod for tModLoader that adds new content to the Terraria game, creating a great fantasy atmosphere. In this mod you will find new biomes, mobs, items and much more.\n\nNew biomes:\nStar Lake: This is a beautiful biome filled with shining stars and a magical atmosphere. Here you will find new plants, mobs and ores.\nMagical Forest: This biome is located in the upper levels of the world and is filled with magical trees and plants. You can meet new enemies and explore unique places in this biome.\nNew mobs:\nStar Marsupial: A peaceful creature that lives in Star Lake. You can catch him and use him as a pet.\nShining Elf: A hostile mob that appears in the Magic Forest. It attacks the player with magical attacks and can drop valuable items.\nNew items:\nStar Bow: A powerful weapon that shoots arrows covered in glittering stars. This is an excellent weapon for fighting enemies in dark caves.\nMagic Amulet: An amulet that enhances your magical abilities and enhances your magical attack.\nWizards Candle: An item that creates magical illumination around you, helping you see in the dark.\nNew events:\nRising Stars: This event takes place in Star Lake and offers unique challenges and rewards. You will fight powerful bosses and search for hidden treasures.\nNew buildings:\nStar Tower: Rising above the Star Lake, this tower contains valuable items and dangers. You must overcome its challenges to reach the top.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "5b37bbf6-0fa0-4de8-8f0c-7ee457b40a7a",
+        "type_id": "4",
+        "name": "Decadent Skills",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decadent_skills/decadent_skills.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decadent_skills/decadent_skills.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decadent_skills/decadent_skills_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decadent_skills/decadent_skills_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decadent_skills/decadent_skills_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decadent_skills/decadent_skills_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decadent_skills/decadent_skills_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decadent_skills/decadent_skills.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Decadent Skills is a mod for tModLoader that adds new skills and abilities for the character in the game Terraria. These skills provide players with new ways to combat enemies and additional ways to explore the world.\n\nNew Classes: The mod adds new classes such as the Mage Knight and Shadow Monk, which provide unique combat abilities and abilities.\nNew Abilities: The mod adds new abilities such as Blood Rush, Whirlwind Attack, and Phantom Step, which allow players to control the battle in a more efficient and exciting style.\nImproved Weapons: The mod adds new weapons and tools such as the Priests Blade, Poison Spikes and Electric Dagger, which have unique properties and abilities.\nNew Bosses: The mod adds new bosses such as the \"snake king\" and \"black widow\", which present new challenges for players and additional rewards for defeating them.\nNew Items: The mod adds new items such as the Mages Hat and Soul Orb, which provide players with additional abilities and upgrades for their characters.\nNew effects: The mod adds new effects such as “time slowing” and “petrification”, which can be used both in battle and as additional abilities for the character.\nNew Gear: The mod adds new armor sets and accessories, such as the Demon Seal and Heavens Crest, which give players new abilities and upgrades for their characters.\nOverall, Decadent Skills is a mod that adds a large number of new features and functionality to the Terraria game, allowing players to create unique and powerful characters and take on new adventures.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "70749815-3e94-4a24-a8d9-2e3355ab3848",
+        "type_id": "4",
+        "name": "Overlord Vanities",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overlord_vanities/overlord_vanities.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overlord_vanities/overlord_vanities_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overlord_vanities/overlord_vanities_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overlord_vanities/overlord_vanities_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overlord_vanities/overlord_vanities.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Overlord Vanities is a modification for the game Terraria developed for TModLoader, which adds new cosmetic items to the game for characters and creates new appearances for them.\n\nOverlords Crown - A character crown crafted from iron, gold and gems.\nOverlords Mantle - A cloak crafted from dragon skin and other materials.\nOverlords Boots - Boots crafted from dragon leather and other materials.\nOverlords Sword - A sword crafted from gold and other materials with the ability to emit lasers.\nOverlords Shield - A shield crafted from gold and other materials that can block blows and emit energy.\nOverlords Wings - Wings created from dragon feathers that allow the character to fly.\nOverlords Cloak - A cloak crafted from the fabric of darkness that can protect the character and increase their speed.\nThese items not only make the character more beautiful, but also add new options for combat and movement to the game.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "3437ace2-d5ce-4cbd-8d10-4838a7c2356d",
+        "type_id": "4",
+        "name": "Yggdrasil",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yggdrasil/yggdrasil.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yggdrasil/yggdrasil.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yggdrasil/yggdrasil.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Yggdrasil is a modification for the game Terraria, designed to be used with TModLoader, a tool that allows you to add modifications to the game. The Yggdrasil mod adds many new items, blocks, enemies, bosses and many other elements to enrich the gameplay of the game.\n\nNew biomes:\nA biome of stone ruins full of dangers and treasures.\nA forest of shimmering trees that offers new species of trees and plants.\nA mystical forest where players can find new resources and animals.\nA swampy forest where unique items and monsters can be found.\nNew items:\nLots of new weapons, armor and accessories that add new combat options.\nNew tools and resources that enhance the gameplay experience and give players more creative options.\nVarious items to improve your home or world, including new blocks, furniture and decor.\nNew bosses:\nThe King of Stone Ruins is a boss who protects his ancient treasures.\nThe King of the Shimmering Trees is a boss who guards the forest of shimmering trees.\nMagic Forest Spirit is a boss that appears in the mystical forest.\nThe Mistress of the Swamp is a boss who lives in the swampy forest.\nNew game mechanics:\nThe ability to create spiritual weapons and armor that give players new abilities.\nNew search and stealth systems for more interesting interaction with the environment.\nVarious improvements to the game interface, such as automatic inventory sorting and more convenient item management.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "a6ebb4b5-5778-4b57-b6f1-7809fa26b40c",
+        "type_id": "4",
+        "name": "Liber Creaturarum",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/liber_creaturarum/liber_creaturarum.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/liber_creaturarum/liber_creaturarum_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/liber_creaturarum/liber_creaturarum_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/liber_creaturarum/liber_creaturarum_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/liber_creaturarum/liber_creaturarum.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "e689ec59-0397-4b38-bbd4-90c2fc705223",
+        "type_id": "4",
+        "name": "Tremor Remastered",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/tremor_remastered/tremor_remastered.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/tremor_remastered/tremor_remastered_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/tremor_remastered/tremor_remastered_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/tremor_remastered/tremor_remastered_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/tremor_remastered/tremor_remastered_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/tremor_remastered/tremor_remastered_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/tremor_remastered/tremor_remastered_06.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/tremor_remastered/tremor_remastered.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Tremor Remastered is a modification for the game Terraria that adds many new gameplay elements, items, biomes and other features.\n\nNew Biomes: The mod adds several new biomes, including the Frozen Wasteland, the Deep Ocean, and the Underground Jungle. Each biome has its own unique obstacles, monsters and items.\nNew Items: Tremor Remastered adds over 300 new items, including weapons, armor, accessories and resources. Some of them have unique abilities that will help you in battle or during exploration.\nNew Enemies: The mod adds over 70 new enemies that can be found in different biomes. Each enemy has its own unique abilities and characteristics.\nNew Bosses: Tremor Remastered adds over 20 new bosses that can be summoned under different conditions. Each boss has its own unique abilities and can be very difficult to defeat.\nNew NPCs: The mod adds several new NPCs that can be found in different biomes. Some of them may sell unique items or have tasks for the player.\nNew Features: Tremor Remastered also adds new features such as new crafting mechanics, a revamped battle system, and new character abilities.\nSome of the most popular features of the Tremor Remastered mod include:\n\nBiomes: Frozen Wasteland, Deep Ocean, Underground Jungle, Abyss, Garden of Eden, Hell World.\nWeapons: katanas, archer kits, magic shields, air guns, bomb thrower, flying red pandas.\nArmor: Magma armor, Soul armor, Air armor, Ice armor, Night armor.\nBosses: Black Knight, Fire Dragon, Arctic Bear, Crystal Scorpion, Demonic Worm, Lord of the Mists and many others.\nHere are some more features of the Tremor Remastered mod:\n\nChests: The mod adds several new chests that contain unique items and resources. For example, a Magma Chest can contain magma crystals, and a Soul Chest can contain soul crystals.\nClasses: The mod adds new character classes that can be selected at the beginning of the game. Each class has its own unique abilities and characteristics.\nEvents: Tremor Remastered adds several new events that can happen during the game. For example, the Day of the Reptiles event can occur after you defeat certain bosses and will contain unique enemies and items.\nMusic: The mod adds new music tracks that can be heard in different biomes and environments.\nExpert Mode: Tremor Remastered also supports Expert Mode, which increases the games difficulty and adds new features.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "b5cf4269-62aa-42a6-bccf-6f80b5bb7df5",
+        "type_id": "4",
+        "name": "Atherius",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/atherius/atherius.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/atherius/atherius_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/atherius/atherius_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/atherius/atherius_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/atherius/atherius.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Atherius Mod is a mod for the game Terraria that adds new items, blocks, bosses and much more to the game.\n\nSome of the main features of Atherius Mod include:\n\nNew bosses: Several new bosses have been added to the mod, each with their own unique mechanics and drops.\nNew Items: The mod contains many new items including weapons, armor, accessories and more.\nNew Blocks: The mod also adds many new blocks that can be used to create decorations and structures.\nNew NPCs: There are several new NPCs in the mod that provide players with new tasks and items.\nVarious Changes: The mod also makes various changes to the gameplay, including balance changes, graphics improvements, and more.\nSome specific features of Atherius Mod include:\n\nBosses:\nEvil Owl: A boss that spawns in the forest and attacks the player using its talons and beak.\nDreaming Demon: A boss that appears in the desert and attacks the player using magical attacks.\nKing of Cones: A boss that appears in the underground world and attacks the player using huge spikes.\nItems:\nBomb Thrower: A weapon that fires small bombs that explode when they hit obstacles.\nLadys Dagger: A weapon that deals damage and slows enemies.\nSports Hat: An accessory that increases the players running speed.\nBlocks:\nCrystal Block: A block that can be used to create beautiful structures.\nCarpet Grass: A block that can be used to create carpets and decorative items.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "2d982b34-ceb1-4a8d-92c5-c185db465437",
+        "type_id": "4",
+        "name": "Dragon Ball",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dragon_ball/dragon_ball.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dragon_ball/dragon_ball.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dragon_ball/dragon_ball.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Dragon Ball Terraria 1.0.9.9 Ported is a mod for the game Terraria that adds elements and characters from the anime series \"Dragon Ball\".\n\nNew Characters: The mod adds many new characters from the Dragon Ball universe to the game, including the main characters and villains of the series.\nNew Items: The mod introduces many new items such as costumes, weapons, potions and other items that can be found in the world of Terraria.\nNew bosses: New bosses appear in the game, guarding new places and dropping valuable items. Among them are familiar characters from Dragon Ball.\nNew locations: the mod adds new locations to the game that correspond to the locations from Dragon Ball. You will now be able to visit Planet Neimek or the Capsule Corporation.\nNew Combat Mechanics: The mod introduces new combat mechanics that allow players to use super abilities from Dragon Ball. You can now use Kamehameha or Doju in the game.\nNew quests: the mod adds new quests to the game, which offer players to complete various tasks and receive valuable rewards for this.\nNew NPCs: New NPCs appear in the game and provide various services to players, such as selling items or providing information about the world.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "b13e851a-ab35-481d-81a0-13af82828d57",
+        "type_id": "4",
+        "name": "Victima Mod Rebirth",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/victima_mod_rebirth/victima_mod_rebirth.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/victima_mod_rebirth/victima_mod_rebirth.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/victima_mod_rebirth/victima_mod_rebirth.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Victima Mod Rebirth is a modification for the game Terraria that adds new enemies, items, bosses and much more.\n\nNew Enemies – The mod adds a variety of new enemies, each with their own unique attacks and abilities. Some of them can even chase the player for long distances, so be careful!\nNew Items – The mod adds many new items that you can use to improve your character. They can provide additional damage, speed, protection and much more.\nNew Bosses - The mod adds several new bosses, each with their own unique battle mechanics. They can be very difficult, so be prepared for a difficult battle.\nNew Worlds - The mod adds new worlds in which to explore and fight new enemies and bosses. Each world has its own unique characteristics, so you may need to use different strategies to win.\nNew mechanics - the mod adds many new mechanics that can be used to create various devices and mechanisms. Some of them can be very useful, especially when fighting bosses.\nNew Quests - The mod adds many new quests that can be completed to receive various rewards. They can be related to exploring the world, fighting enemies, or creating certain items.\nNew NPCs - the mod adds new NPCs that can offer the player new tasks, items and much more. They can also help the player in battle if they ask for it.\nSome of the new items that the Victima Mod Rebirth adds:\n\nThe Demon Sword is a powerful sword that deals massive damage and has high speed.\nThe Blade of the Empire is a sword that deals a lot of damage and has the ability to reflect some attacks from enemies.\nArmor of the Supreme Mage is armor that increases the characters magical damage and defense.\nStorm Staff is a magical staff that damages all enemies in the area and causes lightning.\nThe Heavens Crystal is an item that can be used to summon the new boss, the Archangel.\nThe Void Rod is a magical item that can create black holes that absorb enemies and cause damage to them.\nSome of the new worlds that the Victima Mod Rebirth adds:\n\nThe World of Darkness is a world completely immersed in darkness, home to new enemies and bosses.\nThe World of Heaven is a world inhabited by angels and powerful bosses. You can also find new items and weapons.\nThe Kingdom World is a world where kings and their subjects live. Here you can find new items and bosses.\nThis is just a small list of the many new features that the Victima Mod Rebirth adds to Terraria. This mod is a great choice for those who want to expand their gaming experience and add more options for exploration and combat.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "5ab8c2c2-652f-42ee-8d1c-d5e3447851bd",
+        "type_id": "4",
+        "name": "Verdant",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/verdant/verdant.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/verdant/verdant_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/verdant/verdant_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/verdant/verdant_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/verdant/verdant_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/verdant/verdant.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Verdant is a mod for TModLoader that adds many new items, enemies, biomes and features to the Terraria game.\n\nNew biomes:\n\nBamboo Forest: A biome consisting of tall bamboo stalks, similar to bamboo groves. This biome is home to new enemies and plants.\nBlooming Forest: a biome with many flowers and new mobs. You can find new resources and loot in it.\nRotten Lands: A biome consisting of rotten land where new resources and enemies can be found.\nNew items:\n\nMagic Wands: A new type of weapon that allows the player to cast various magic spells.\nNew Armor Sets: Armor sets that provide unique bonuses and abilities.\nNew Weapons and Tools: New weapons and tools that allow the player to gather resources and fight enemies more efficiently.\nNew Enemies:\n\nBamboo Dragon: A new type of enemy that lives in bamboo forests and can attack the player with fire breath.\nFlower Golem: A new type of enemy that appears in flowering forests and can attack the player with its flower petals.\nRotstorm: A new type of enemy that appears in the rotting lands and can attack the player with electrical discharges.\nOverall, the Verdant mod adds a lot of new features to the Terraria game and allows players to have a new gaming experience.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "328f9c66-8a5d-4d80-b2df-29e345fbf326",
+        "type_id": "4",
+        "name": "Archery Overhaul",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/archery_overhaul/archery_overhaul.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/archery_overhaul/archery_overhaul_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/archery_overhaul/archery_overhaul_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/archery_overhaul/archery_overhaul_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/archery_overhaul/archery_overhaul.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Archery Overhaul is a mod for Terraria that changes and improves archery mechanics. It is available for download and installation using the mod manager Tmodloader.\n\nList of changes and improvements made by this mod:\n\nNew types of arrows and combat ammunition:\nArrows with various effects such as poison, fire and ice.\nArrows with enhanced piercing ability that can pierce multiple enemies.\nArrows that break into many small projectiles during flight.\nCombat ammunition that can be used as traps or for protection.\nImproved accuracy and range:\nBows become more accurate and have a longer firing range.\nNew types of sights, such as zoom sights and laser sights, improve shooting accuracy.\nManagement and crafting:\nNew bow control interface that allows you to quickly switch between different types of arrows and sights.\nAdding new materials for creating bows, arrows and other combat ammunition.\nList of features of the Archery Overhaul mod:\n\nIncludes new types of arrows and combat ammunition.\nImproves archery accuracy and range.\nProvides new types of sights and bow control interface.\nAdds new materials for creating bows, arrows and other combat ammunition.\nThis mod is perfect for archery fans and for those who want to diversify the gameplay in Terraria.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "0131ef8a-6d6a-4c8e-b7cb-1f4fd622f5ae",
+        "type_id": "4",
+        "name": "Spinal Universe",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spinal_universe/spinal_universe.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spinal_universe/spinal_universe_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spinal_universe/spinal_universe_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spinal_universe/spinal_universe_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spinal_universe/spinal_universe_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spinal_universe/spinal_universe.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Spinal Universe is a modification for the game Terraria that adds new worlds, bosses, items and other game elements to the game. The mod is designed to be used with tModLoader, a tool that makes it easy to install and manage mods in Terraria.\n\nThe list of main features of the Spinal Universe mod includes:\n\nNew worlds:\nSpinal Planet: A new world with new biomes, bosses and items available.\nNecro Planet: a world filled with undead and dark forces.\nInferno Planet: a world full of lava and fire.\nNew bosses:\nSpinal Devourer: A boss similar to Eater of Worlds, but with new battle mechanics.\nNecro Lord: A powerful undead mage capable of summoning an army of zombies.\nInferno Lord: The demonic ruler of the lava caves, who can create fire elements.\nNew items:\nSpinal Armor: Armor that increases melee damage.\nNecro Staff: A staff that summons zombies and skeletons to fight at your side.\nInferno Blade: A sword that deals additional fire damage.\nNew game mechanics:\nThe ability to interact with items in the inventory without opening it.\nAbility to change the color of armor and accessories.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "3d6c9d13-723a-47a4-9052-010e9f543410",
+        "type_id": "4",
+        "name": "The Story of Red Cloud Revamped",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_story_of_red_cloud_revamped/the_story_of_red_cloud_revamped.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_story_of_red_cloud_revamped/the_story_of_red_cloud_revamped_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_story_of_red_cloud_revamped/the_story_of_red_cloud_revamped_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_story_of_red_cloud_revamped/the_story_of_red_cloud_revamped_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_story_of_red_cloud_revamped/the_story_of_red_cloud_revamped_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_story_of_red_cloud_revamped/the_story_of_red_cloud_revamped_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_story_of_red_cloud_revamped/the_story_of_red_cloud_revamped_06.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_story_of_red_cloud_revamped/the_story_of_red_cloud_revamped.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Story of Red Cloud Revamped is a mod for the game Terraria that can be installed using the tModLoader program. The mod adds a new storyline to the game, including new bosses, enemies, items and mechanics.\n\nThe mod has several different sections, each of which makes its own changes to the game:\n\nStoryline: Includes a new storyline with new NPCs, bosses and locations. The plot of the mod is revealed as the game progresses, and it can be complex and demanding of the players skills.\nItems: Adds new items that can be used in the game. This includes weapons, armor, accessories and other items that can help you progress through the game.\nEnemies: Includes new enemies that appear at different stages of the game. These can be various monsters, as well as bosses that must be defeated.\nNPCs (NPCs): Adds new NPCs that provide the player with additional services and help in progressing through the game.\nSome of the main elements that The Story of Red Cloud Revamped mod for TModLoader includes:\n\nNew NPCs: Hunter, Free Artist, Comrade Eli and others.\nNew bosses: Barbarian Rogue, Mad Professor and others.\nNew locations: House of the Free Artist, New Castle and others.\nNew items: Artists Brush, Sword of Creation and others.\nThese changes allow players to enjoy a new experience in Terraria and offer new challenges for more advanced players.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "5d2b072f-d9ad-488b-b8bd-2abc8bbc95bd",
+        "type_id": "4",
+        "name": "Secrets Of The Shadows",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/secrets_of_the_shadows/secrets_of_the_shadows.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/secrets_of_the_shadows/secrets_of_the_shadows_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/secrets_of_the_shadows/secrets_of_the_shadows_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/secrets_of_the_shadows/secrets_of_the_shadows_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/secrets_of_the_shadows/secrets_of_the_shadows_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/secrets_of_the_shadows/secrets_of_the_shadows_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/secrets_of_the_shadows/secrets_of_the_shadows.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Secrets of the Shadows is a Tmodloader mod for Terraria that adds new items, blocks, creatures, and other changes to the game to create a darker, more atmospheric environment.\n\nNew Items: The mod adds many new items to the game, including new weapons, armor, accessories and others.\nNew Blocks: The mod also adds new blocks to the game including Gloomy Bricks, Crystals and more.\nNew Creatures: The mod adds new creatures to the game, including new bosses, minions and mobs.\nNew Mechanics: The mod also adds new mechanics to the game, such as new abilities and skills for the player.\nNew Sound Effects: The mod adds new sound effects to the game to create a darker and more atmospheric environment.\nNew Textures: The mod also changes the appearance of many items, blocks and creatures in the game to create a darker environment.\nImproved Compatibility: The mod is compatible with many other Tmodloader mods, making it more versatile.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "1022567e-e204-4357-acd0-0245389a86c8",
+        "type_id": "4",
+        "name": "REMNANTS",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/remnants/remnants.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/remnants/remnants_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/remnants/remnants_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/remnants/remnants_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/remnants/remnants_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/remnants/remnants_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/remnants/remnants.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "REMNANTS is a mod for Terraria that adds new items, blocks, enemies, and more to the game. It also includes new game mechanics that enhance the gameplay and provide new options for players\n\nNew items:\nAncient amulet is an item that protects from damage and can be used to create other items\nCrystal Rod - a magical item that creates crystals that explode when touched by an enemy\nSoul Cathars are melee weapons that deal high damage and can be used to craft other items\nMithril Crest - a tool that allows the player to move faster through water\nNew blocks:\nMiners teleport is a block that can be used to teleport a player to another part of the world\nCrystal block - a block that glows in the dark and can be used to create other items\nMithril Mechanical Platform - a block that can be used to create complex mechanisms\nNew Enemies:\nThe Guardian Spirit is a powerful enemy that can summon other enemies to help\nMithril Golem is an enemy that has a large amount of health and can deal huge damage\nNew mechanics:\nMore crafting options - players can create new items by combining existing items\nNew surface type - a new type of block that can be used to create complex mechanisms\nNew Features for Creating Unique Worlds - Players can use new items and blocks to create unique worlds.\nREMNANTS is an interesting and varied mod for the game Terraria that adds many new elements and mechanics to the game. If you want to expand your gaming experience and get new features, then this mod is definitely for you!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "7f35bdd6-3486-42e5-bf25-dfa104b53a25",
+        "type_id": "4",
+        "name": "Catalyst Mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/catalyst_mod/catalyst_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/catalyst_mod/catalyst_mod.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/catalyst_mod/catalyst_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Catalyst Mod is one of many mods that can be installed in TModLoader. It adds new gear, bosses, and other gameplay elements to the game.\n\nList of functions and features of Catalyst Mod:\n\nNew weapons and armor. Catalyst Mod adds a large number of new types of weapons and armor to the game that will help the player complete the game more efficiently.\nNew bosses. The mod adds several new bosses that can be summoned and defeated by the player. Each boss has its own unique characteristics and abilities.\nNew NPCs. Catalyst Mod adds new NPCs that can help the player in the game. They provide new tasks and can sell useful items to the player.\nNew items. The mod adds many new items that can be used to create new items or improve existing ones.\nNew biomes. Catalyst Mod adds several new biomes that have their own unique resources and monsters.\nNew events. The mod adds new events that occur during the game and give the player the opportunity to gain new items and experience.\nVarious fixes and improvements. Catalyst Mod includes many fixes and improvements that make the game more stable and easier to use.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "0a386185-27d7-4111-8d79-275e04daa823",
+        "type_id": "4",
+        "name": "Consolaria",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/consolaria/consolaria.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/consolaria/consolaria_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/consolaria/consolaria_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/consolaria/consolaria_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/consolaria/consolaria_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/consolaria/consolaria_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/consolaria/consolaria_06.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/consolaria/consolaria.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Consolaria is a modification for the game Terraria that adds many new items, mobs, bosses and other gameplay elements to the game. This mod is available for download on TModLoader, a Terraria modding toolkit.\n\nList of main features and elements added by the Consolaria mod:\n\nNew biomes and locations:\nCrystal Wasteland: A new biome containing many crystals and gems.\nTerra Labyrinth: A new location where players must navigate a complex labyrinth and fight a boss.\nCalcifers Arena: A new arena where players can fight a giant boss.\nNew mobs and bosses:\nBoss Moon Cat: A new boss that can be summoned on the Moon and drops a lot of valuable items.\nArcher: a new mob that can drop in the Crystal Wasteland and attack the player from afar.\nT-Rex: a new mob that can drop out in the Terra Labyrinth and attack the player in melee.\nNew items and recipes:\nCrystal Blocks: New blocks that can be used for construction.\nCrystal Mine: New ore that can be used to create new items and weapons.\nCalcifers Orb: A new item that can be used to summon the boss in Calcifers Arena.\nImprovements and balancing:\nNew upgrades for many items and weapons to make them more effective in combat.\nBalancing many existing items and mobs to improve their gameplay.\nConsolaria is a great mod that adds a lot of new elements to Terraria. It may be of interest to both beginners and experienced players who are looking for new challenges and opportunities in the game.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "731e833a-cd0d-45ec-a4af-355a45eb4b7b",
+        "type_id": "4",
+        "name": "Fargo's Mutant Mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_mutant_mod/fargos_mutant_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_mutant_mod/fargos_mutant_mod.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_mutant_mod/fargos_mutant_mod_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_mutant_mod/fargos_mutant_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Fargo's Mutant mod for tModLoader adds many new items, NPCs and other features to the game. Below is a description of the main features of the mod, including content lists.\n\nMain features of the mod:\n\nAdds over 500 new items\nIncludes new NPCs with unique features and quests\nProvides the player with the ability to customize the difficulty of the game\nImproves crafting and item stacking\nList of some items added by the mod:\n\n\"Lucky Coin\" - a coin that increases the chance of item drops\n“Goblin Tech” is an item that allows you to quickly transfer items from your inventory to the ground and vice versa\n\"Infinity Crystal\" - an item that allows you to increase the number of uses of a weapon or tool\nWormhole Potion is a potion that allows the player to teleport to another player or NPC on the map\nList of some NPCs added by the mod:\n\n\"Adventurer\" - an NPC who provides the player with tasks to find certain items or mobs\n\"Mutant\" is a boss that has unique abilities and can be summoned using special items\n\"Anglers Assistant\" - An NPC who provides the player with fishing quests in certain locations on the map\n\"Explorer\" - an NPC who provides the player with tasks to explore certain places on the map\nThis is just a small overview of what can be found in the Fargos Mutant mod for tModLoader. It provides players with many new features and functions that make the game even more exciting and varied.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "a2700e41-8ab9-449b-9fd1-08fa882e10fe",
+        "type_id": "4",
+        "name": "Orchid Mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/orchid_mod/orchid_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/orchid_mod/orchid_mod.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/orchid_mod/orchid_mod_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/orchid_mod/orchid_mod_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/orchid_mod/orchid_mod_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/orchid_mod/orchid_mod_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/orchid_mod/orchid_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Orchid Mod is a modification for the game Terraria that adds many new items, monsters and bosses, and also changes the gameplay, making it more varied and interesting.\n\nNew bosses:\n\nOrchid Mods bosses are some of the toughest and can be challenging even for experienced players. Some of them include:\nStorm Map\nSpectral Queen\nAbyss Rider\nDragon Spirit\nSoul Hunter\nAnd others\nNew items:\n\nOrchid Mod adds over 600 new items including:\nWeapons and armor of various types and levels\nMining Tools\nVarious accessories that improve the players abilities\nVarious items for decoration and construction\nAnd much more\nNew monsters:\n\nOrchid Mod adds over 250 new monsters that can appear in different biomes and environments. Some of them include:\nAnt Lions\nGiant Tortoises\nSoul Hunters\nDifferent types of dragons\nAnd much more\nNew biomes:\n\nOrchid Mod adds several new biomes, each of which has its own unique appearance and resources. Some of them include:\nOvergrown Forest\nFrozen Wasteland\nAnomalous World\nGameplay Changes:\n\nOrchid Mod adds new features and improvements that change the gameplay, making it more interesting and varied. Some of them include:\nImproved Expert Mode\nBoss Challenge Modes\nNew ways to transfer a player\nAnd much more",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "e82ef6fa-1be6-4534-890d-89eebf91bc0b",
+        "type_id": "4",
+        "name": "Terraria Overhaul",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_overhaul/terraria_overhaul.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_overhaul/terraria_overhaul.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_overhaul/terraria_overhaul_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_overhaul/terraria_overhaul_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_overhaul/terraria_overhaul.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Terraria Overhaul is a mod for the game Terraria that brings many changes to the gameplay and gameplay. It overhauls most aspects of the game, including combat, progression, world generation, economics, and more.\n\nCombat and the damage system have been redesigned, resulting in a more realistic and strategic combat system.\nThe resource system has been improved, new items and crafting recipes have been added.\nWeather changes, new effects added such as snow and rain.\nImproved physics and gravity, which allows characters to move more realistically and allows you to use new strategies in battles.\nNew game mechanics such as thermal mode and seasonality.\nInventory and user interface changes.\nA large number of new enemies and bosses, as well as changes to existing ones.\nImproved research system and character development process.\nAdded new music tracks and sound effects.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "61460e88-d8ce-4de0-a210-e314193091fd",
+        "type_id": "4",
+        "name": "Dungeons And Dragons",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dungeons_and_dragons/dungeons_and_dragons.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dungeons_and_dragons/dungeons_and_dragons.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dungeons_and_dragons/dungeons_and_dragons_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dungeons_and_dragons/dungeons_and_dragons_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dungeons_and_dragons/dungeons_and_dragons.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Dungeons and Dragons Terraria is a modification that is a faithful recreation of the game Dungeons and Dragons in the world of Terraria. While this mod may not be the most powerful or in-depth mod out there, it does add a sense of familiarity to an all-time favorite game.\n\nTo start playing with this mod, you need level 1 and a mana crystal. It adds many new spells to the game, a leveling system, a Spellslot system, a class system, and a damage system that exactly matches DnD rolled dice. To balance the game, spells are multiplied by a mastery bonus that increases as you level up, allowing spells to be upgraded as the game progresses.\n\nDue to their unique nature and ability to deal low damage, all weapons are able to ignore defenses. Updates are planned to include bosses and monsters from DnD, more spells, more weapons using the DnD damage system, and familiar game elements.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "fb3baaf7-3c9b-48e3-bc5c-49a03b410b2a",
+        "type_id": "4",
+        "name": "Terrarchitect",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terrarchitect/terrarchitect.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terrarchitect/terrarchitect.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terrarchitect/terrarchitect_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terrarchitect/terrarchitect_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terrarchitect/terrarchitect.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Terrarchitect is a mod for the game Terraria that allows players to quickly and easily build various structures and designs in the game.\n\nBuilding tools and blocks: Terrarchitect adds a large selection of tools and blocks that can be used to create a variety of structures. Some of these tools include tools for building walls, tiles, furniture, decorative items, and more.\nScalable Blocks: Instead of building each block separately, Terrarchitect allows players to scale the blocks and create them in any size and shape, which speeds up the building process and gives more design freedom.\nArtistic elements: Terrarchitect also adds a lot of artistic elements that can be used to create decorative items. These elements include drawings, murals, tattoos and more.\nStructure kits: The mod also contains sets of structures that can be quickly deployed in the game. These kits include houses, castles, towers and more.\nAutomatic tools: Terrarchitect includes automatic tools to help speed up the building process. For example, tools automatically align walls and tiles and can create repeating elements throughout a structure.\nMultiplayer support: Terrarchitect is fully compatible with multiplayer mode, allowing players to build with their friends and speed up the building process.\nTerrarchitect is a useful mod for Terraria that makes the building process easier and faster and gives more freedom in design.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "bd98d636-f6e0-4831-aca3-d203f068b9ba",
+        "type_id": "4",
+        "name": "Assorted Crazy Things",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/assorted_crazy_things/assorted_crazy_things.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/assorted_crazy_things/assorted_crazy_things_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/assorted_crazy_things/assorted_crazy_things_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/assorted_crazy_things/assorted_crazy_things_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/assorted_crazy_things/assorted_crazy_things_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/assorted_crazy_things/assorted_crazy_things.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Assorted Crazy Things is a mod for the game Terraria that adds many new items, mobs and other elements to the game.\n\nNew Mobs: Assorted Crazy Things adds many new mobs including bosses, zombies, dragons and more. Each mob has its own unique abilities and characteristics, which makes the game more diverse and interesting.\nNew Weapons and Tools: The mod also adds many new weapons and tools that can be used to fight new mobs and craft new items. Some of these items include magic wands, flamethrowers, lasers, and more.\nNew Blocks and Decorative Items: Assorted Crazy Things adds many new blocks and decorative items that you can use to build new structures and decorate your bases. Some of these items include new walls, furniture, carpets, and more.\nNew Biomes: The mod also adds several new biomes that can be explored and unlocked in the game. Some of these biomes include fire caves, ice caves, and jungles.\nNew Events: Assorted Crazy Things adds several new events to the game that happen randomly and add even more variety to the game. Some of these events include lunar eclipses, meteor showers, and alien invasions.\nCrafting and Recipes: The mod also adds new crafting recipes and items that you can use to create new things and improve your equipment.\nAssorted Crazy Things is a mod for Terraria that adds many new items, mobs and other elements to the game, making it more varied and interesting for players.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "ad64b4f6-7daa-44df-94a1-b8af1405b841",
+        "type_id": "4",
+        "name": "Calamity's Vanities",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamitys_vanities/calamitys_vanities.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamitys_vanities/calamitys_vanities.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamitys_vanities/calamitys_vanities_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamitys_vanities/calamitys_vanities_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamitys_vanities/calamitys_vanities.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Calamity's Vanities is a modification for the game Terraria that adds a large number of new items, bosses and mechanics to the game. Some of these items are just for decoration and have no in-game value, but many of them provide unique abilities and bonuses to the player.\n\nColorful Fireworks - Various colored fireworks that can be used for decoration or to create beautiful effects while playing.\nPaper lanterns are decorations that can be hung on walls and used as lighting at night.\nBoss Masks are decorative masks that can be obtained after defeating bosses in the game. Additionally, masks can be used to create special items such as boss pets.\nAuro Blessings are effects that can be equipped on a character to improve their abilities and defense.\nCosmetic accessories are items that change a characters appearance, such as wings, bracelets, hats, and more.\nMusical instruments are items that can be used to create music in the game.\nNew mounts are new types of transport that can be used to move around the world of Terraria.\nCosmetic weapons are weapons that do not have high game value, but can be used to create effects and visual effects.\nGifts are items that can be found during the game and can contain valuable items or simply be decorative.\nThis is just a small list of items available in Calamitys Vanities. The modification adds many more new elements to the game that can change the gameplay and make the game even more interesting and varied.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "9f794bd9-6fb0-49fc-804f-07318b200553",
+        "type_id": "4",
+        "name": "Fargo's Souls Mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_souls_mod/fargos_souls_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist/fargos_souls_mod.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/boss_checklist/fargos_souls_mod_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/fargos_souls_mod/fargos_souls_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Fargo's Souls Mod for Terraria is a modification of the game that adds many new items, bosses and mechanics to the game.\n\nNew items:\n\nOver 500 new items including new weapons, armor, accessories, needs, tools, decorative items and more.\nEach item has its own unique properties and abilities, allowing players to create different combinations of items and use them in combat.\nNew enemies and bosses:\n\nOver 100 new enemies and bosses, each with unique attacks, abilities and stats.\nSome of the bosses are multi-story and have multiple battle phases, making them more difficult to defeat.\nNew game mechanics:\n\nAn improved class system that allows players to choose their class and receive unique bonuses and abilities according to the chosen class.\nA new quest system that offers players the opportunity to complete various tasks in order to obtain new items and rewards.\nA new shop and trade system that allows players to sell and buy items from merchants in the game.\nNew Challenges and Achievements:\n\nOver 40 new challenges and achievements that players can complete to earn special rewards and unlock new features in the game.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "e9a513dd-2721-4c2d-9a05-4bd588b4d4c5",
+        "type_id": "4",
+        "name": "Thorium Mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/thorium_mod/thorium_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/thorium_mod/thorium_mod_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/thorium_mod/thorium_mod_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/thorium_mod/thorium_mod_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/thorium_mod/thorium_mod_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/thorium_mod/thorium_mod_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/thorium_mod/thorium_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Thorium Mod is one of the most popular third-party mods for the game Terraria, which adds a large amount of new content, including new items, bosses, NPCs and other features.\n\nAmong the main features of Thorium Mod are the following:\n\nNew Biomes - The mod adds several new biomes such as swamps and desert, each containing unique items and creatures.\nNew Items – The mod adds over 2 new items, including new weapons, armor, tools, accessories, crafting items and more.\nNew NPCs - the mod adds more than 20 new NPCs, each of which can offer the player unique services and items.\nNew Bosses - The mod adds over 10 new bosses, each of which has unique abilities and items that can be obtained by defeating them.\nNew Mechanics – The mod adds many new mechanics, such as the ability to craft and apply “effects” to items, new ways to move around the map, and much more.\nThorium Mod includes the following:\n\n2600 new products!\n60 new armor sets!\n180 new enemies and banners!\n600 new tiles, blocks and furniture!\n10 new city NPCs!\n11 new bosses and 3 mini-boss encounters!\n2 new biomes: water depths и natural cemetery !\n3 new class, Thrower , Bard and Healer!\nFully balanced content!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+
+    {
         "id": "d16562a9-c73f-4238-9ced-ef89effdec8a",
         "type_id": "4",
         "name": "Jojos Caesar Sound",
@@ -2032,19 +2923,23 @@
     {
         "id": "b7114391-f4f0-4ff4-a63d-c9fdb0ed96c9",
         "type_id": "4",
-        "name": "Calamity Mod v2.0.1.3",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity/calamity.png",
+        "name": "Calamity Mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_mod/calamity_mod.png",
         "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity/calamity_01.png"
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_mod/calamity_mod_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_mod/calamity_mod_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_mod/calamity_mod_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_mod/calamity_mod_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_mod/calamity_mod_05.png"
         ],
         "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity/calamity.tmod",
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_mod/calamity_mod.tmod",
             "1": "",
             "2": "",
             "3": ""
         },
         "author_name": "Fabsol",
-        "description": "What is in Calamity Mod\n\t27 bosses and 12 minibosses\n\t100+ enemies\n\t5 city NPCs\n\t5 biomes and many new buildings\n\t1 event\n\t1 new playable class (based on Throwing from Terraria 1.3)\n\t1800+ items\n\t700+ weapons\n\t100+ blocks\n\t200+ pieces of furniture\n\t11 ores\n\t2 full difficulty levels above expert, separate from master\n\t50+ vanilla mechanic changes\n\t30+ new vanilla item recipes\n\tOver 450 tweaks and improvements to vanilla items.\n\tCross mod support for Thorium Mod",
+        "description": "Calamity Mod is a modification for the computer game Terraria, which adds new elements, mechanics and bosses to the game, increasing the complexity and duration of the gameplay.\n\nWith this mod you will get many new bosses, unique and challenging difficulty modes, over a thousand new items, new NPCs and whole new biomes for research! Calamity also greatly expands the endgame of Terraria, creating a completely original and intense experience for players.\n\nThe mod further tweaks many Vanilla features and greatly expands the base game, including but not limited to:\n\nReworked the reforging of the goblin mechanic.\nReworked game progress in early hardmode.\nDozens of additional crafting recipes for existing vanilla items.\nDozens more quality of life and balance changes!\nAmong the main features of Calamity Mod are:\n\nNew bosses and monsters: The mod adds over 35 new bosses and monsters, each with their own unique abilities and attacks. Bosses become available as you progress through the game, and defeating them requires good strategy and a willingness to fight.\nNew items and weapons: The Calamity Mod adds over 1000 new items and over 100 new weapons to the game that allow players to deal with new bosses and monsters more effectively.\nNew locations and biomes: mod adds new locations to the game that you can explore and extract resources. The new biomes are represented by various zones such as the destruction zone, the battle zone, the wandering spirit zone and many others.\nExpert mode: The Calamity Mod adds an expert mode to the game that increases the difficulty of the gameplay by increasing the damage and health of bosses, monsters, and the player.\nClass rework: The modification reworks the character classes, providing more options for customizing the character for a specific play style.\nNew game mechanics: The Calamity Mod adds many new mechanics to the game, such as new abilities and effects, dynamic events, improved mechanics for interacting with objects, and much more.\n\nAll in all, the Calamity Mod is a great addition to the Terraria game, providing players with new challenges and opportunities to progress through the game. However, it should be noted that the mod greatly increases the complexity of the gameplay, so it is recommended that newcomers to the game first learn the basics of the game before diving into the world of Calamity Mod.",
         "size": "",
         "tags": [
             "15"
@@ -2165,30 +3060,6 @@
         },
         "author_name": "unknown",
         "description": "New version of \"Cheat Mod\" for Terraria. If you are not in the know, with this mod you can get any item, spawn enemies, remove debuffs and do a lot of other interesting things.\n\nTModLoader version v0.11.8.3",
-        "size": "",
-        "tags": [
-            "15"
-        ],
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2024-01-19 22:14:30.089"
-    },
-    {
-        "id": "022c691b-fe04-47df-9795-6094d6b10fcf",
-        "type_id": "4",
-        "name": "SPLIT v 0.4.1.10",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_v0_4_1_10/split_v0_4_1_10.png",
-        "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_v0_4_1_10/split_v0_4_1_10.png"
-        ],
-        "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/split_v0_4_1_10/split_v0_4_1_10.tmod",
-            "1": "",
-            "2": "",
-            "3": ""
-        },
-        "author_name": "unknown",
-        "description": "The SPLIT mod adds new bosses, biomes, weapons, armor and many other interesting content to Terraria. There are even more bosses, NPCs and items in this new version of the mod.\n\nWhat's in fashion\n~ Over 700 new items - new unique weapons, armor sets, accessories and more! ~\n~ Over 40 new enemies with unique animations and behaviors ~\n~ 7 new bosses with unique AI ~\n~ 6 new city NPCs - each NPC has their own interesting items to sell, and some of them can trade your items for unique gear! ~\n~ Two new buildings - Stranded Ship and Underworld Domain! ~\n~ Russian language support! ~\n~ Support for the Boss Checklist mod by Jopojelly!\n\nTModLoader version v0.11.8.3",
         "size": "",
         "tags": [
             "15"
@@ -2671,30 +3542,6 @@
         },
         "author_name": "unknown",
         "description": "For a long time we have not had mods on our site that add new bosses and enemies to the game. Therefore, I correct this oversight, and add the Last Hero's mod. In addition to bosses and enemies, this mod adds new weapons, items and even a couple of biomes to Terraria.\n\nTModLoader version v0.11.8.3",
-        "size": "",
-        "tags": [
-            "15"
-        ],
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2024-01-19 22:14:30.089"
-    },
-    {
-        "id": "5561ef0c-e20d-4766-941a-5a8e8309e52b",
-        "type_id": "4",
-        "name": "No More Tombs v1.1.1",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_more_tombs_v1_1_1/no_more_tombs_v1_1_1.png",
-        "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_more_tombs_v1_1_1/no_more_tombs_v1_1_1.png"
-        ],
-        "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_more_tombs_v1_1_1/no_more_tombs_v1_1_1.tmod",
-            "1": "",
-            "2": "",
-            "3": ""
-        },
-        "author_name": "unknown",
-        "description": "No More Tombs is a simple mod that allows you to disable the appearance of gravestones after the death of a player. In addition, this mod has a couple of interesting settings.\n\nFunctions:\n\nDisable the creation of gravestones when the player dies. This effectively prevents tombstones from being received (unless the following feature is enabled).\nEnable tombstone creation when city NPCs die, similar to 1.4 Hardcore feature (no need to be in Hardcore for it to work).\nDisable the display of messages about the death of a player.\nAll of the above functions are configured in the game menu Mod Config.\n\nTModLoader version v0.11.8.1",
         "size": "",
         "tags": [
             "15"
