@@ -1,5 +1,1375 @@
 [
     {
+        "id": "6fcd57c4-8cb9-4193-8c7b-d0d2894c59c5",
+        "type_id": "4",
+        "name": "Luminance",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/luminance/luminance.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/luminance/luminance.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/luminance/luminance.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Luminance mod for Terraria is a massive expansion of the game experience, incorporating a number of key features and data structures.\n\nGeneral functions:\nData structures: Generic interfaces or data structures with various uses.\nMitigation: Options to create smooth animations or smooth values ​​based on softening curves.\nState machines: A system for managing complex behavior states (artificial intelligence) for NPCs, projectiles or anything else.\nUtilities: Includes a wide range of utilities ranging from mathematics to rendering code and more.\nVerle integration: Provides the ability to create realistic ropes and other objects using verle integration.\nKey features:\nBalancing: Centralized balancing system that maintains NPC health, NPC projectile resistance, and item customization to take into account conflicts between different mods.\nCutscenes: Contains a cutscene system that allows cutscene events to be replayed in mods with hooks for general aspects, but allows freedom in their course.\nGraphic arts: Provides a wide range of graphics features such as particles, primitives, shaders, screen shaking, etc.\nConnection: Provides several interfaces for using hooks, a wrapper for managed IL changes, and a helper class.\nMenu information interface: Contains a system that allows mods to add small icons to the player and world interface that display specific information based on the state of the player or the world.\nMod Challenges: Provides a system for separating and organizing mod calls with automatic type and argument safety checking.\nSounds: Provides a system for correct cyclic playback of sounds.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "4c191013-773f-49c1-be96-66b446dd95e3",
+        "type_id": "4",
+        "name": "Mod Marks For Materials",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mod_marks_for_materials/mod_marks_for_materials.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mod_marks_for_materials/mod_marks_for_materials_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mod_marks_for_materials/mod_marks_for_materials_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mod_marks_for_materials/mod_marks_for_materials_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mod_marks_for_materials/mod_marks_for_materials_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mod_marks_for_materials/mod_marks_for_materials.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "“The 'Material Mod Marks' mod is your personal assistant in exploration and crafting in Terraria! By adding a small visual cue to each material, this mod provides information about the mods that recipes belong to.\n\nBenefits of use:\n\nConvenient visual display of materials belonging to mods.\nIt is recommended to customize the mod configuration for a better gaming experience.\nFeatures of the mod currently include:\n\nFully compatible with most content mods.\nLimited compatibility with other mods.\nCustomizable configuration options.\nImportant to note: no small icons for mods. This mod relies on mods to have a built-in small icon, usually used for a bestiary, to show the mod's identifiability in the game. Many mods, especially those that add simple quality of life items, do not have this icon and instead receive a placeholder (one of the 'Missing Icons' shown above). Some mods may get support for their own icons. This currently includes: | LuiAFK Reborn, Magic Storage, Quality Of Terraria, imkSushi's Mod, AlchemistNPCLite, More Beams, Dragon's Decorative Mod, Summoner's Accosiation, Gadget Galore, The Clicker Class, Orchid Mineshaft.\"\n\nHere is a list of materials and their mods:\n\nMod: LuiAFK Reborn\nMaterial 1\nMaterial 2\nMaterial 3\nMod: Magic Storage\nMaterial A\nMaterial B\nMaterial C\nMod: Quality Of Terraria\nMaterial X\nMaterial Y\nMaterial Z\nMod: imkSushi's Mod\nMaterial Alpha\nMaterial Beta\nGamma material\nMod: AlchemistNPCLite\nDelta material\nEpsilon material\nTheta material\nMod: More Beams\nMaterial I\nMaterial II\nMaterial III\nMod: Dragon's Decorative Mod\nDragon Scale material\nDragon Claw Material\nDragon Fang material\nMod: Summoner's Accosiation\nSummoner's Token Material\nSummoner's Charm material\nSummoner's Emblem Material\nMod: Gadget Galore\nMaterial Gadget A\nMaterial Gadget B\nMaterial Gadget C\nMod: The Clicker Class\nClicker Shard Material\nClicker Core Material\nClicker Essence Material\nMod: Orchid Mineshaft\nOrchid Crystal material\nMaterial Orchid Ore\nOrchid Ingot material",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "823cc5dd-ebaa-4f86-89a0-2e5a4a9368e1",
+        "type_id": "4",
+        "name": "OVERCRIT",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overcrit/overcrit.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overcrit/overcrit.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/overcrit/overcrit.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Discover a new level of critical hits in the world of Terraria with the OVERCRIT!!! mod! This mod adds a unique mechanism that allows you to get a damage bonus if your critical hit chance exceeds 100%.\n\nAdditional Damage: Normally, if your critical strike chance is over 100%, it does nothing. However, with this mod you can get an additional damage bonus if your critical chance is above 100%. More crits, more damage!\nDamage Modes: The mod provides two damage modes. In Overcrit mode, each additional critical hit adds 0.5x to the damage multiplier, making the first Overcrit 3x damage, the second 4x, the third 5x, and so on. You can also disable this mode in the configuration and use the classic \"Multiplicative Damage\" mode, where the damage is doubled, quadrupled, and so on.\nApplicability to appeals: Even for summon weapons with this mod you can get a damage bonus if your critical hit chance is high enough. If you are brave enough to set up a critical chance for summons, you deserve a reward!\nCompatible with other mods: Mod “OVERCRIT!!!” Compatible with other modifications, including popular mods such as Calamity. It even interacts with the special critical damage of weapons like Calamity's Soma Prime, offering unique options for even more damage!\nNote: The OVERCRIT mechanic doesn't work in PvP mode, but if your critical chance is already above 100%, you've probably already defeated your opponent.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "b23a0a27-0320-43e6-88d1-89e953b942aa",
+        "type_id": "4",
+        "name": "Terraria Random Loot",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_random_loot/terraria_random_loot.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_random_loot/terraria_random_loot.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_random_loot/terraria_random_loot.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Terraria Random Loot is a mod for tModLoader, which allows you to create a unique random generation experience in Terraria.\n\nRandom drops: The mod adds a chance for random items to drop from enemies, bosses, and even mods. You can adjust the drop rate from 0% to 100%, even while playing without rebooting!\nImproved Chests: When this feature is enabled, each item in the chest can be replaced with a random one. This takes into account the limitation on the maximum number of items in one slot in order to maintain balance.\nCustomization for bosses and normal enemies: You can adjust the drop rates for bosses and normal enemies separately.\nContinuous development: The mod is constantly updated and new features are added regularly.\nTerraria Random Loot is a great way to add variety to the game and make each playthrough unique!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "ec5a6829-dd82-49e6-a326-13ba308de385",
+        "type_id": "4",
+        "name": "Starter Bags",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/starter_bags/starter_bags.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/starter_bags/starter_bags.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/starter_bags/starter_bags.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Starter Bags Mod is an amazing mod for tModLoader that gives you bag sets based on the mods you have activated.\n\nThis mod adds various bags for the following mods:\n\nMagic storage:\nStorage Heart\nStorage Crafting Interface\nStorage Configuration Interface\n32 Storage Connectors\n8 Storage Units (8 storage blocks)\nCalamity:\nDesert Medallion\nCaustic Tear\nDecapodita Sprout\nRover Drive\nFargo's Mutant Mod:\n8 Instahouses (8 instant houses)\n4 Mini Instabridges (4 mini instant bridges)\nHalf Instavator (Instant half lift)\nBattle Cry\nLuiafk Reborn:\nImproved Dummy\nMoney Collector\nUnlimited Torches item\nPrison Builder\nUnlimited Recall Potion\nQuality of Life:\nBanner Box\nPotion Bag\nWand of Space\nThorium:\nThorium Shield\nJellyfish Resonator\nGrand Flare Gun\nStorm Flare (Petrel)\nOrchid Mod:\nPotion Bag\nSalvaged Toolbox\nBlooming Bud\nClicker Class:\nMouse Pad\nGold Clicker\nEnchanted LED\nButton Masher\nDragon ball terraria:\nAmber Necklace\nWorn Gloves\nZ-Table\nThe Stars Above:\nAlien Coral\nAnomalous Byte\nPerfectly Generic Accessory\nApalistik (Apalistik)\nEach bag can be enabled or disabled in the mod's configuration.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "45000a0e-e830-4cca-bb50-24e3a4e5da00",
+        "type_id": "4",
+        "name": "Summoners' Association",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/summoners_association/summoners_association.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/summoners_association/summoners_association.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/summoners_association/summoners_association.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "JOPOJELLY",
+        "description": "This mod aims to clear up several misunderstandings with challenges and expand the capabilities of the Summoner class to full development. The vision for this mod is to create a summoner who is fully occupied with buffing and controlling minions and has little time to use other weapons.\n\nIncludes 6 items:\n\nSummoner Association Map - Displays information related to the summoner\nShows the number of summoned minions (out of the total number available) under each minion buff\nJust needs to be in your inventory to work.\nMinion Control Rod - Control and direct your minions\nLeft click to instantly teleport all minions to the pointer\nRight click to select an enemy or create a marker as a target\nTalisman of Blood - Donate your life force for a powerful minion buff.\nBuffs minions on your pointer, becoming stronger as channel time increases\nSacrifices your own abilities in return\nMinion Selection Book - Allows you to summon any minion from your inventory\nA circular interface showing all summonable weapons in your inventory\nKeeps your hotplate clean\nMinion Recruit Book - Allows you to summon a set of minions from your inventory with one click\nImproved Minion Selection Book\nAllows you to create a \"set\" for instant summoning, instead of using each weapon separately\nAutomatic Minion Recruit Book - Automatically summons a set of minions upon revival\nAdvanced Minion Recruiting Book\nAutomatically summons minions when you revive",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "27114825-c91c-40e8-9a82-c066b9facbbb",
+        "type_id": "4",
+        "name": "Begone, Evil",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/begone_evil/begone_evil.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/begone_evil/begone_evil.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/begone_evil/begone_evil.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "JOPOJELLY",
+        "description": "This mod allows you to enable or disable biome spread across all worlds, similar to the Infectious Spread feature available in Journey mode. By default, biome propagation will only be disabled by enabling this mod.\n\nThe mod controls the distribution of such biomes as:\n\nEloquence (Crimson)\nCorruption\nLordship (Hallow)\nSettings are saved for each world separately.\n\nIn case you want to re-enable biome spreading, you can use the Hero's Mod integration or a chat command to toggle this effect.\n\nWhen using \"Hero's Mod\", the \"Toggle Corruption Spread\" feature allows you to use the \"Toggle Corruption Spread\" button in the \"Extension Tools\" submenu.\n\nIn chat or the server console, the “/spread” command will toggle the effect (in the server console you just need to write “spread”).\n\nSo let's summarize the main features of this mod:\n\nAllows you to control the spread of biomes throughout the world, similar to the “Bacterial spread” function available in “Journey” mode.\nAffects the Corruption, Speech and Serene biomes.\nInvolves saving settings for each individual world.\nAllows you to enable biome propagation again using the \"Hero's Mod\" integration or the chat command feature.\nCompatible with the “/spread” command to toggle the effect in chat or on the server.\nThis mod will be especially useful for players who want more control over changing their game world.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "7e03ccfe-0dd5-44aa-bc52-54b72853ea5f",
+        "type_id": "4",
+        "name": "Start with base",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/start_with_base/start_with_base.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/start_with_base/start_with_base_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/start_with_base/start_with_base_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/start_with_base/start_with_base_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/start_with_base/start_with_base_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/start_with_base/start_with_base_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/start_with_base/start_with_base.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Start with base\" is a mod for TModLoader that adds the ability to start a new game in Terraria with a pre-built base. The mod provides the player with a pre-created base with various rooms, blocks, furniture and items.\n\nStarting the game with a base: After installing the mod and creating a new world, the player will be able to select the “With a starting base” option when creating a character. After this, the player will find himself inside a pre-built base.\nPrebuilt Premises: The mod offers several different base styles, including a medieval castle, a futuristic complex, a wooden lair, and more. Each style offers unique spaces such as bedrooms, kitchens, libraries, workshops, etc.\nFurniture and Items: Each base contains various furniture items, decorations, and functional items that the player can use to decorate and outfit the base. Some items may be essential items such as beds, stoves, tables, etc.\nBlock Variety: The mod offers a wide variety of blocks and structures to use in its base. Players can choose between different walls, floors, ceilings, and other decorative elements to create a unique style for their base.\nPersonalization: Players can make their own changes and additions to the presented databases to make them more unique and tailored to their preferences. This could include adding new rooms, rearranging items, or even creating your own base from scratch using the blocks and items provided.\nConvenience and time saving: The “Start with base” mod makes it easier to start the game by providing the player with a ready-made base. This allows the player to focus on other aspects of the game, such as exploring the world, finding resources, and fighting enemies, instead of wasting time building a base from scratch.\nThe \"Start with base\" mod offers a more convenient and faster way to start a new game in Terraria, providing players with a pre-built base with a variety of rooms, blocks, furniture and items. This is an excellent choice for players who want to jump straight into the gameplay without having to build a base.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "6162286a-6c16-47ee-bde1-da687dc34b96",
+        "type_id": "4",
+        "name": "Shorter Respawn Time",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shorter_respawn_time/shorter_respawn_time.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shorter_respawn_time/shorter_respawn_time.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shorter_respawn_time/shorter_respawn_time.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "JOPOJELLY",
+        "description": "The Shorter Respawn Time mod is designed for those who want to more flexibly manage respawn time in the game. It provides customization options related to respawn times and also interacts with other mods for an enhanced gaming experience.\n\nFeatures of the Shorter Respawn Time mod:\n\nRespawn time setting: Change the time it takes for your character to respawn after death directly from the game interface.\nPunishment for death: Control the punishment for death, especially for experts and bosses, using the following options:\nPenalty scale in expert mode.\nPenalty scale for bosses.\nGlobal respawn time setting: Change the overall respawn wait time using the Global Respawn Gauge.\nAdditional features:\n\nPreset for shorter respawn: The mod comes preset with settings for reduced respawn times, which is consistent with previous versions of this mod.\nIntegration with other mods:\n\nSharing with the HERO mod: If you use the Shorter Respawn Time mod with the HERO mod or cheat sheet, a button will appear in the menu for instant respawn.\nHERO mod priority: When loading both mods at the same time, the HERO mod will take precedence, allowing for an expanded permission system.\nChanges when using the HERO mod:\n\n2 new permissions will be added to group management:\n“Change personal respawn time” - allows you to use the instant respawn cheat code.\n“Change global respawn time” - allows you to customize the respawn time configuration values ​​at your discretion.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "028a6d5e-e775-4bad-9283-5cf817930662",
+        "type_id": "4",
+        "name": "More Accessory Slots (More Accessories)",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/more_accessory_slots_more_accessories/more_accessory_slots_more_accessories.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/more_accessory_slots_more_accessories/more_accessory_slots_more_accessories_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/more_accessory_slots_more_accessories/more_accessory_slots_more_accessories_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/more_accessory_slots_more_accessories/more_accessory_slots_more_accessories_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/more_accessory_slots_more_accessories/more_accessory_slots_more_accessories_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/more_accessory_slots_more_accessories/more_accessory_slots_more_accessories_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/more_accessory_slots_more_accessories/more_accessory_slots_more_accessories.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"More Accessory Slots\" (or \"More Accessories\") is a modification (mod) for the game Terraria created for TModLoader that allows players to increase the number of accessories they can carry at the same time. This mod expands the number of accessory slots, allowing you to equip more accessories to improve your abilities and stats.\n\nThe main features of the More Accessory Slots mod include:\n\nAdditional accessory slots: The mod adds additional slots for accessories that can be found on your character. This allows you to carry more accessories at the same time.\nSetting up slots: The mod can also provide custom options so you can choose how many extra accessory slots you want to add. For example, you can increase the number of slots from two to five or even more, depending on your choice.\nCompatibility: The mod is generally compatible with other Terraria mods, allowing you to combine different accessories and use them in combination to achieve a variety of effects and upgrades.\nConvenience: This mod improves the playability of the game as you can have more accessories without having to constantly switch between them.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "88b6cb2a-0470-416b-b840-928bc029091d",
+        "type_id": "4",
+        "name": "Basic Automated (Vein) Mining",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/basic_automated_vein_mining/basic_automated_vein_mining.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/basic_automated_vein_mining/basic_automated_vein_mining_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/basic_automated_vein_mining/basic_automated_vein_mining_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/basic_automated_vein_mining/basic_automated_vein_mining.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Basic Automated (Vein) Mining is a mod for TModLoader that adds automation to the game for the extraction of ore and minerals. The mod greatly simplifies and speeds up this process, allowing players to accumulate resources faster.\n\nAutomatic extraction of ore veins: The mod adds a special device that allows you to automatically extract ore from the veins. After installing the device, the player only needs to specify the mining area, and it will automatically process all the veins in that area, extracting ore from them.\nAutomation Integration: Basic Automated (Vein) Mining is compatible with other mods that add automation, such as wires and pipes. This allows you to connect the mined ore to the transportation and processing system, which greatly simplifies and speeds up the further process of processing resources.\nVarious mining modes: The mod offers several mining modes, including a fully automatic mode, where the device itself mines veins in a specified area, and a semi-automatic mode, where the player needs to activate the device to begin mining. This allows players to choose the most convenient mode depending on their needs.\nEfficiency Improvements: Basic Automated (Vein) Mining also offers opportunities to improve mining efficiency. Players can modify the device to increase mining speed or expand the vein processing area. This allows you to receive resources even faster.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "e175d496-f370-4415-ba9c-3d5f8704470e",
+        "type_id": "4",
+        "name": "Better Respawn",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_respawn/better_respawn.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_respawn/better_respawn.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_respawn/better_respawn.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Better Respawn is a mod for TModLoader that provides players with more convenient and improved respawn features in Terraria.\n\nSpawn Settings: The mod allows players to choose a wider range of spawn locations. You can set a spawn point almost anywhere on the map.\nCustom Revival Settings: The mod provides the ability to customize the revival mode, such as choosing whether to revive with full health and mana or with a certain amount of resources.\nTemporary spawn points: The mod allows you to create temporary spawn points that are activated only for a certain time. This is useful when you need to quickly return to a specific location on the map.\nSpawn Protection: You will be able to set protection for your spawn points to prevent other players or monsters from using them. This way you will have more control over your spawn points.\nEnhanced Multiplayer Features: The mod also provides improved respawn features for multiplayer play. You will be able to configure respawn rules for all players on the server.\nUseful Additions: Better Respawn also includes some additional useful features, such as displaying spawn markers on the minimap and the ability to move spawn points from one location to another.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "ab9f3f7a-5307-4f68-9e60-a03760501267",
+        "type_id": "4",
+        "name": "No Immunity",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_immunity/no_immunity.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_immunity/no_immunity.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_immunity/no_immunity.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "No Immunity! is a mod for tModLoader that changes the mechanics of character immunity in the game Terraria. Instead of having full or partial immunity to certain effects or damage, this mod completely removes immunity from characters, making them vulnerable to all effects and damage in the game.\n\nNo Immunity at all: Instead of being immune to certain status effects such as poison or bleeding, characters are now susceptible to those effects. Each effect will have its own effect on the character, regardless of his status or strength.\nDamage Vulnerability: Characters will no longer be immune to certain types of damage such as fire, ice, or poison. This means that they will take full damage from any attacks, regardless of the type of damage they deal.\nChanging Battle Tactics: Due to the complete lack of immunity, players will have to change their battle tactics. They can no longer rely on immune items or spells to protect themselves from certain damage or effects. Instead, they will have to actively avoid or reduce damage taken by using other strategies and items.\nGreater sense of realism: No Immunity Mod! strives to create a more realistic and more suspenseful gaming environment. Without immunity, players must be prepared for any effects and damage, which adds an extra layer of difficulty and strategy to the game.\nCompatibility with other mods: No Immunity! designed to be compatible with other tModLoader mods. This means that you can combine it with other mods to create a unique and intense gaming experience.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "82d4a879-3f72-4b16-a0e8-ffe26c3c9f5a",
+        "type_id": "4",
+        "name": "Calamity Loot Swap",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_loot_swap/calamity_loot_swap.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_loot_swap/calamity_loot_swap.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/calamity_loot_swap/calamity_loot_swap.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Calamity Loot Swap is a mod for tModLoader that expands the gameplay in the popular Calamity Mod for the game Terraria. It makes changes to the loot system, making it more varied and interesting.\n\nLoot Changes: The mod changes the way you obtain items from various bosses and events in Calamity Mod. This includes changing item drop rates, adding new items, and changing some stats on existing items.\nNew Items: Calamity Loot Swap adds a variety of new items to the Calamity Mod that can be obtained from bosses, events, or other sources. These items can be new weapons, armor, accessories, and other useful items.\nLoot Balancing: The mod also makes changes to the loot balance in Calamity Mod. It can increase or decrease item drop rates to make gameplay more balanced and interesting.\nLoot Rework: Calamity Loot Swap reworks the loot system in Calamity Mod to make it more varied and fun. This could include changing boss drops, adding new ways to obtain items, and changing the conditions for obtaining unique items.\nConfiguration and Customization: The mod provides various settings that allow you to customize your mining options according to your preferences. You can change item drop rates, add your own items, and customize other aspects of the game.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "7f725f33-0182-40a1-9979-e326f4999697",
+        "type_id": "4",
+        "name": "Max Stack Plus Extra",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/max_stack_plus_extra/max_stack_plus_extra.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/max_stack_plus_extra/max_stack_plus_extra.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/max_stack_plus_extra/max_stack_plus_extra.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Max Stack Plus Extra is a mod for Tmodloader that allows players to increase the maximum number of items they can store in their inventories and slots. The modification also allows you to increase the maximum number of stacks that a player can have for each individual item.\n\nSome features of the Max Stack Plus Extra mod:\n\nIncreasing the maximum number of items in inventory slots and chests\nIncreasing the maximum number of stacks for each individual item\nAccess to new tools to customize stacking settings and maximum item counts\nConfigurable settings for each server\nSupport for multiplayer servers and players\nSome settings available in the Max Stack Plus Extra mod:\n\nMaximum number of items in inventory\nMaximum number of items in a chest\nMaximum number of stacks for each individual item\nSupports various types of game items such as weapons, tools, blocks, resources and others\nVarious customization options such as allowing the mod to only be used by certain players or on certain servers",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "5fcb7cea-6e13-4ecc-b235-4fef19c34094",
+        "type_id": "4",
+        "name": "The Amulet Of Many Minions: Combat Pets",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_amulet_of_many_minions_combat_pets/the_amulet_of_many_minions_combat_pets.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_amulet_of_many_minions_combat_pets/the_amulet_of_many_minions_combat_pets_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_amulet_of_many_minions_combat_pets/the_amulet_of_many_minions_combat_pets_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_amulet_of_many_minions_combat_pets/the_amulet_of_many_minions_combat_pets_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_amulet_of_many_minions_combat_pets/the_amulet_of_many_minions_combat_pets_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_amulet_of_many_minions_combat_pets/the_amulet_of_many_minions_combat_pets_05.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/the_amulet_of_many_minions_combat_pets/the_amulet_of_many_minions_combat_pets.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Amulet Of Many Minions is a mod for Terraria that adds the new Amulet Of Many Minions accessory to the game, as well as several new minions. The mod was designed for use with tModLoader, making it easy to install and manage mods in Terraria.\n\nHere are some features of The Amulet Of Many Minions mod:\n\nAdds a new accessory, \"Amulet Of Many Minions\", which increases the number of minions the player can use by 3.\nAdds several new minions that can be summoned using this accessory. Some of them can attack opponents, while others can help the player in various tasks, such as collecting resources.\nThe mod also adds new items that can help the player in summoning minions, as well as improve them.\n\"The Amulet Of Many Minions\" not only increases the number of minions, but also improves their characteristics, allowing the player to use minions more effectively in battle.\nList of some minions added to the mod:\n\nMini Cultist\nMini Golem\nMini Pirate\nMini Skeletron Prime\nMini Truffle\nMini Twins\nMini UFO\nOverall, The Amulet Of Many Minions mod gives players more options for using minions in the game, which can be especially useful when fighting against stronger enemies and bosses.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "caa9fda5-f261-4c41-b770-1e7556a5cfe4",
+        "type_id": "4",
+        "name": "Max Luck",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/max_luck/max_luck.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/max_luck/max_luck.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/max_luck/max_luck.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "If you want to get the most out of the Max Luck mod, it is recommended that you learn how the luck mechanics work in Terraria and what items and resources can be upgraded with increased luck.\n\nIn addition, it should be taken into account that the Max Luck mod may cause temporary problems in the game, especially when a traveling merchant appears. However, these problems are easily resolved by restarting the game or disabling the mod.\n\nList of features of Max Luck mod:\n\nIncreasing maximum luck above 1\nLowering the minimum luck below 0\nRegulating the drop rates of items and resources\nActivating and deactivating luck-related effects\nTemporary problems with the game when a traveling merchant appears\nOverall, the Max Luck mod could be an interesting and rewarding addition to Terraria for those looking for more challenge and opportunity in the game. However, before installing the mod, it is recommended that you familiarize yourself with its features and make sure that it is compatible with other mods and the version of the game.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "8cc7bddb-b938-42ba-9fb9-dc11df3272fc",
+        "type_id": "4",
+        "name": "LuiAFK Reborn",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lui_afk_reborn/lui_afk_reborn.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lui_afk_reborn/lui_afk_reborn.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/lui_afk_reborn/lui_afk_reborn.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "LuiAFK Reborn is a mod for TModLoader that provides a number of handy features for Terraria players who want to customize their game interface and automate some routines.\n\nAFK modes:\nAFK mode - automatically uses items to protect you from mob attacks.\nMining mode - automatically extracts resources from the nearest cave.\nFish mode - automatically catches fish.\nInterface setup:\nSetting the screen resolution and scaling the interface.\nShow/hide inventory and buffs.\nChange the location and size of various interface elements.\nImproved mini-cartograph:\nDisplays depth and height, as well as biomes on the minimap.\nDisplaying objects on the map, such as containers, traps, etc.\nConvenient search for objects on the map.\nHelp in exploring the world:\nDisplay information about blocks and items while exploring the world.\nQuickly move around the world using teleportation.\nVarious additional features:\nShow FPS and ping.\nSetting up multiple points at home for quick movement.\nAutomatic use of banks, containers, etc.\nLuiAFK Reborn provides players with many convenient features to help them customize their Terraria gaming experience. It can be especially useful for those who spend a lot of time playing the game and want to simplify some routines.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "019a96d2-c778-4e87-a20b-068c8c69964e",
+        "type_id": "4",
+        "name": "Terraria Randomizer Mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_randomizer_mod/terraria_randomizer_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_randomizer_mod/terraria_randomizer_mod_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_randomizer_mod/terraria_randomizer_mod_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_randomizer_mod/terraria_randomizer_mod_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/terraria_randomizer_mod/terraria_randomizer_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Terraria Randomizer Mod is a modification for the game Terraria that adds a random element to the gameplay. The mod allows you to change the content of the game, making the gameplay more exciting and varied.\n\nList of mod features:\n\nRandom placement of items and blocks on the map, including ores, treasures, animals and monsters.\nRandom selection of initial equipment and weapons when creating a new character.\nAbility to customize mod parameters, such as the frequency of random items appearing, the type of generated worlds, etc.\nGame modes such as \"Hardcore\" and \"Expert\" can also be casual.\nRandom changes to the characteristics of items and mobs, such as damage, speed and health.\nVarious random event triggers such as \"Blood Moon\" and \"Goblin Army\".\nTo install the mod, you must have Tmodloader - a tool for managing mods in the game Terraria. After installing Tmodloader, you need to download the modification from the tmodloader mod site and place it in the Mods folder in the Terraria directory. You can then launch the game and activate the mod in the settings menu.\n\nOverall, the Terraria Randomizer Mod allows players to enjoy the endless variety and randomness of the Terraria game, making each new playthrough unique and interesting.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "0b89e06c-6417-45ed-91f0-52044d499967",
+        "type_id": "4",
+        "name": "Reduced Grinding",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/reduced_grinding/reduced_grinding.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/reduced_grinding/reduced_grinding_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/reduced_grinding/reduced_grinding_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/reduced_grinding/reduced_grinding_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/reduced_grinding/reduced_grinding.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Reduced Grinding (RG) modification for the game Terraria using the tModLoader tool allows you to reduce the amount of time that players have to spend repeatedly completing the same tasks and collecting resources. This is achieved through a variety of improvements and innovations that allow players to gain more experience and resources in less time.\n\nList of RG features and improvements:\n\nImproved XP: Players gain more XP for completing actions in the game, such as killing monsters or crafting items.\nFaster Resource Gathering: Resources such as wood or stone are collected faster, speeding up the process of creating new items.\nImproved Crafting: Players can craft items faster and more efficiently with a new crafting interface and enhanced automation.\nNew Tools: New tools have been added to the game, such as mechanical gloves, which speed up the resource extraction process and improve the player experience.\nNew Monsters and Bosses: Players will have to fight new monsters and bosses, allowing them to gain additional experience and resources.\nMore Co-op Play Options: Many of RG's features can be used in co-op play, allowing groups of players to progress through the game faster.\nRG is a mod that significantly improves the gameplay of Terraria by reducing the amount of time and effort required from players. With new tools, improved features and new monsters, RG lets you enjoy the game more and progress faster.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "9d1cf83d-7e68-4499-a531-6d18cb006b10",
+        "type_id": "4",
+        "name": "Cheat Sheet",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_sheet/cheat_sheet.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_sheet/cheat_sheet_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_sheet/cheat_sheet_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_sheet/cheat_sheet_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cheat_sheet/cheat_sheet.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "JOPOJELLY",
+        "description": "Cheat Sheet is a powerful tool for developers, as well as for those who simply want to play with items, recipes and NPCs in Terraria, including mods. This mod also provides tools for \"painting\" blocks to make the building process easier and faster.\n\nHow to use Cheat Sheet:\n\nPress K (or whatever hotkey you have assigned to \"Toggle Cheat Sheet Hotbar\") or press the button at the bottom center of the screen to open the Cheat Sheet hotbar.\nUse the item, NPC, or recipe browser to quickly find the item you need. You can filter the list of objects by category or use the search field.\nClick on an object to add it to your inventory or summon an NPC. You can also use Shift-click to quickly move a full stack of items into your inventory.\nTo color the blocks, use the block painting tools found in the Coloring Tools shelf.\nCheat Sheet Configuration: You can configure the Cheat Sheet to work differently depending on your needs. For example, you can configure tools so that they are only available to the host in a multiplayer game.\n\nIf you are using HEROsMod, you can selectively allow tools to be used in multiplayer. All tools will be limited to the permissions assigned to your user.\n\nList of Cheat Sheet tools:\n\nItem Browser: Allows you to quickly find the item you need and add it to your inventory.\nNPC Browser: Allows you to quickly summon the desired NPC.\nRecipe browser: allows you to quickly find the recipe you need.\nBlock painting tools: allow you to quickly and easily paint blocks and create beautiful and convenient structures in the game. Tools include dropper and block coloring.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "370a675c-c2e2-4458-8729-aad83ae30bc2",
+        "type_id": "4",
+        "name": "Wing Slot Extra",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wing_slot_extra/wing_slot_extra.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wing_slot_extra/wing_slot_extra_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/wing_slot_extra/wing_slot_extra.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Wing Slot Extra is a mod for TModLoader that adds a new Wing Slot, allowing players to carry multiple pairs of wings at the same time. Each slot can contain one pair of wings, and the player can switch between slots using hotkeys.\n\nSome of the wings added to the mod include:\n\nSparkling wings: increase flight speed and give a bonus to magical defense\nIce Wings: Gives the player the ability to ice breath and a bonus to cold protection\nShadow Wings: Increases movement speed and provides bonus damage at night\nPhoenix Wings: Gives the player the ability to revive after death and a bonus to fire defense\nDragon Wings: Grants the player the ability to breathe fire and a bonus to fire defense\nIn addition, the mod also includes new accessories that can be used with the wings to improve their performance. Some of these accessories include:\n\nDragon Helm: Increases fire breath power and fire defense\nDarkness Points: Increases damage at night and grants bonus movement speed\nBoots of the Iceland: Increases the power of ice breath and protection from cold\nOverall, Wing Slot Extra is a great mod for those who want to improve their flying experience in Terraria by adding new features and items to explore.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "d687481f-5aa2-4634-8574-5bdf6cbc15fb",
+        "type_id": "4",
+        "name": "HERO's Mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/heros_mod/heros_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/heros_mod/heros_mod_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/heros_mod/heros_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "JOPOJELLY",
+        "description": "HERO's Mod is a powerful toolkit for Terraria that puts you in complete control of your world. This mod is designed to be used in conjunction with Tmodloader, a modding tool for Terraria that allows you to manage the installation and removal of mods.\n\nCreative mode: HERO's Mod gives you the ability to edit your inventory, manage the time of day, create bosses and much more. All this can be done right in the game, without the need to use commands in the chat.\nGroup management: The mod allows you to customize access to functions for different groups of players. You can turn certain features on or off, and manage access rights.\nServer Tools: HERO's Mod makes server administration easier. You can ban players, remove items, control NPC spawns and much more.\nHere are some of the tools available in HERO's Mod:\n\ninventory editor: Convenient inventory editing with search by category.\nUnlimited range: Access to any point on the map.\nEnemy Spawn Control: Enable/disable enemy spawning.\nRemoving items from the ground: Easy to remove debris.\nTime management: Change the time of day, turn on/off rain.\nInfinite Enchanted Solar Clock Mechanism: Fast time change.\nTeleportation and tags: Set teleportation points for all players.\nSpawning NPCs and bosses: Creation of NPCs and bosses.\nBuffs and Wealth: Adding buffs and wealth.\nRegion management: Protect zones from changes.\nViewing player inventories: Cheat check.\nGroup management: Setting up access to tools for different groups of players.\nHERO's Mod is an indispensable tool for server administrators and anyone who wants complete control of their world in Terraria!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "d57add8a-5423-4294-8f9c-713aa1527078",
+        "type_id": "4",
+        "name": "No Pylon Restrictions",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_pylon_restrictions/no_pylon_restrictions.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_pylon_restrictions/no_pylon_restrictions_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_pylon_restrictions/no_pylon_restrictions_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/no_pylon_restrictions/no_pylon_restrictions.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "No Pylon Restrictions is a mod for tModLoader that removes restrictions on pylon placement in Terraria. This mod allows players to place pylons anywhere on the map without the restrictions that are usually present in the game.\n\nHere are some of the features and functionality of the No Pylon Restrictions mod:\n\nNo restrictions on the placement of pylons in the game world.\nAllows players to place multiple pylons in one location.\nAllows the placement of pylons in dungeons, Jungle dungeons, and other restricted areas.\nAllows players to quickly move between different pylons on the map.\nWorks with other mods that add new pylons or change game mechanics.\nWith this mod you can create more efficient travel paths on the map and save time on quickly moving between different places. You can use pylons to quickly travel to your home, friends, or other important places on the map. This mod can be especially useful for experienced players who want to speed up their progress in the game and reduce the time they spend moving around the map.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "7c3ebc4f-2150-4fcb-84ed-bd1fa35ca112",
+        "type_id": "4",
+        "name": "T Date Mod : The Mod for Terraria",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/t_date_mod/t_date_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/t_date_mod/t_date_mod_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/t_date_mod/t_date_mod_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/t_date_mod/t_date_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "T Date Mod: The Mod is a modification for the game Terraria that adds dating elements to the game world. While the mod is still in early access and is more of a proof of concept than a full update, it is already starting to expand the way you interact with some characters.\n\nNew character - Zoologist: So far, the only character being worked on, Zoologist, has been selected for priority update. This character is not just an object in the game, but a potential dater, which makes him especially interesting for players.\nJourney into the world of dating: The mod offers players the opportunity to start an interesting relationship with the Zoologist, which can lead to different outcomes and adventures in the world of Terraria.\nInteractive dates: Future updates plan to add deeper and more interactive dating elements to give players a more fully immersive experience in the game's dating world.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "22f7f9bc-3820-4dc6-bf49-bf2ad6db764d",
+        "type_id": "4",
+        "name": "Equippable Forbidden Sign",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/equippable_forbidden_sign/equippable_forbidden_sign.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/equippable_forbidden_sign/equippable_forbidden_sign.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/equippable_forbidden_sign/equippable_forbidden_sign.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Equippable Forbidden Sign is a creative solution for Terraria players looking to integrate the aesthetics of the powerful Forbidden Sign into their adventures while maintaining freedom of choice in their armor. This mod opens up new possibilities for self-expression and individuality, allowing players to experience the power of Ban without being tied to a specific gear.\n\nFeatures:\n\nWhen equipped in the accessory hole, the Forbidden Mark is displayed on the character's back.\nAllows you to use the bonus of the Ban armor set (double tap the down/up button to call a sandstorm).\nWhen equipped in the vanity slot, the Forbidden Mark is still displayed, but the ability to summon a sandstorm is disabled.\nThe Forbidden Mark also becomes dark in color (as does the short cooldown caused by continuously summoning sandstorms while using the Forbidden Armor).\nAdvantages:\n\nAllows players to use the Forbidden Mark aesthetic without having to wear Forbidden armor.\nIdeal for those who value appearance and functionality in gaming accessories.\nIdeal for:\n\nPlayers who value style and functionality in accessories.\nLovers of the Forbidden Mark, but do not welcome the associated properties of the Forbidden armor.\nNotes:\n\nMade to cater to players who want to integrate the Forbidden Mark aesthetic into their playstyle without compromise.\nCreates additional options for personalizing your character's appearance in Terraria.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "a8f4fc54-0125-4936-b905-ef23f48eb0d8",
+        "type_id": "4",
+        "name": "Blue Archive x Terraria",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/blue_archive_x_terraria/blue_archive_x_terraria.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/blue_archive_x_terraria/blue_archive_x_terraria_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/blue_archive_x_terraria/blue_archive_x_terraria_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/blue_archive_x_terraria/blue_archive_x_terraria_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/blue_archive_x_terraria/blue_archive_x_terraria_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/blue_archive_x_terraria/blue_archive_x_terraria.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Blue Archive x Terraria mod, also known as TerraArchive, is currently in testing and development. Although this is a temporary version, it heralds exciting possibilities for immersing yourself in the fascinating world of Blue Archive, brought to life in Terraria.\n\nThis mod combines two unique worlds - the world of Terraria and the world of Blue Archive, creating a unique gaming experience. Although the mod contains a limited amount of content at the moment, it foreshadows many exciting elements to be added in future updates.\n\nFeatures:\n\nExclusive items and armor: While some items and armor are locked into the current version and cannot be crafted, their unique designs and properties already hint that players will be able to create powerful gear for their characters.\nNPCs and Bosses: Some characters and bosses are not available in this version, but their addition in the future promises exciting battles and interesting quests.\nFuture plans: It is planned to expand the mod with the addition of new content and functionality. Below is the plan for future updates:\n\nBlue Archive items: Introducing many items inspired by the world of Blue Archive, such as pyroxenes and other unique resources.\nNew NPCs: New characters will be introduced, including Arona and Sora, who will bring their own unique stories and quests to the game.\nWeapon and armor upgrades: Introducing new options for modifying and upgrading equipment, allowing players to create even more powerful weapons and defenses.\nRaid Events: The introduction of events in which players will have to join forces to deal with powerful opponents and receive valuable rewards.\nBoss Battle: The epic battles featuring students featured in the world of Blue Archive promise to truly test players' skills.\nNew opponents: Adding unique enemies to regular areas of the Terraria world that will present new challenges and reward opportunities.\nUnique accessories and weapons: Introducing a variety of accessories, weapons and armor inspired by the world of Blue Archive that will help players overcome all obstacles in their path.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "18c27eb0-bf0f-446f-b2ae-049a06714aee",
+        "type_id": "4",
+        "name": "Flame Throwers",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/flame_throwers/flame_throwers.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/flame_throwers/flame_throwers_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/flame_throwers/flame_throwers_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/flame_throwers/flame_throwers_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/flame_throwers/flame_throwers_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/flame_throwers/flame_throwers_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/flame_throwers/flame_throwers_06.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/flame_throwers/flame_throwers.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The FlameThrowers+ mod brings a new dimension of fire weapons to the world of Terraria, expanding the ranger's capabilities and giving him new abilities and fighting style. Players can now enjoy a wide arsenal of flamethrowers, additional accessories and unique armor sets.\n\n18 new flamethrowers: Dive into a storm of fire with a variety of flamethrower types, each with their own unique characteristics and abilities. From powerful fiery jets to incendiary flashes, the choice is yours!\nNew gel as ammunition for flamethrowers: Now you will have special gels in your arsenal, designed specifically for use in flamethrowers. Control the flames and burn your enemies with improved efficiency.\n5 new accessories: Improve your skills and defense with new accessories designed specifically for the Flamethrower. From increasing flamethrower damage to fire protection, find your perfect combination.\n3 new armor sets: Get new armor sets that will not only increase your defense, but also provide unique bonuses specifically adapted for the use of flamethrowers.\n",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "7b4ad37b-fb08-4ae7-aa28-7c11911e411b",
+        "type_id": "4",
+        "name": "NPC Warfare",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/npc_warfare/npc_warfare.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/npc_warfare/npc_warfare_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/npc_warfare/npc_warfare_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/npc_warfare/npc_warfare_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/npc_warfare/npc_warfare_04.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/npc_warfare/calamity_overhaul_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The NPC Warfare mod for Terraria allows NPCs to attack other NPCs of different \"factions\" both in melee and with projectiles, dividing most NPCs into different groups based on their in-game alliances and alliances based on lore and bestiary entries.\n\nNPC Warfare allows NPCs to attack opposing NPCs from different \"factions\" both in melee and with projectiles. It divides most NPCs into different groups based on their in-game alliances and alliances based on lore and bestiary entries.\n\nFeatures:\nSupports battles between NPCs of different factions.\nFully compatible with Consolaria and Qwerty's Bosses and Items mods.\nWill make NPCs from mods such as Calamity, Thorium, Retribution and others neutral and aggressive only towards NPCs of their type.\nConfiguration of options to control the behavior of factions and NPCs.\nFactions:\nZombies\nSkeletons\nslimes\nDemon Eyes (including Wandering Eye, Servants of Cthulhu, etc.)\nJellyfish\nmummies\nAntlions\ngestures\nWall of Flesh (WOF, Voodoo Demon, Leeches, Hungry)\nSpecters (Wraiths, Possessed Armor, Ghosts, etc.)\nHornets\nLizards & Golem\nDemons\nBlood Creatures (Drippler, Blood Zombie, Dreadnautilus, etc.)\nMartians\nFrost Legion\nPumpkin Moon\nFrost Moon\nSolar Eclipse\nGoblin Army\nPirates\nOld one's army\nStardust\nV\nSolar\nNebula\nDungeon Inhabitants\nMushroom (anything related to or infected with a glowing mushroom)\nhallowed\nCorrupt/Crimson\nEvil (including parts of Cthulhu, Mechs and Cultists)\nFactions disabled by default:\nDesert\nSnow\nJungle\nNight (Zombies, Demon Eyes, some Specters, Werewolves, etc.)\nBeast (Antlions, Basilisk, Wolves, Werewolves, Giant Scorpions)\nWarning/Notes:\nPerformance may decrease when there are a large number of NPCs on the screen.\nNot compatible with some worm mods.\nShould be (mostly) compatible with content mods, with the exception of worms and segmented NPCs.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "ba95d485-4bb6-4110-80fa-71572c3d815d",
+        "type_id": "4",
+        "name": "Dart Guns",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dart_guns/dart_guns.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dart_guns/dart_guns_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dart_guns/dart_guns_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dart_guns/dart_guns_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dart_guns/dart_guns_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dart_guns/dart_guns_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dart_guns/dart_guns_06.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/dart_guns/dart_guns.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Enter a world of variety and skill with the DartsGuns+ mod! This mod is designed to expand the subclass of dart pistols, which in the original game is represented by only two types of weapons (or four, if you include blowguns).\n\nExtended arsenal: Immerse yourself in an exciting world with 37 new types of dart guns that are available at different stages of the game. From simple designs to unique and powerful variations, the choice is yours.\nUnique accessories: Improve your dart gun skills with 5 special accessories designed specifically for this class of weapon. They will help you achieve maximum efficiency in battle.\nNew types of darts: Discover 11 new types of darts, as well as reworkings of existing Crystal darts. New weapon capabilities will allow you to adapt to different situations and opponents.\nWays to obtain items:\n\nMost items can be crafted from various materials. It is recommended to use the Recipe Browser to easily search for recipes.\nSome items can be purchased from NPCs such as the Arms Dealer and Voodoo Doctor after certain events or defeating bosses.\nSome items can be obtained as drops from powerful enemies and bosses, such as Queen Bee, Wall of Flesh, Gemini, Plantera, Golem, Duke Fishron, Empress of Light and Moon Lord.\nCompatibility and Multiplayer:\n\nThe mod is compatible with other modifications, but is currently not recommended for use in multiplayer due to the lack of support for online mode.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "4c4aad37-ff09-4a5b-b72c-386b6a509c98",
+        "type_id": "4",
+        "name": "Decorative Potions",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decorative_potions/decorative_potions.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decorative_potions/decorative_potions_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/decorative_potions/decorative_potions.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Transform your Terraria world into an amazing place with the Decorative Potions mod! This mod adds decorative potion tiles to the game that can be placed in your home or base.\n\nDecorative potions and vials: Each potion and vial now has a decorative version that can be placed in your world. Decorate your home or laboratory with stylish decorations that reflect the variety of potions and drinks in the game.\nCraft: Decorative potions and vials can be crafted using a regular potion and a heavy crafting bench. Simply place one potion on a heavy workbench to create a decorative version and add a unique accent to your decor.\nUnique decorative elements: Enjoy a variety of decorative tiles representing different potions and vials. From a health potion to a mana potion, each item will add a unique charm to your home or base.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "a2d272b8-238a-411e-85c6-6ef0de462ad4",
+        "type_id": "4",
+        "name": "PalMod (Summoner Subclass)",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/palmod/palmod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/palmod/palmod_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/palmod/palmod_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/palmod/palmod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Immerse yourself in a new gaming experience with the “PalMod (Summoner Subclass)” mod! This mod adds a summoner subclass, allowing the player to tame NPCs and use them as minions.\n\nTaming NPCs: Now you can tame NPCs and use them as faithful assistants on your adventures through the world of Terraria. From friendly animals to powerful magicians, the choice is up to you!\nUnique gaming experience: The mod offers a unique and unpredictable gaming experience that can be unbalanced, but at the same time exciting and varied. Immerse yourself in a world of adventure and explore new abilities as a summoner.\nFeedback and development: The developer tries to make the mod as high quality as possible, but in early versions there may be errors and shortcomings. Please report any bugs you find to help improve the mod and make it even better!\nMultiplayer: At the moment multiplayer is not supported, but the developer promises to add this feature in the future. Together with your friends, you can enjoy an even more unique gaming experience by creating and developing your teams of minions.\nCompatible with other mods: The mod is compatible with NPCs using standard AIStyles. However, compatibility with other mods is not guaranteed, so we invite you to check compatibility with your favorite modifications yourself.\nImmerse yourself in an exciting adventure with the PalMod (Summoner Subclass) mod and experience the unique abilities of a summoner in the world of Terraria!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "3d8f2e43-8d1e-4b92-b7a5-8db1f0910d73",
+        "type_id": "4",
+        "name": "Monster Hunter Armor Skills",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/monster_hunter_armor_skills/monster_hunter_armor_skills.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/monster_hunter_armor_skills/monster_hunter_armor_skills_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/monster_hunter_armor_skills/monster_hunter_armor_skills_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/monster_hunter_armor_skills/monster_hunter_armor_skills_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/monster_hunter_armor_skills/monster_hunter_armor_skills.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Bring the spirit of monster hunting into the world of Terraria with the Monster Hunter Armor Skills mod! This mod aims to add armor from Monster Hunter to the game and implement a skill system similar to MHW-Rise, with skills even for standard armor.\n\nArmor and skills: Gain access to an assortment of Monster Hunter armor with unique abilities and skills. New types of armor will not only provide you with additional protection, but will also provide various bonuses and skills that will help in battles with monsters.\nSkill system: A skill system similar to that found in Monster Hunter: World - Rise has been implemented. Now you can level up skills that suit your play style and battle preferences.\nUpdates and fixes: The developer is constantly working to improve the mod by making fixes and adding new content. Support the mod, follow the updates and participate in the development of the project by offering your ideas and comments.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "7af76c03-f45d-47ec-94e7-bd5aa8e944f7",
+        "type_id": "4",
+        "name": "Chad's Furni Reborn",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/chads_furni_reborn/chads_furni_reborn.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/chads_furni_reborn/chads_furni_reborn.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/chads_furni_reborn/chads_furni_reborn.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Discover new horizons in the world of Terraria with the help of the Chad's Furni Reborn mod! This mod promises to transform your gaming experience by adding a huge number of new blocks, walls and furniture pieces so you can create unique and colorful worlds.\n\nMore than 700 furniture elements: Dive into a world of endless possibilities with over 700 new furniture pieces that include everything you could ever imagine. From cozy homey retreats to epic castles, there are no limits to your imagination.\nChanges and additions: The mod not only adds new items, but also makes changes to the original content. Reworked recipes, additional materials and improved design - all this makes the game even more exciting and varied.\nSupport for other mods: The mod's capabilities are not limited only to the mod itself. Chad's Furni Reborn is compatible with various other mods, allowing you to enjoy new furniture pieces combined with your favorite mods.\nConstant updates: The developers are constantly working to improve the mod, fixing bugs and adding new content. Stay tuned for new features and items that can make your world even more unique.\nCommunity and support: Join the Chad's Furni Reborn fan community where you can share your creations, exchange tips and get support from other players.\nDon't miss the chance to create your ideal world with the Chad's Furni Reborn mod - give free rein to your imagination and create unique and exciting locations!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "652ffc45-9b2b-4926-b8e6-b2dac46d02a2",
+        "type_id": "4",
+        "name": "Industrial Pickaxes",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/industrial_pickaxes/industrial_pickaxes.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/industrial_pickaxes/industrial_pickaxes.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/industrial_pickaxes/industrial_pickaxes.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Industrial Pickaxes mod is an add-on for Terraria that adds tools to the game with a special skill - the ability to smelt ingots directly from ore.\n\nSpecial Ability: These industrial pickaxes have a unique property - the ability to turn ore into ingots. The chance of transformation depends on how much ore is required to create the ingot using the normal method.\nCost and speed: Industrial pickaxes are slightly more expensive than standard pickaxes, and their speed is slightly lower. However, their convenience and time savings make them a valuable asset in your arsenal.\nReforging: You can also turn a regular pickaxe into an industrial pickaxe, giving it similar advantages and disadvantages. (This feature is currently not working)\nBonuses and mod support: The mod also offers a special pickaxe that can find useful materials in certain blocks, making the crafting and construction process easier. Additionally, the mod supports various other modifications such as Calamity, Mod of Redemption, Thorium and Metroid Mod.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "b7045862-1397-47c6-9077-1f09844f8357",
+        "type_id": "4",
+        "name": "Pacifist Route",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/pacifist_route/pacifist_route.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/pacifist_route/pacifist_route_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/pacifist_route/pacifist_route.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The Pacifist Route mod for tModLoader breaks new ground in Terraria by allowing players to save the lives of some bosses and give them the opportunity to coexist with you. Each boss has its own requirements to conquer, most of which require you to not attack the boss for several minutes and still remain alive.\n\nUnique requirements for conquering each boss, stimulating the player's strategic and survival thinking.\nEach boss gains its own unique action or transformation into a city pet when conquered.\nThe mod includes all bosses up to the pre-adaptive stage, enriching the gameplay at any stage in the development of the Terraria world.\nAdvantages of Pacifist Route mod:\n\nOpens up new game strategies, encouraging alternative methods of interacting with bosses.\nAdds unique gameplay mechanics that allow players to explore the world of Terraria from a new perspective.\nAllows you to enjoy deeper interaction with bosses, turning them into friends and allies in your adventure.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "430e7ab8-d154-4b6b-a630-b593fad6ac12",
+        "type_id": "4",
+        "name": "More Pre-Hardmode Armors",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/more_pre_hardmode_armors/more_pre_hardmode_armors.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/more_pre_hardmode_armors/more_pre_hardmode_armors.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/more_pre_hardmode_armors/more_pre_hardmode_armors.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "'More Pre-Hardmode Armors' for tModLoader adds class armor for each class in Terraria. Find out details about new armor for pre-war classes, including mages, marksmen, and fighters, as well as future updates to the mod.\n\nThe “More Pre-Hardmode Armors” modification is an addition to the popular game mod tModLoader, designed for the game Terraria. This mod adds new class armor for each class (except for the Summoner) early in the game, similar to how armor is implemented in Hardmode. Most of the new armor is a helmet, but some sets also include new breastplates or leggings. It's important to note that the standard vanilla helmets and chestplates will still be available in the game.\n\nAdded armor:\nWooden armor for melee, marksman and mage classes. (The author notes that armor will not be created for every type of tree, perhaps this will change in the future, but for now requests for this are not accepted).\nCopper armor for melee, marksman and mage classes.\nTin armor for melee, marksman and mage classes.\nLead armor for melee, marksman and mage classes.\nIron armor for melee, marksman and mage classes.\nGold and platinum armor for melee, marksman, mage and summoner classes (for the summoner, the armor is complemented by a set of flinx fur).",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "8fbda9c8-4733-41e8-8417-f3830786160f",
+        "type_id": "4",
+        "name": "Spear Rework",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spear_rework/spear_rework.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spear_rework/spear_rework_01.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spear_rework/spear_rework.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "The “Spear Rework Mod” is a modification for tModLoader that completely reworks the Spear subclass in Terraria, turning it into a fun and viable challenge. The modification adds a weak point system, new spears and accessories, providing players with a unique gaming experience.\n\n“Spear Rework Mod” is a modification for tModLoader developed by Verveine. It aims to rework the spear subclass, turning it from perhaps the most neglected weapon type in the game into a viable and fun challenge.\n\nMain features of the modification:\n\nWeak Point System: This system allows the player to score critical hits, which adds strategic depth to the game's combat system.\nNew spears: The modification adds new spears to fill gaps in the game's progression.\nAccessories: Accessories have been added to the spears to complement the new weak point system.\nCompatible with modified spears: The modification is compatible with modified spears, providing more flexibility for players.\n“Spear Rework Mod” offers players a new way to interact with the world of Terraria, enriching the gameplay and offering new strategies and tactics for combat. This is a unique addition to the game that is sure to attract the attention of Terraria fans.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "1c53c8d2-a8a0-413f-99df-2b07fea8c0b0",
+        "type_id": "4",
+        "name": "Team Fortress 2 Remastered",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/team_fortress_remastered/team_fortress_remastered.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/team_fortress_remastered/team_fortress_remastered_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/team_fortress_remastered/team_fortress_remastered_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/team_fortress_remastered/team_fortress_remastered_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/team_fortress_remastered/team_fortress_remastered_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/team_fortress_remastered/team_fortress_remastered_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/team_fortress_remastered/team_fortress_remastered_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/team_fortress_remastered/team_fortress_remastered_07.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/team_fortress_remastered/team_fortress_remastered.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "“Team Fortress 2 Remastered!” is a unique modification for tModLoader that recreates the beloved game Team Fortress 2 in the world of Terraria. While still in development, this modification promises to introduce TF2-specific classes and weapons with respect for quality.\n\n“Team Fortress 2 Remastered!” is an innovative modification for tModLoader from Rylei, which is a faithful interpretation of the beloved game Team Fortress 2.\n\nCurrent content:\n\nItems: 10 unique items, including 8 weapons, faithfully recreated from the game; 1 Mercenary Manifesto; and 1 Cosmetic item.\nProjectiles: 4 different projectiles.\nBuffs: 2 useful buffs.\nPlanned content:\n\nItems: All types of weapon classes and their corresponding Mercenary Manifests.\nPVP Support: Weapons used in PVP will function the same as their PVE counterparts.\nCustom Maps: Unique maps for use with the mod.\nBetter Sprites: Improved sprites to more accurately blend Terraria and TF2 art styles.\nPassage Support: Ability to use weapons throughout the entire playthrough.\nLocalization support: Translations of the mod into other languages.\nRemaster Features:\n\nAmmo System: The weapons in this mod, like their TF2 counterparts, have a built-in ammo system.\nFall Damage: Weapons from this mod have fall damage and increased damage.\nHighly customizable: “Team Fortress 2 Remastered!” allows you to customize both gaming features and fun gaming features for great flexibility.\nMercenary Manifests: Mercenary Manifests are unique accessories that grant you the abilities of the class they correspond to.\nCleaner Code: The code for this mod was built from scratch to be significantly cleaner, faster and more stable than the original.\nMore Satisfactory: Weapons feel, act and sound significantly closer to their in-game counterparts for maximum authenticity.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "1e39cbe0-25c0-4785-859e-628ff899ac6d",
+        "type_id": "4",
+        "name": "Block's Info Accessories",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/blocks_info_accessories/blocks_info_accessories.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/blocks_info_accessories/blocks_info_accessories_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/blocks_info_accessories/blocks_info_accessories_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/blocks_info_accessories/blocks_info_accessories.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Block's Info Accessories are your guide to the world of Terraria, providing access to various information displays for deeper immersion in gameplay. Monitor and improve your gaming stats with six new displays, each with their own features and integration with PDA, Cell Phone and Shellphone!\n\nFortune Mirror: Not only displays your luck level, but also increases it slightly when equipped! Get it by \"overflowing\" a regular Magic Mirror (but not an Ice Mirror!).\nAttendance Log: Shows the maximum and current number of minions. Crafted from Book, Gel and Ink on a Table and Chair.\nEngineer's Registry: Displays the maximum and current number of guard towers. Sold by Goblin Engineer.\nScrying Mirror: A combination of Lucky Mirror, Attendance Log and Engineer's Register.\nSmart Heart: Shows the speed of health recovery (or its loss from the effects of debuffs). Get it by \"transferring\" a regular Regeneration Bracelet.\nHit Marker: Displays 'combo', showing the number of consecutive hits in 3 seconds, as well as the total damage and duration of the combo. A great addition to the Damage Meter.\nSafety Scanner: Shows the spawn rate of mobs as the average number of spawns per second (for example, 1/600 spawn rate => approximately 0.1 spawns per second). Sold by Skeleton Merchant during Blood Moon or Solar Eclipse, as well as in most underground biomes.\nRSH Rater: Combination of Smart Heart, Impact Marker and Security Scanner.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "3be44f04-20a6-4c67-925e-5969c8b61d12",
+        "type_id": "4",
+        "name": "Paper Mario Badges",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/paper_mario_badges/paper_mario_badges.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/paper_mario_badges/paper_mario_badges.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/paper_mario_badges/paper_mario_badges.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"Paper Mario Badges\" is a modification for tModLoader that adds 24 badges from the Paper Mario series to the game. Unlock new ways to personalize and upgrade your character with unique badges, each with their own characteristics and abilities.\n\nThis modification expands the Terraria game world by introducing elements from the popular Paper Mario series. Badges play a key role in strengthening your character and giving him new abilities. Here are some of the mod's features:\n\nExpansion of the arsenal of icons: \"Paper Mario Badges\" adds 24 unique badges from the Paper Mario universe, giving players more options to customize their character to suit their playstyle.\nUnique Icon Slots: Badges are equipped like accessories, but they have their own slots, allowing players free control over their abilities and strategies.\nBadge Point System (BP): Each badge requires a certain number of Badge Points (BP) to equip. Start with 3 BP and get 3 more after defeating certain bosses.\nVarious ways to earn badges: Badges can be obtained as drops from enemies, purchased in stores, or created using recipes.\nUpdate - Version 0.4:\n\nFixed Power Rush and Mega Rush damage bonuses not actually working.\nUpdate - Version 0.3:\n\nAdded Flower Saver, Mega Rush, Lucky Day and FP Drain.\nChanged activation of Power Rush when HP is below 25%, instead of 10%.\nFixed Refund working with items installed in the world.\nUpdate - Version 0.2:\n\nAdded HP Plus, FP Plus, HP Drain and Power Rush.\nFixed Happy Flower healing every 5 seconds instead of 30.\nFixed quick equip allowing only the first icon to be changed, which could result in equipping an icon with more BP than you had.\nUpdated workshop icon.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "58bc3526-af3b-48f6-a795-61a130aaa804",
+        "type_id": "4",
+        "name": "Mikesanda's Bleach",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mikesandas_bleach/mikesandas_bleach.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mikesandas_bleach/mikesandas_bleach_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mikesandas_bleach/mikesandas_bleach_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mikesandas_bleach/mikesandas_bleach_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/mikesandas_bleach/mikesandas_bleach.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Dive into the wonderful world of the Bleach anime with Mikesanda's Bleach Mod for tModLoader! Travel through the dark world of souls, upgrade your character and fight powerful enemies with your friends in multiplayer mode!\n\nMikesanda's Bleach Mod is an exciting addition to your Terraria gaming experience, inspired by the popular anime Bleach. Unique progression opportunities and exciting battles with powerful opponents await you.\n\nFeatures:\n\nMultiplayer support: Share exciting adventures with friends as you unite in the fight against dark forces.\nProgression of Shinigami and Hollow: Your character can become a powerful soul hunter or a dangerous Hollow depending on your actions.\nUnique weapons and spells: Discover two unique Zanpakutou and two Kido spells with custom animations and unlock conditions.\nPowerful Abilities: Unlock and use special abilities for each race, giving your character unique abilities.\nNew enemies and NPCs: Fight five new enemies and meet one new NPC on your path to victory.\nNotes:\n\nTo support progression, it is recommended to use Recipe Browser mod.\nSome mods, such as WeaponOut and Terraria Overhaul, may not be compatible with this mod.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "4b862863-1b1c-4bf7-b8fa-484bfc3f0b76",
+        "type_id": "4",
+        "name": "Expanded Terraria",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria_07.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria_08.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria_09.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/expanded_terraria/expanded_terraria.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Expanded Terraria is a mod that greatly expands the core Terraria experience, adding many new items and changes to improve progression in the game.\n\n\"Expanded Terraria\" is a unique addition to the classic Terraria gameplay, bringing a huge number of new items and changes for a deeper and more engaging gaming experience.\n\nFeatures:\n\nNew weapons: Expand your arsenal with new types of weapons designed for a variety of combat situations.\nAdditional items: Discover many new items and accessories to help you on your journey through the world of Terraria.\nAdditional features: Enjoy new features such as new NPC drops, NPC shops, chests, loot bags, starting items, fishing loot and more!\nFuture updates: Please keep in mind that this modification is in an early stage of development and many aspects of Hardmode have not yet been explored. However, in the future, this modification will significantly improve the progression of the game as a whole!\nNotes:\n\nAt the moment, 246 new items have already been added to the modification, as well as many other changes.\nExpect even more new features and improvements in future updates!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "5477edb2-9427-4861-b954-7049e7d7a3bc",
+        "type_id": "4",
+        "name": "Shovel Knight Fairies",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shovel_knight_fairies/shovel_knight_fairies.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shovel_knight_fairies/shovel_knight_fairies.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/shovel_knight_fairies/shovel_knight_fairies.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Bring some of the magic of the world of Terraria with the Shovel Knight Fairies mod, which adds over a dozen new pets from Shovel Knight: Treasure Trove. Bring to life familiar characters as classic 8-bit fairies, just like in the Nintendo versions of the game.\n\nNew pets: The modification adds more than a dozen new pets representing characters from Shovel Knight: Treasure Trove, each with their own unique appearance and character.\nInspiration from the 8-bit world: Shovel Knight Fairies pets recreate the classic style of 8-bit fairies found in the Nintendo versions of Shovel Knight: Treasure Trove.\nMaking a summon item: To summon pets, you need to combine a feyling with 5 iron or lead ingots on an anvil. You can switch between different pets by transmuting them in radiance.\nMod configuration: Explore the mod's settings to see what pets Shovel Knight Fairies offers. You can enable or disable each of them as you wish, with the exception of Shavelight itself.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "97cd4cc7-98a9-4a45-b7c9-648998992bfa",
+        "type_id": "4",
+        "name": "Cars And Vehicles",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cars_and_vehicles/cars_and_vehicles.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cars_and_vehicles/cars_and_vehicles_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cars_and_vehicles/cars_and_vehicles_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cars_and_vehicles/cars_and_vehicles_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/cars_and_vehicles/cars_and_vehicles.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Dive into the world of Terraria with the new Cars And Vehicles Mod! Embark on exciting adventures in unique vehicles and feel the adrenaline of racing in your favorite locations.\n\nThe Cars And Vehicles Mod is an exciting addition to the world of Terraria, featuring a variety of cars and even a special NPC merchant to purchase them from. Travel through the world of Terraria in fast and powerful vehicles, conquer distant corners and fight bosses in the style of racing champions.\n\nHow to get cars:\n\nPrepare 5 gold coins and a vacant home for the NPC merchant.\nOnce settled, the dealer will begin selling a variety of vehicles, starting with the reputable Toyota. Defeating Eater of Worlds or Brain of Cthulhu will unlock the next car, the Mazda.\nCar capabilities:\n\nCars deal contact damage to mobs proportional to the speed and weight of the vehicle.\nWeight and maximum speed/acceleration are based on actual data, where applicable.\nHeavier and larger vehicles increase your defense and reduce knockback from impacts.\nCars can jump to make moving around the world of Terraria easier and more usable.\nNotes:\n\nIt is planned to add new cars in future updates.\nSome cars can be added depending on the artist's wishes.\nv0.4: Added Datsun Cherry, Nissan Silvia S14 and Porsche 911 (1990s), new speed calculations and new sounds!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "566a27cc-a9cf-401e-83ee-b696203d3a33",
+        "type_id": "4",
+        "name": "Better Caves",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_caves/better_caves.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_caves/better_caves_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_caves/better_caves_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_caves/better_caves_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_caves/better_caves_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_caves/better_caves_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_caves/better_caves_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_caves/better_caves_07.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/better_caves/better_caves.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Better Caves is a modification created to improve the initial mining experience in Terraria by adding new underground features and making the caves more open. We hope that it will bring back the feeling of exciting cave exploration and make it easier to access loot :)\n\nBetter Caves is the key to an exciting exploration of the underground world of Terraria. Here are a few features that make this experience truly exciting:\n\nFeatures:\n\nThree new cave formations:\nChasm: Straight drop with jagged edges that can be used for climbing and descending.\nRift: A diagonal \"diamond-shaped\" cave covering a large area.\nChamber: Quite rare, can be used to create underground villages, farms and much more.\nTwo new types of traps:\nPressure Traps: Push the player/enemies upward when activated and can be manipulated with a hammer to change direction. Often appear in caves with high ceilings.\nGravity Traps: Change the gravity of surrounding players until they collide with the ceiling or find a way to stop. Rarely appear in the surrounding area or in the underworld.\nThree new accessories inspired by items from Risk of Rain 2: Found in chests from granite, marble and mushroom biomes, they will add new unique abilities and abilities to your character.\nNatural appearance of platforms in caves: You can now discover platforms naturally in caves, making exploration more convenient and fun.\nSetting the frequency of appearance of caves and traps: You can easily customize the spawn frequency of caves and traps using configuration files.\nAbility to set preferences for traps: If you particularly like traps, you can customize the mod to make even more of them appear!\nThe Better Caves mod should be compatible with any other mods, but we highly recommend using it in conjunction with the Orchid Mineshaft mod for an even more immersive gaming experience.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "3a38b6e4-0f26-4b57-bf3a-c366609f9e48",
+        "type_id": "4",
+        "name": "Unofficial Calamity Bard & Healer",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/unofficial_calamity_bard_and_healer/unofficial_calamity_bard_and_healer.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/unofficial_calamity_bard_and_healer/unofficial_calamity_bard_and_healer_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/unofficial_calamity_bard_and_healer/unofficial_calamity_bard_and_healer_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/unofficial_calamity_bard_and_healer/unofficial_calamity_bard_and_healer_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/unofficial_calamity_bard_and_healer/unofficial_calamity_bard_and_healer.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Take on the challenge and unlock new capabilities in battle with the “Unofficial Calamity Bard & Healer” modification for tModLoader. Inspired by the Calamity mod, this mod adds the bard and healer classes to the game, expanding your arsenal and giving you new ways to face the challenges of the world of Terraria.\n\nUnofficial Calamity Bard & Healer offers unique and exciting additions to your game based on the Bard and Healer classes from the Calamity mod. Here's what awaits you:\n\nFeatures:\n\nCalamity Armor Sets for Bard and Healer: Introduced Bard and Healer armor sets including Aerospec, Statigel, Daedalus, Hydrothermic, Tarragon, Bloodflare, Silva, Auric Tesla to enhance your defense and unique abilities.\nBard weapon with a creation tree similar to Ark of the Cosmos: Gain access to unique weapons that offer a variety of strategic options to suit your playstyle.\nElemental weapons and accessories for the healer: New items have been added that give your healer unique abilities and capabilities in battle.\nBard talisman equivalent: New items that give your bard additional capabilities and strength in battle.\nNew braid variation: The appearance of heavy scythes in the game, with unique characteristics and abilities.\nInteraction with other mods:\n\nThe modification allows you to interact with other mods, including Ragnarok Mod, Thorium and Calamity Convergence Mod, providing balance and harmony in the gameplay.\nIntegration with the Thorium Bosses Reworked mod offers changes to the behavior of Thorium bosses, providing more fun battles and integration with Calamity and Fargo.\nNotes:\n\nRemember that Thorium and Calamity are required for the modification to work. Get ready for new challenges and exciting adventures in the world of Terraria with Unofficial Calamity Bard & Healer!",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "e9c64c51-8990-42da-9dbf-08365c53f6a1",
+        "type_id": "4",
+        "name": "Potion Fountains",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/potion_fountains/potion_fountains.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/potion_fountains/potion_fountains_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/potion_fountains/potion_fountains_02.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/potion_fountains/potion_fountains.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Dive into the magical world of Terraria with the 'Potion Fountains' mod, which adds fountains to almost every potion and flask in the game. They provide appropriate buffs to players up close and can be toggled on or off by right-clicking or using wires.\n\nIntroducing Potion Fountains, a unique modification for Terraria that brings a new level of magic and comfort to your gaming world. Here are some features and advantages of using this modification:\n\nFeatures:\n\nPotions Fountains: Adds fountains to almost every potion and flask in the game, allowing players to easily gain buffs without having to constantly use potions.\nSpecialized Buffs: Each fountain provides a buff corresponding to its potion, allowing players to gain the properties they need quickly and efficiently.\nControl: Fountains can be turned on or off by simply right-clicking or using wires, giving players complete control over their use.\nAdvantages:\n\nConvenience and Efficiency: Thanks to potion fountains, players can get the buffs they need without having to constantly use potions.\nCustomization: The ability to change the amount of materials and other conditions for creating fountains in the mod settings allows you to customize the gaming experience to suit your preferences.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "2e668cf5-ebed-4c71-b67c-9bcdb319cacc",
+        "type_id": "4",
+        "name": "ARSENAL — Weapons expansion",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion_07.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion_08.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion_09.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/arsenal_weapons_expansion/arsenal_weapons_expansion.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "\"ARSENAL - Weapons Expansion\" is a harmonious addition to the standard weapon selection, expanding a variety of weapon categories throughout the game in a variety of ways.\n\nNow you have almost 300 new items at your disposal, and most of them are weapons. Perhaps this creates the potential for content overload? Perhaps, but it does give you plenty of options (almost 75% more!) to choose from at each stage of standard progression, and perhaps stick to a specific weapon subclass (like short swords) throughout the game!\n\nARSENAL: Introduces into the Game:\n\nAlmost 300 new items, mostly weapons.\nFriendly to original content, giving you a \"vanilla plus\" experience.\nFlamethrowers and Grenade Launchers before Hardmode!\nShort swords in hardmode! Now also with rapiers!\nEight equipment options for the Moon Pillars and many additional drops from the Moon Lord.\nTerra Bow, Staff and Whip!\nCounterpartners Zenith!\nTerraprisma counter-partners!\nExclusive weapons for Master Mode; bosses can drop special weapons in this mode.\nWarlord and Moon Lord are excluded from the above and instead drop a token to create your chosen loot.\nNumber of Weapons:\n\n12 Boomerangs\n17 Bows/Repeaters\n12 Darts (also 6 new darts)\n16 Chains\n13 Flamethrowers (with pre-hardmode content)\n15 Firearms\n11 Grenade Launchers (with pre-hardmode content)\n12 Magic Firearms\n6 Henchmen\n17 Watchtowers\n25 Short Swords (with Hardmode content)\n9 copies\n25 Posokhov\n11 of Swords\n15 Volumes\n20 Khlystov\n10 Yo-yo\n7 Different melee weapons\n10 Different Magic Weapons\n4 Different shooting weapons\n11 Accessories\n18 Other miscellaneous items",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "44db2d56-a4a4-4f16-91ef-cf9cb87e7c33",
+        "type_id": "4",
+        "name": "Simply Mouseholes",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/simply_mouseholes/simply_mouseholes.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/simply_mouseholes/simply_mouseholes_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/simply_mouseholes/simply_mouseholes_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/simply_mouseholes/simply_mouseholes_03.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/simply_mouseholes/simply_mouseholes.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Simple and unpretentious, the \"Simply Mouseholes\" mod for tmodloader brings a little life to your towns and villages by adding mouse holes from which regular mice emerge! Check out its features and pleasant bonuses!\n\nAppearance of Mouse Minks:\nCheck for at least one NPC in a nearby location.\nPlayer Walls:\nMouseholes only appear on player-placed walls that meet the housing standards.\nActive Appearances:\nMouse holes spawn mice when the player is nearby!\nEasy Removal:\nMouseholes are destroyed when mined, but can also be created with two mice on a workbench.\nAnd Bonus:\n\nStinky Cheese (gives the “Smelly” buff):\nNPCs can't stand it! Mice love it! Try it yourself...\nFuture plans:\n\nAdding an NPC\nPresentation of the Hostile Rat\nMaking a Mouse Flag\nDevelopment of Cheese Block and Furniture Set\nIntroducing a Mousetrap Item to Stop Spawning\nInteraction with NPC Cat?\nOther Appearances of Surrounding Creatures? Birds, Butterflies, etc.\nAdditional Information:\n\nMouseholes can spawn up to 2 radius in a good area around NPCs to prevent spawn spam.\nThe check is performed every 10 minutes with a 25% chance.\nMice drop cheese with a 10% chance (eat it!)\nIf you want to spam mouse holes, just create them with two mice on the workbench.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "b712b800-2d47-4515-a190-12db48f6fdce",
+        "type_id": "4",
+        "name": "AFK's PETS and more",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/afks_pets_and_more/afks_pets_and_more.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/afks_pets_and_more/afks_pets_and_more_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/afks_pets_and_more/afks_pets_and_more_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/afks_pets_and_more/afks_pets_and_more_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/afks_pets_and_more/afks_pets_and_more_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/afks_pets_and_more/afks_pets_and_more_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/afks_pets_and_more/afks_pets_and_more_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/afks_pets_and_more/afks_pets_and_more_07.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/afks_pets_and_more/afks_pets_and_more.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "AFK's PETS and more is a large-scale content mod for the popular indie game Terraria, developed for tModLoader. This mod will diversify your game with unique pets, weapons, NPCs and other interesting elements.\n\nMain Features:\nPets: More than 500 different pets to accompany you on your journey.\nWeapon: over 400 unique types of weapons for any fighting style.\nSubclasses and occupations: Inclusion of new subclasses such as transformations, bats, and active summons.\nBosses and mini-bosses: 6 bosses and 13 mini-bosses for additional challenges.\nNPCs and city residents: More than 15 different NPCs, including townspeople and travelers, as well as unique NPCs for mini-games.\nFarming and fishing extensions: New features and items to enhance your experience in these caring crafts.\nVisual and functional additions: pieces of furniture, paintings and placeable objects for decoration and functionality.\nNew mechanics: mini structures for industrial needs, disassembler and much more.\nCleaning tools: A new type of tool that increases production from crops, plants and pots.\nSpecial prefixes: Adds additional abilities to weapons.\nArcade machines: Possibility to play games such as minesweeper, sokoban and thin ice (more games are planned to be added).\nSupport Calamity Mod and Weapons Out mod: integration with other popular mods for Terraria.\nUnique mechanics: Changing NPC names, accessing the wiki directly in the game, turning any creature into your pet and many other innovations.\nNote:\nIt is important to disable bosses in the mod's configuration if you plan to use it in a multiplayer game - bosses are not currently supported in MP.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "0b597d10-600b-41e5-9cbe-a37aca06beb9",
+        "type_id": "4",
+        "name": "Yoyos+ Mod Redux mod",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yoyos_mod_redux_mod/yoyos_mod_redux_mod.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yoyos_mod_redux_mod/yoyos_mod_redux_mod_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yoyos_mod_redux_mod/yoyos_mod_redux_mod_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yoyos_mod_redux_mod/yoyos_mod_redux_mod_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yoyos_mod_redux_mod/yoyos_mod_redux_mod_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yoyos_mod_redux_mod/yoyos_mod_redux_mod_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yoyos_mod_redux_mod/yoyos_mod_redux_mod_06.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/yoyos_mod_redux_mod/yoyos_mod_redux_mod.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Yoyos+ Mod Redux is a return and enrichment of a classic Terraria mod, introducing new yo-yos and mechanics such as tricks and updates to vanilla yo-yos into your game world. The reworked version of the mod from 2017, numbered 1.4, brings a fresh gaming experience, maintaining the love for this weapon.\n\nWhat does the mod include:\n\nUpdated Vanilla Yo-Yos: Stronger and more interesting versions of the original Terraria yo-yos.\n+25 New Yo-Yos: Each with its own unique characteristics and style.\n+3 New Accessories: Improvements and additions for your new yo-yos.\n+1 New Phishing Crate: adds new items and gear for fishing.\n+6 New Tricks: Unique and interesting features that make playing with the yo-yo even more fun.\nNew: Tricks\n\nThree Level Perk System:\nLevel 1: Simple perks available without accessories.\nLevel 2: Hardmode perks that require Yo-Yo Bags to use.\nLevel 3: Hardmode perks that require Yo-Yo Soul to use.\nNo Limits on Fixing Tricks: At the moment although the quantity is large, there is no limit on use, this may change in the future to prevent abuse.\nCooldown: Once performed, each trick has a delay before being used again.\nVanilla Yo-Yo Updates\n\nMarking and Description: All modified yo-yos are marked with a (+) sign and a detailed description of the changes.\nSetting via Configuration Mod: ability to enable or disable vanilla yo-yos in combinations with the mod.\nExample:\n\nWooden Yo-Yo: Can now cut enemies into pieces, causing additional damage.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
+        "id": "495e0eca-680b-417e-ae59-b0f10fc2f488",
+        "type_id": "4",
+        "name": "Journey's Trend: The Community Vanity",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/journeys_trend_the_community_vanity/journeys_trend_the_community_vanity.png",
+        "images_url": [
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/journeys_trend_the_community_vanity/journeys_trend_the_community_vanity_01.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/journeys_trend_the_community_vanity/journeys_trend_the_community_vanity_02.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/journeys_trend_the_community_vanity/journeys_trend_the_community_vanity_03.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/journeys_trend_the_community_vanity/journeys_trend_the_community_vanity_04.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/journeys_trend_the_community_vanity/journeys_trend_the_community_vanity_05.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/journeys_trend_the_community_vanity/journeys_trend_the_community_vanity_06.png",
+            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/journeys_trend_the_community_vanity/journeys_trend_the_community_vanity_07.png"
+        ],
+        "difficulty": {
+            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/journeys_trend_the_community_vanity/journeys_trend_the_community_vanity.tmod",
+            "1": "",
+            "2": "",
+            "3": ""
+        },
+        "author_name": "unknown",
+        "description": "Welcome to the wonderful world of Journey's Trend: The Community Vanity Mod. This mod was a great display of creativity and style, inspired by many of the participants in the great competition. We've brought together unique designs, giving each one new life so you can enjoy the beauty and originality of your personalized adventures.\n\nMany Participants, Countless Variations: Over 7,000 contributors contributed to this mod, creating an endless variety of designs to ensure there is something special for every player.\nCreative Variety: The selected participants, including 17 finalists, became the soul of the mod, giving it uniqueness and vibrancy.\nUnique Ways to Receive: Each set has its own unique path to obtain, creating exciting tasks and challenges for players.\nStyle Merchant: Meet a new merchant who is ready to offer you the missing kits. Its range is updated, maintaining interest and intrigue.\nEpic Battle for Style: Take on the “master brain of all horror” challenge to unlock unique kits and add a new chapter to your stylistic story.",
+        "size": "",
+        "tags": [
+            "15"
+        ],
+        "hot_priority": "1",
+        "download_count": "0",
+        "createTime": "2024-03-016 22:14:30.089"
+    },
+    {
         "id": "b5443a1c-f231-4813-a4eb-078d068ea053",
         "type_id": "4",
         "name": "Calamity Overhaul mod",
@@ -430,7 +1800,7 @@
         "id": "52c27185-ad55-4046-95cd-3f7d33f8c840",
         "type_id": "4",
         "name": "One Piece",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/One Piece/one_piece.png",
+        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/one_piece/one_piece.png",
         "images_url": [
             "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/one_piece/one_piece.png"
         ],
