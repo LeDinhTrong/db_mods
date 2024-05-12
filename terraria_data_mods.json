@@ -3553,34 +3553,6 @@
         "createTime": "2024-03-016 22:14:30.089"
     },
     {
-        "id": "070bef33-340e-432c-9a49-7283b27aaf79",
-        "type_id": "4",
-        "name": "Spirit Mod",
-        "thumbnail_url": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spirit_mod/spirit_mod.png",
-        "images_url": [
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spirit_mod/spirit_mod_01.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spirit_mod/spirit_mod_02.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spirit_mod/spirit_mod_03.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spirit_mod/spirit_mod_04.png",
-            "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spirit_mod/spirit_mod_05.png"
-        ],
-        "difficulty": {
-            "0": "https://raw.githubusercontent.com/LeDinhTrong/db_mods/master/spirit_mod/spirit_mod.tmod",
-            "1": "",
-            "2": "",
-            "3": ""
-        },
-        "author_name": "unknown",
-        "description": "Spirit Mod is one of the most popular third-party mods for the game Terraria, which adds many new features, items and bosses to the game. It is created by the Terraria player community and contains a large amount of content that can enhance the gameplay and add new features for players.\n\nNew biomes and locations — the mod adds new biomes and locations to the game, such as the foggy swamp, the garden kingdom and others. Each biome contains unique items and creatures that can be used by the player.\nNew items and equipment - the mod adds many new items and equipment that can be used by the player. Some of them can only be obtained in certain biomes or through boss battles.\nNew bosses - The mod adds several new bosses to the game that can be summoned and fought. Each boss has its own unique attacks and items that can be obtained when defeating it.\nImproved interface — the mod contains an improved interface with a large number of settings and options that can be customized to suit your needs.\nMany other features - The mod also adds many other features such as new NPCs, quests and much more.\n1401 new items!\n41 new armor sets!\n8 new bosses!\n3 brand new biomes: Spirit, Asteroid Field and Briar Rose!\nComplete rework of the Ocean biome!\nA completely new quest system!\n255 new enemies and mini-bosses!\n3 new events: Tide, Helium Flood and Mystic Moon!\nNew weapon enchantment system!\n34 brand new music tracks for vanilla and modified events and biomes! ...and much more to discover!\nFeaturing a variety of bosses, biomes, weapons, events and mechanics, Spirit is one of the largest content mods for Terraria. Spirit has been developed by a team of enthusiastic modders since 2015 with the goal of expanding the vanilla experience and breathing new immersive life into your world. Since then, the mod has continued to grow and evolve, with over 3 million downloads in its lifetime on version 1.3.5. After another long update, Spirit is ready to take on the challenge of version 1.4.4 and show what it can do in the future.",
-        "size": "",
-        "tags": [
-            "15"
-        ],
-        "hot_priority": "1",
-        "download_count": "0",
-        "createTime": "2024-03-016 22:14:30.089"
-    },
-    {
         "id": "26d8417a-26dd-4596-9424-83a4d8047ad6",
         "type_id": "4",
         "name": "Mod Marks",
